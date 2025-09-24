@@ -428,17 +428,80 @@ class QuizGenerator {
     }
 }
 
-// Initialize when DOM is ready
-document.addEventListener('DOMContentLoaded', () => {
-    // Only initialize if we're on the test screen
-    if (window.location.hash === '#testScreen') {
-        window.quizGenerator = new QuizGenerator();
-    }
-});
+// Export QuizGenerator class for external initialization
+export { QuizGenerator };
 
-// Also initialize when navigating to test screen
-window.addEventListener('hashchange', () => {
-    if (window.location.hash === '#testScreen' && !window.quizGenerator) {
-        window.quizGenerator = new QuizGenerator();
+// Initialize quiz generator function for external control
+export async function initializeQuizGenerator() {
+    try {
+        // Ensure DOM is ready
+        if (document.readyState === 'loading') {
+            await new Promise(resolve => {
+                document.addEventListener('DOMContentLoaded', resolve, { once: true });
+            });
+        }
+
+        // Create quiz generator instance
+        const quizGenerator = new QuizGenerator();
+
+        // Store globally for other scripts
+        window.quizGenerator = quizGenerator;
+
+        console.log('✅ Quiz Generator initialized and ready');
+        return quizGenerator;
+
+    } catch (error) {
+        console.error('❌ Quiz Generator initialization failed:', error);
+        throw error;
     }
-});
+}
+
+// Create and export readiness promise
+export const quizGeneratorReady = (async () => {
+    try {
+        const instance = await initializeQuizGenerator();
+
+        // Register with module manager if available
+        if (window.moduleManager) {
+            window.moduleManager.registerModule('new-quiz-generator', instance);
+        }
+
+        return instance;
+    } catch (error) {
+        // Register error with module manager if available
+        if (window.moduleManager) {
+            window.moduleManager.registerModuleError('new-quiz-generator', error);
+        }
+        throw error;
+    }
+})();
+
+// Legacy support: Auto-initialize if navigated directly to test screen
+// This maintains backward compatibility but will be controlled by UI manager
+if (typeof window !== 'undefined') {
+    const handleLegacyNavigation = async () => {
+        // Only auto-initialize if we're directly on test screen and no quiz generator exists
+        if (window.location.hash === '#testScreen' && !window.quizGenerator) {
+            try {
+                await quizGeneratorReady;
+            } catch (error) {
+                console.error('Legacy navigation initialization failed:', error);
+            }
+        }
+    };
+
+    // Check on load and hash changes (with debouncing)
+    let navigationTimeout;
+    const debouncedNavigation = () => {
+        clearTimeout(navigationTimeout);
+        navigationTimeout = setTimeout(handleLegacyNavigation, 100);
+    };
+
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', debouncedNavigation, { once: true });
+    } else {
+        debouncedNavigation();
+    }
+
+    window.addEventListener('hashchange', debouncedNavigation);
+}

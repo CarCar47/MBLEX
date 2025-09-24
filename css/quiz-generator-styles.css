@@ -633,3 +633,200 @@
     border-color: #3b82f6;
     box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.2);
 }
+
+/* Loading Spinner Styles - Modern 2025 Design */
+.loading-spinner-inline {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    border: 2px solid #f3f3f3;
+    border-top: 2px solid #667eea;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    margin-right: 8px;
+}
+
+.loading-spinner {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border: 4px solid #f3f3f3;
+    border-top: 4px solid #667eea;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    margin: 20px auto;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Quiz Generator Loading States */
+.quiz-setup-loading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 20px;
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 12px;
+    margin: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.quiz-setup-loading h3 {
+    margin-top: 16px;
+    color: #2c3e50;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.quiz-setup-loading p {
+    color: #6b7280;
+    margin: 8px 0 0 0;
+    text-align: center;
+    line-height: 1.4;
+}
+
+/* Progress Indicator */
+.loading-progress {
+    width: 100%;
+    max-width: 300px;
+    height: 6px;
+    background-color: #e5e7eb;
+    border-radius: 3px;
+    overflow: hidden;
+    margin: 16px 0;
+}
+
+.loading-progress-bar {
+    height: 100%;
+    background: linear-gradient(90deg, #667eea, #764ba2);
+    border-radius: 3px;
+    transition: width 0.3s ease;
+    animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.7; }
+}
+
+/* Skeleton Loading for Quiz Elements */
+.skeleton {
+    background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+    background-size: 200% 100%;
+    animation: loading 1.5s infinite;
+}
+
+.skeleton-topic-btn {
+    height: 42px;
+    border-radius: 21px;
+    margin: 5px;
+    display: inline-block;
+    width: 120px;
+}
+
+.skeleton-question {
+    height: 20px;
+    border-radius: 4px;
+    margin: 8px 0;
+}
+
+.skeleton-choice {
+    height: 50px;
+    border-radius: 8px;
+    margin: 8px 0;
+}
+
+@keyframes loading {
+    0% { background-position: -200% 0; }
+    100% { background-position: 200% 0; }
+}
+
+/* Error States */
+.quiz-error-state {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 20px;
+    background: rgba(254, 242, 242, 0.9);
+    border: 2px solid #fecaca;
+    border-radius: 12px;
+    margin: 20px;
+    text-align: center;
+}
+
+.quiz-error-state .error-icon {
+    font-size: 3rem;
+    margin-bottom: 16px;
+}
+
+.quiz-error-state h3 {
+    color: #dc2626;
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+.quiz-error-state p {
+    color: #7f1d1d;
+    margin-bottom: 20px;
+    line-height: 1.4;
+}
+
+.retry-button {
+    background: #dc2626;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.retry-button:hover {
+    background: #b91c1c;
+}
+
+.retry-button:disabled {
+    background: #9ca3af;
+    cursor: not-allowed;
+}
+
+/* Module Loading Feedback */
+.module-status {
+    font-family: 'Courier New', monospace;
+    font-size: 12px;
+    background: #1f2937;
+    color: #10b981;
+    padding: 12px 16px;
+    border-radius: 6px;
+    margin: 16px 0;
+    max-height: 120px;
+    overflow-y: auto;
+    white-space: pre-line;
+    border-left: 4px solid #10b981;
+}
+
+/* Responsive adjustments for loading states */
+@media (max-width: 768px) {
+    .quiz-setup-loading,
+    .quiz-error-state {
+        margin: 10px;
+        padding: 24px 16px;
+    }
+
+    .loading-progress {
+        max-width: 250px;
+    }
+
+    .skeleton-topic-btn {
+        width: 100px;
+        height: 38px;
+    }
+}

@@ -79,11 +79,7 @@ class UIManager {
 
         if (this.elements.buttons.test) {
             this.elements.buttons.test.addEventListener('click', () => {
-                this.navigateToScreen('testScreen');
-                // Audio manager will handle not restarting if already in this section
-                if (window.audioManager) {
-                    window.audioManager.startMusicForSection('test');
-                }
+                this.navigateToTestScreen();
             });
         }
 
@@ -138,6 +134,135 @@ class UIManager {
                 this.showScreen(event.state.screen, false);
             }
         });
+    }
+
+    /**
+     * Navigate to test screen with module loading checks
+     * Implements 2025 best practices for module readiness verification
+     */
+    async navigateToTestScreen() {
+        console.log('🎯 Attempting to navigate to test screen...');
+
+        // Check if module manager is available
+        if (!window.moduleManager) {
+            console.warn('⚠️ Module manager not available, falling back to direct navigation');
+            this.navigateToScreen('testScreen');
+            return;
+        }
+
+        try {
+            // Show immediate loading feedback
+            this.showTestScreenLoadingState();
+
+            // Wait for all critical modules to be ready
+            const moduleResults = await window.moduleManager.getAllCriticalModulesReady();
+
+            if (moduleResults.allSuccessful) {
+                console.log('✅ All modules ready, navigating to test screen');
+
+                // Navigate to test screen
+                this.navigateToScreen('testScreen');
+
+                // Start audio for test section
+                if (window.audioManager) {
+                    window.audioManager.startMusicForSection('test');
+                }
+
+                // Clear any loading states
+                this.clearTestScreenLoadingState();
+
+            } else {
+                console.warn('⚠️ Some modules failed to load:', moduleResults.failed);
+
+                // Show error state with retry option
+                this.showTestScreenErrorState(moduleResults);
+            }
+
+        } catch (error) {
+            console.error('❌ Failed to navigate to test screen:', error);
+            this.showTestScreenErrorState({
+                allSuccessful: false,
+                failed: [{ name: 'unknown', error }],
+                successful: [],
+                totalModules: 0
+            });
+        }
+    }
+
+    /**
+     * Show loading state for test screen navigation
+     */
+    showTestScreenLoadingState() {
+        const testButton = this.elements.buttons.test;
+        if (testButton) {
+            testButton.disabled = true;
+            testButton.innerHTML = `
+                <div class="loading-spinner-inline"></div>
+                Loading Quiz...
+            `;
+        }
+
+        // Show progress if possible
+        if (window.moduleManager) {
+            const progress = window.moduleManager.getLoadingProgress();
+            console.log(`📊 Module loading progress: ${progress}%`);
+
+            // You could update a progress bar here if one exists
+        }
+    }
+
+    /**
+     * Clear loading state for test screen
+     */
+    clearTestScreenLoadingState() {
+        const testButton = this.elements.buttons.test;
+        if (testButton) {
+            testButton.disabled = false;
+            testButton.innerHTML = `
+                <div class="card-icon">📝</div>
+                <div class="card-content">
+                    <h3 data-translate="test-title">Practice Tests</h3>
+                    <p data-translate="test-description">Take MBLEX practice exams</p>
+                </div>
+            `;
+        }
+    }
+
+    /**
+     * Show error state with retry option
+     */
+    showTestScreenErrorState(moduleResults) {
+        const testButton = this.elements.buttons.test;
+        if (testButton) {
+            testButton.disabled = false;
+            testButton.innerHTML = `
+                <div class="card-icon">⚠️</div>
+                <div class="card-content">
+                    <h3>Quiz Loading Failed</h3>
+                    <p>Click to retry</p>
+                </div>
+            `;
+
+            // Add retry functionality
+            const retryHandler = () => {
+                testButton.removeEventListener('click', retryHandler);
+                this.navigateToTestScreen();
+            };
+            testButton.addEventListener('click', retryHandler);
+        }
+
+        // Log detailed error information
+        if (moduleResults.failed && moduleResults.failed.length > 0) {
+            console.error('Failed modules:', moduleResults.failed.map(f => f.name).join(', '));
+        }
+
+        // Auto-retry after 3 seconds
+        setTimeout(() => {
+            if (window.moduleManager && !window.moduleManager.areAllCriticalModulesLoaded()) {
+                console.log('🔄 Auto-retrying module loading...');
+                this.navigateToTestScreen();
+            }
+        }, 3000);
     }
 
     /**

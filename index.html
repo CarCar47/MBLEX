@@ -27,6 +27,16 @@
     <link rel="stylesheet" href="css/styles.css?v=2025-content-display-layout-fix">
     <link rel="stylesheet" href="css/quiz-generator-styles.css">
     <link rel="stylesheet" href="css/offline-styles.css">
+
+    <!-- Module Preloading for Quiz Generator Performance -->
+    <link rel="modulepreload" href="js/question-bank.js">
+    <link rel="modulepreload" href="js/new-quiz-generator.js">
+    <link rel="modulepreload" href="js/questions/apk-questions.js">
+    <link rel="modulepreload" href="js/questions/application-massage.js">
+    <link rel="modulepreload" href="js/questions/assessment-diagnosis.js">
+    <link rel="modulepreload" href="js/questions/ethics-business-legal.js">
+    <link rel="modulepreload" href="js/questions/misc-massage.js">
+    <link rel="modulepreload" href="js/questions/pathology.js">
 </head>
 <body>
     <!-- Loading Screen -->
@@ -1015,6 +1025,7 @@
 
     <!-- Core JavaScript Files -->
     <script src="js/secure-storage.js"></script>
+    <script src="js/module-manager.js"></script>
     <script src="js/language-manager.js"></script>
     <script src="js/browser-translation.js"></script>
     <script src="js/audio-manager.js"></script>

@@ -68,3 +68,50 @@ export function getAllTopics() {
     const questions = getAllQuestions();
     return [...new Set(questions.map(q => q.topic))];
 }
+
+// Register with module manager when loaded
+if (typeof window !== 'undefined' && window.moduleManager) {
+    // Test question loading to ensure modules are working
+    try {
+        const testQuestions = getAllQuestions();
+        const testTopics = getAllTopics();
+
+        console.log(`📚 Question Bank ready: ${testQuestions.length} questions, ${testTopics.length} topics`);
+
+        // Register successful loading
+        window.moduleManager.registerModule('question-bank', {
+            getAllQuestions,
+            getAllTopics,
+            questionCount: testQuestions.length,
+            topicCount: testTopics.length
+        });
+    } catch (error) {
+        console.error('❌ Question Bank failed to load:', error);
+        if (window.moduleManager) {
+            window.moduleManager.registerModuleError('question-bank', error);
+        }
+    }
+} else {
+    // Module manager not available yet, set up delayed registration
+    const registerWhenReady = () => {
+        if (window.moduleManager) {
+            try {
+                const questions = getAllQuestions();
+                const topics = getAllTopics();
+                window.moduleManager.registerModule('question-bank', {
+                    getAllQuestions,
+                    getAllTopics,
+                    questionCount: questions.length,
+                    topicCount: topics.length
+                });
+            } catch (error) {
+                window.moduleManager.registerModuleError('question-bank', error);
+            }
+        } else {
+            // Try again in 100ms
+            setTimeout(registerWhenReady, 100);
+        }
+    };
+
+    setTimeout(registerWhenReady, 100);
+}
