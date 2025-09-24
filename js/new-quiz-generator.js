@@ -25,8 +25,8 @@ class QuizGenerator {
         this.init();
     }
 
-    init() {
-        this.loadAllQuestions();
+    async init() {
+        await this.loadAllQuestions();
         this.setupEventListeners();
         this.renderTopicButtons();
         this.updatePoolCount();
@@ -34,19 +34,34 @@ class QuizGenerator {
         console.log('✅ New Quiz Generator initialized with all question topics');
     }
 
-    loadAllQuestions() {
+    async loadAllQuestions(retryCount = 0) {
+        const MAX_RETRIES = 5;
+        const RETRY_DELAY = 500; // milliseconds
+
         try {
             // Load questions from embedded modules
             this.questionBank = getAllQuestions();
             this.allTopics = getAllTopics();
 
+            // If no questions loaded and we haven't exhausted retries, wait and retry
+            if (this.questionBank.length === 0 && retryCount < MAX_RETRIES) {
+                console.log(`⏳ No questions loaded, retrying in ${RETRY_DELAY}ms (attempt ${retryCount + 1}/${MAX_RETRIES})`);
+
+                return new Promise(resolve => {
+                    setTimeout(async () => {
+                        await this.loadAllQuestions(retryCount + 1);
+                        resolve();
+                    }, RETRY_DELAY);
+                });
+            }
+
             console.log(`🎯 Total questions loaded: ${this.questionBank.length}`);
             console.log(`📂 Available topics: ${this.allTopics.length}`);
             console.log('📋 Topics:', this.allTopics);
 
-            // Fallback if no questions loaded
+            // Fallback if no questions loaded after all retries
             if (this.questionBank.length === 0) {
-                console.warn('⚠️ No questions loaded, using fallback');
+                console.warn('⚠️ No questions loaded after retries, using fallback');
                 this.questionBank = [{
                     id: "fallback-1",
                     topic: "System Error",

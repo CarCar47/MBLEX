@@ -449,9 +449,8 @@ class AudioManager {
      * Load user preferences
      */
     loadUserPreferences() {
-        // Load mute preference securely
-        const savedMuted = window.secureStorage.getItem('audio-muted', false);
-        this.audioMuted = Boolean(savedMuted);
+        // Always start unmuted - user can manually mute if desired
+        this.audioMuted = false;
 
         // Load volume preference securely
         const savedVolume = window.secureStorage.getItem('audio-volume', 50);
