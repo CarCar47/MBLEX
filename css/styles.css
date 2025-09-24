@@ -2584,6 +2584,10 @@ p {
     margin-bottom: 2rem !important;
     text-align: center !important;
     flex: none !important;
+    word-wrap: break-word !important;
+    overflow-wrap: break-word !important;
+    white-space: normal !important;
+    max-width: 100% !important;
 }
 
 .content-body h2 {
