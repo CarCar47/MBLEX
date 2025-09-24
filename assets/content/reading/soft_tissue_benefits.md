@@ -12,8 +12,6 @@ As a massage therapist, understanding these effects allows you to:
 
 **Must-Know Tips:** This section connects directly to Pathology & Contraindications—understanding benefits helps you recognize when massage is most appropriate and when modifications are needed.
 
----
-
 ## A. Physiological Effects of Soft Tissue Manipulation
 
 Massage produces measurable, physical changes throughout the body's systems. These effects form the foundation of therapeutic massage practice:
@@ -56,8 +54,6 @@ Massage produces measurable, physical changes throughout the body's systems. The
 
 **Must-Know Tips:** Physiological effects are measurable and evidence-based. The MBLEx frequently tests your ability to match specific effects with the corresponding body systems.
 
----
-
 ## B. Psychological Effects of Soft Tissue Manipulation
 
 Massage significantly impacts mental and emotional well-being through both neurochemical and psychological mechanisms:
@@ -93,8 +89,6 @@ Massage significantly impacts mental and emotional well-being through both neuro
 - **Better emotional regulation**
 
 **Must-Know Tips:** Psychological effects are just as important as physical effects for client well-being. The MBLEx often tests how massage influences stress hormones and emotional states.
-
----
 
 ## C. Effects for Special Client Populations
 
@@ -138,8 +132,6 @@ Different populations experience unique benefits from massage, requiring adapted
 
 **Must-Know Tips:** Always adapt massage pressure, duration, and techniques based on the client's population group and individual needs. Special populations often require medical clearance.
 
----
-
 ## D. Soft Tissue Techniques & Sequencing
 
 Understanding massage strokes and their proper sequence is fundamental to effective treatment:
@@ -182,8 +174,6 @@ The standard progression follows the principle: **Light → Deep → Light**
 5. **End with effleurage or vibration** to calm and integrate the work
 
 **Must-Know Tips:** The massage sequence prepares tissues, provides treatment, and then soothes them. This progression prevents injury and maximizes therapeutic benefits.
-
----
 
 ## E. Hot/Cold Applications (Thermotherapy)
 
@@ -240,8 +230,6 @@ Temperature applications enhance massage effects through physiological responses
 - Warm the area gradually after treatment
 
 **Must-Know Tips:** Remember the simple rule—Heat for chronic conditions and stiffness, Cold for acute injuries and inflammation. Always check for contraindications before applying temperature therapy.
-
----
 
 ## F. Massage/Bodywork Modalities Overview
 
@@ -303,8 +291,6 @@ Different massage modalities serve specific therapeutic purposes:
 
 **Must-Know Tips:** Each modality has defining characteristics and specific applications. The MBLEx frequently asks you to identify modalities based on their primary techniques or intended outcomes.
 
----
-
 ## Assessment & Review
 
 ### Key Examination Focus Areas
@@ -352,7 +338,5 @@ Understanding benefits and effects enables you to:
 - **Ensure safety** through proper application
 
 **Must-Know Tips:** The Benefits and Effects domain connects directly to all other MBLEx areas. Master this section to improve your understanding of pathology, contraindications, and professional practices.
-
----
 
 *This content represents 15% of the MBLEx examination. Focus on understanding the mechanisms behind massage effects rather than just memorizing lists. This knowledge forms the foundation for safe, effective, and professional massage therapy practice.*
