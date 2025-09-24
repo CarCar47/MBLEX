@@ -1,7 +1,10 @@
 /**
  * New Quiz Generator - Functional MBLEX Quiz System
  * Based on the React JSX version - Clean, modern, and working
+ * Updated for Vercel compatibility with embedded questions
  */
+
+import { getAllQuestions, getAllTopics } from './question-bank.js';
 
 class QuizGenerator {
     constructor() {
@@ -22,8 +25,8 @@ class QuizGenerator {
         this.init();
     }
 
-    async init() {
-        await this.loadAllQuestions();
+    init() {
+        this.loadAllQuestions();
         this.setupEventListeners();
         this.renderTopicButtons();
         this.updatePoolCount();
@@ -31,83 +34,40 @@ class QuizGenerator {
         console.log('✅ New Quiz Generator initialized with all question topics');
     }
 
-    // Topic mapping from category IDs to user-friendly names
-    getCategoryMapping() {
-        return {
-            'anatomy_physiology_kinesiology_massage': 'Anatomy, Physiology & Kinesiology',
-            'application_of_massage': 'Application of Massage Therapy',
-            'assessment_diagnosis_massage': 'Assessment & Diagnosis',
-            'professionalism_ethics_business_legal': 'Ethics, Business & Legal',
-            'random_miscellaneous_therapeutic_massage': 'Miscellaneous Massage Topics',
-            'pathology_massage': 'Pathology & Contraindications'
-        };
-    }
+    loadAllQuestions() {
+        try {
+            // Load questions from embedded modules
+            this.questionBank = getAllQuestions();
+            this.allTopics = getAllTopics();
 
-    async loadAllQuestions() {
-        const questionFiles = [
-            { file: 'data/questions/apk-questions.json', name: 'APK Questions' },
-            { file: 'data/questions/application-massage.json', name: 'Application Massage' },
-            { file: 'data/questions/assessment-diagnosis.json', name: 'Assessment Diagnosis' },
-            { file: 'data/questions/ethics-business-legal.json', name: 'Ethics Business Legal' },
-            { file: 'data/questions/misc-massage.json', name: 'Miscellaneous Massage' },
-            { file: 'data/questions/pathology.json', name: 'Pathology' }
-        ];
+            console.log(`🎯 Total questions loaded: ${this.questionBank.length}`);
+            console.log(`📂 Available topics: ${this.allTopics.length}`);
+            console.log('📋 Topics:', this.allTopics);
 
-        this.questionBank = [];
-        const categoryMapping = this.getCategoryMapping();
-        let totalLoaded = 0;
-
-        console.log('📚 Loading all question files...');
-
-        for (const fileInfo of questionFiles) {
-            try {
-                console.log(`Loading ${fileInfo.name}...`);
-                const response = await fetch(fileInfo.file);
-                if (!response.ok) {
-                    throw new Error(`HTTP ${response.status}: ${response.statusText}`);
-                }
-                const questionsData = await response.json();
-
-                // Convert JSON format to quiz generator format
-                const processedQuestions = questionsData.map(q => ({
-                    id: q.id,
-                    topic: categoryMapping[q.category_id] || q.category_id,
-                    stem: q.question,
-                    choices: q.options,
-                    answer: q.correct,
-                    rationale: q.feedback,
-                    category_id: q.category_id
-                }));
-
-                this.questionBank.push(...processedQuestions);
-                totalLoaded += processedQuestions.length;
-                console.log(`✅ Loaded ${processedQuestions.length} questions from ${fileInfo.name}`);
-
-            } catch (error) {
-                console.error(`❌ Failed to load ${fileInfo.name}:`, error);
-                // Continue loading other files even if one fails
+            // Fallback if no questions loaded
+            if (this.questionBank.length === 0) {
+                console.warn('⚠️ No questions loaded, using fallback');
+                this.questionBank = [{
+                    id: "fallback-1",
+                    topic: "System Error",
+                    stem: "No questions could be loaded. Please check the embedded modules.",
+                    choices: ["Refresh the page", "Check console for errors", "Contact administrator", "Try again later"],
+                    answer: 0,
+                    rationale: "This is a fallback question when the question bank fails to load."
+                }];
+                this.allTopics = ["System Error"];
             }
-        }
-
-        // Update topics after loading all files
-        this.allTopics = [...new Set(this.questionBank.map(q => q.topic))];
-
-        console.log(`🎯 Total questions loaded: ${totalLoaded}`);
-        console.log(`📂 Available topics: ${this.allTopics.length}`);
-        console.log('📋 Topics:', this.allTopics);
-
-        // Fallback if no questions loaded
-        if (this.questionBank.length === 0) {
-            console.warn('⚠️ No questions loaded, using fallback');
+        } catch (error) {
+            console.error('❌ Failed to load embedded questions:', error);
             this.questionBank = [{
-                id: "fallback-1",
-                topic: "System Error",
-                stem: "No questions could be loaded. Please check the server and file paths.",
-                choices: ["Refresh the page", "Check network connection", "Contact administrator", "Try again later"],
+                id: "error-1",
+                topic: "Module Error",
+                stem: "Failed to import question modules. Please check the module system.",
+                choices: ["Refresh the page", "Check console for errors", "Contact administrator", "Try again later"],
                 answer: 0,
-                rationale: "This is a fallback question when the question bank fails to load."
+                rationale: "This indicates a problem with the JavaScript module imports."
             }];
-            this.allTopics = ["System Error"];
+            this.allTopics = ["Module Error"];
         }
     }
 

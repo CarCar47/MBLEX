@@ -1,0 +1,1803 @@
+export const pathologyQuestions = 
+[
+  {
+    "id": "path_q001",
+    "category_id": "pathology_massage",
+    "question": "Al sindrome patelofemoral se le define como:",
+    "options": [
+      "Una contractura o engrosamiento de la banda iliotibial.",
+      "Un cambio degenerativo y doloroso del cartilago articular en la parte inferior de la rotula.",
+      "Una disminucion en el arco longitudinal medial y una parte trasera del pie en pronacion.",
+      "Una contractura o engrosamiento de la banda iliotibial."
+    ],
+    "correct": 1,
+    "feedback": "Síndrome patelofemoral: dolor femororrotuliano por cambios degenerativos/condromalacia retropatelar.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q002",
+    "category_id": "pathology_massage",
+    "question": "Para obtener mejores resultados en el tratamiento del latigazo cervical en la etapa AGUDA, el terapeuta debe:",
+    "options": [
+      "Estirar ambos musculos esternocleidomastoideos simultaneamente",
+      "No incrementar drasticamente la frecuencia de la terapia de rango de movimiento",
+      "Enfocar el tratamiento unicamente en el cuello",
+      "Utilizar solamente la gama de movimientos pasivos"
+    ],
+    "correct": 1,
+    "feedback": "En fase aguda del latigazo: manejo suave, evitar aumentos drásticos en la frecuencia/intensidad de ROM.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q003",
+    "category_id": "pathology_massage",
+    "question": "La enfermedad de Still y la artritis reumatoide juvenil son artritis inflamatorias y se les define asi:",
+    "options": [
+      "Triada de artritis, conjuntivitis, uretritis no gonococica y en consecuencia el tracto intestinal o urinario se inflaman.",
+      "Enfermedad cronica destructiva autoinmune de multiples articulaciones y del tejido conectivo.",
+      "Trastorno autoinmune que afecta a todo el cuerpo esparciendo lentamente fibrosis y almacenamientos de colageno.",
+      "Enfermedad de la inflamacion sinovial en los menores."
+    ],
+    "correct": 3,
+    "feedback": "AR juvenil/Still: artritis inflamatoria de sinovial en menores; autoinmune sistémica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q004",
+    "category_id": "pathology_massage",
+    "question": "Las ulceras de decubito son lesiones cutaneas causadas por:",
+    "options": [
+      "Contacto directo con la piel durante la etapa vesicular.",
+      "Herpes del virus de la varicela.",
+      "La presion externa, escoriamiento o friccion forzada.",
+      "Infecciones por estafilococos o estreptococos."
+    ],
+    "correct": 2,
+    "feedback": "Úlceras por presión: compresión/fricción prolongada sobre prominencias óseas.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q005",
+    "category_id": "pathology_massage",
+    "question": "Una quemadura es un tipo de herida especifica y es causada por un agente termico, que clasificacion de quemadura afecta a la dermis y tambien a la epidermis?",
+    "options": [
+      "Primer grado.",
+      "Segundo grado.",
+      "Tercer grado.",
+      "Cuarto grado."
+    ],
+    "correct": 1,
+    "feedback": "Quemadura de 2.º grado: afecta epidermis y dermis; ampollas/dolor.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q006",
+    "category_id": "pathology_massage",
+    "question": "La fascitis plantar es una inflamacion de la aponeurosis plantar del pie y es causada por:",
+    "options": [
+      "Lesion por sobrecarga.",
+      "El padecimiento sistemico que provoca trastornos.",
+      "La disfuncion de la articulacion.",
+      "Lesion musculoesqueletica."
+    ],
+    "correct": 0,
+    "feedback": "Fascitis plantar: sobreuso mecánico de la fascia plantar.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q007",
+    "category_id": "pathology_massage",
+    "question": "Cual es una fuente termica que causaria herida o lesion?",
+    "options": [
+      "Sustancia quimica toxica.",
+      "Golpe.",
+      "Contusion.",
+      "Aplastamiento o compresion."
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q008",
+    "category_id": "pathology_massage",
+    "question": "Como es que el consumo de sal aumenta el liquido intersticial y causa edema o retencion de liquidos?",
+    "options": [
+      "Entre mas sal consume una persona mas agua se retiene para equilibrarle.",
+      "Porque puede aumentar la permeabilidad de los capilares sanguineos.",
+      "Aunado al consumo de sal el ejercicio estimula la circulacion linfatica y limpia el tejido muscular.",
+      "Los riniones regulan el volumen de la sangre y un aumento en el volumen de liquido puede sobrecargar el corazon."
+    ],
+    "correct": 0,
+    "feedback": "Sodio ↑ ⇒ osmolaridad ↑ ⇒ retención hídrica en compartimientos (edema).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q009",
+    "category_id": "pathology_massage",
+    "question": "La falta de insulina provoca el siguiente trastorno:",
+    "options": [
+      "Hipoglucemia.",
+      "Hiperglucemia.",
+      "Plexopatia.",
+      "Retinopatia."
+    ],
+    "correct": 1,
+    "feedback": "Insulina insuficiente ⇒ glucosa no entra a células ⇒ hiperglucemia.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q010",
+    "category_id": "pathology_massage",
+    "question": "La escoliosis es una _______________ y es la desviacion lateral de la columna cervical.",
+    "options": [
+      "Lesion musculoesqueletica.",
+      "Disfuncion de una articulacion especifica.",
+      "Disfuncion postural.",
+      "Lesion por sobrecargas o exceso de uso."
+    ],
+    "correct": 2,
+    "feedback": "Escoliosis: desviación lateral de la columna; trastorno postural.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q011",
+    "category_id": "pathology_massage",
+    "question": "Si el cliente presenta dolor cronico en la espalda baja, que musculo esta tenso y debilitado?",
+    "options": [
+      "Cuadrado lumbar.",
+      "Triceps.",
+      "Recto del abdomen.",
+      "Trapecio mayor."
+    ],
+    "correct": 0,
+    "feedback": "Dolor lumbar crónico: QL frecuentemente tenso/hiperactivo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q012",
+    "category_id": "pathology_massage",
+    "question": "Estos son los musculos mas tensos durante el embarazo:",
+    "options": [
+      "Romboides",
+      "Musculos del piso pelviano",
+      "Grupo espinal erector de la columna",
+      "Abdominales"
+    ],
+    "correct": 2,
+    "feedback": "Embarazo: tendencia a hiperlordosis con ESG (erectores) tensos.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q013",
+    "category_id": "pathology_massage",
+    "question": "El terapeuta esta efectuando la evaluacion postural de la espina iliaca anterior superior y detecta inclinacion pelvica anterior en el cliente, esto significa que:",
+    "options": [
+      "La espina iliaca anterior superior es mucho mas larga que la espina iliaca posterior superior",
+      "La espina iliaca anterior superior predomina en longitud respecto a la espina iliaca posterior superior",
+      "La espina iliaca anterior superior es mucho mas voluminosa que la espina iliaca posterior superior",
+      "La espina iliaca anterior superior es mas corta que la espina iliaca posterior superior"
+    ],
+    "correct": 1,
+    "feedback": "Inclinación anterior: ASIS desciende/rota anterior respecto a PSIS (predominio anterior).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q014",
+    "category_id": "pathology_massage",
+    "question": "La poliomelitis es un trastorno del sistema nervioso central y se le define como un (a):",
+    "options": [
+      "Una enfermedad en donde ocurre la desmielinizacion de los nervios.",
+      "Trastorno en la funcion motora resultante del perjuicio al cerebro inmaduro.",
+      "Una infeccion viral aguda que afecta especificamente las neuronas motoras en la medula espinal y el tronco cerebral.",
+      "Disminucion progresiva de la funcion de los ganglios basales."
+    ],
+    "correct": 2,
+    "feedback": "Poliomielitis: infección viral aguda de neuronas motoras del asta anterior y tronco.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q015",
+    "category_id": "pathology_massage",
+    "question": "Esta patologia no es una enfermedad generada por el sistema nervioso central:",
+    "options": [
+      "Convulsiones.",
+      "Nervio radial deteriorado.",
+      "Mal de Parkinson.",
+      "Paralisis cerebral."
+    ],
+    "correct": 1,
+    "feedback": "Lesión del nervio radial = SNP, no SNC.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q016",
+    "category_id": "pathology_massage",
+    "question": "Que siglas se usan para detectar los signos de una inflamacion?",
+    "options": [
+      "SHARP",
+      "SOAP",
+      "RICE",
+      "SITS"
+    ],
+    "correct": 0,
+    "feedback": "SHARP: calor, hinchazón, dolor, enrojecimiento, pérdida de función (mnemonics varias).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q017",
+    "category_id": "pathology_massage",
+    "question": "La opresion del grupo de nervios del plexo braquial causa el trastorno llamado:",
+    "options": [
+      "Sindrome piriforme.",
+      "Sindrome de salida toracica.",
+      "Sindrome del tunel carpiano.",
+      "Sindrome del nervio mediano."
+    ],
+    "correct": 1,
+    "feedback": "Compresión del plexo braquial y vasos en el espacio torácico superior ⇒ TOS.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q018",
+    "category_id": "pathology_massage",
+    "question": "A causa de la hormona __________ durante el segundo y tercer trimestre de embarazo las articulaciones van perdiendo estabilidad y requieren que el terapeuta aplique el rango de movimiento con mucha mas precaucion.",
+    "options": [
+      "Estrogeno",
+      "Prolactina",
+      "Relaxina",
+      "Luteinizante"
+    ],
+    "correct": 2,
+    "feedback": "Relaxina aumenta laxitud ligamentaria ⇒ precaución con ROM.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q019",
+    "category_id": "pathology_massage",
+    "question": "Que es lo que sucede normalmente si durante una sesion de masaje el cliente le informa que padece de cistitis?",
+    "options": [
+      "El cliente estornudaria varias veces",
+      "El cliente le presenta heridas abiertas en la piel",
+      "El cliente tiene necesidad de orinar continuamente",
+      "El cliente se siente mareado durante toda la sesion"
+    ],
+    "correct": 2,
+    "feedback": "Cistitis: urgencia y polaquiuria (micciones frecuentes).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q020",
+    "category_id": "pathology_massage",
+    "question": "La hipermovilidad es _____________ y es aumento anormal en la amplitud de movimiento de la articulacion.",
+    "options": [
+      "trastorno del sistema nervioso central",
+      "una lesion musculoesqueletica",
+      "una disfuncion de la articulacion",
+      "una disfuncion postural"
+    ],
+    "correct": 2,
+    "feedback": "Hipermovilidad = disfunción articular por laxitud excesiva.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q021",
+    "category_id": "pathology_massage",
+    "question": "En cual de las siguientes condiciones generales esta rotundamente contraindicado el masaje?",
+    "options": [
+      "Cuando el cliente tiene sensacion de tristeza o esta muy agobiado.",
+      "En casos de coma diabetico o descargas repentinas de insulina.",
+      "En un embarazo ectopico.",
+      "Todas las respuestas son correctas."
+    ],
+    "correct": 3,
+    "feedback": "Coma diabético, embarazo ectópico, descargas de insulina ⇒ contraindicaciones absolutas.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q022",
+    "category_id": "pathology_massage",
+    "question": "La Fibromialgia se le define como un (a):",
+    "options": [
+      "Una enfermedad reumatica no articular que dura como minimo 3 meses y con puntos sensibles en 11 de los 18 lugares prescritos.",
+      "Trastorno que se distingue por una fatiga constante y que dura aproximadamente 3 meses.",
+      "Enfermedad cronica que genera reacciones con la ingesta de carbohidratos, proteina y la grasa.",
+      "Enfermedad progresiva en donde gradualmente los huesos se hacen debiles y mas delgados aumentando los riesgos de fracturas."
+    ],
+    "correct": 0,
+    "feedback": "Fibromialgia: ≥3 meses y ≥11/18 puntos sensibles; reumática no articular.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q023",
+    "category_id": "pathology_massage",
+    "question": "Al dolor de cabeza tensional se le define asi:",
+    "options": [
+      "Secuencia de contraccion en el hemisferio cerebral.",
+      "Dolor cefaleico de rebote.",
+      "Un trastorno neurologico.",
+      "Dolor por contraccion muscular asociado con puntos gatillo."
+    ],
+    "correct": 3,
+    "feedback": "Cefalea tensional: hipertonía/PG miofasciales.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q024",
+    "category_id": "pathology_massage",
+    "question": "Cual es el cambio hormonal que ocurre con el climaterio?",
+    "options": [
+      "Incremento del estrogeno",
+      "Incremento de la progesternona",
+      "Disminucion de la testosterona",
+      "Disminucion del estrogeno"
+    ],
+    "correct": 3,
+    "feedback": "Climaterio/menopausia: descenso de estrógenos.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q025",
+    "category_id": "pathology_massage",
+    "question": "La diabetes afecta a todo el organismo sin embargo estas estructuras del cuerpo se empiezan a deteriorar a un paso mas evidente que otras:",
+    "options": [
+      "El nervio ciatico, las falanges y el recto remoral",
+      "Las arterias mas diminutas, la dermis y las manos",
+      "Los oidos, el apendice y el tracto urinario",
+      "Rinones (kidneys), los ojos y nervios perifericos"
+    ],
+    "correct": 3,
+    "feedback": "Complicaciones microvasculares: nefropatía, retinopatía, neuropatía.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q026",
+    "category_id": "pathology_massage",
+    "question": "La compresion del nervio mediano de la mano provoca el:",
+    "options": [
+      "Sindrome del tunel carpiano.",
+      "Sindrome piriforme.",
+      "Sindrome escaleno anterior.",
+      "Sindrome de salida toracica."
+    ],
+    "correct": 0,
+    "feedback": "Compresión del mediano en el túnel carpiano.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q027",
+    "category_id": "pathology_massage",
+    "question": "La hipertension y la insuficiencia cardiaca congestiva son:",
+    "options": [
+      "Causados por el sistema nervioso central.",
+      "Trastornos de la circulacion.",
+      "Problemas sistemicos.",
+      "Problemas gastrointestinales."
+    ],
+    "correct": 1,
+    "feedback": "Ambas son trastornos cardiovasculares/circulatorios.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q028",
+    "category_id": "pathology_massage",
+    "question": "La debilidad para sujetar y el dolor en el epicondilo medial son los sintomas de este trastorno:",
+    "options": [
+      "Tendinosis del extensor comun.",
+      "Codo de golfista.",
+      "Codo de tenista.",
+      "La epicondilitis radial."
+    ],
+    "correct": 1,
+    "feedback": "Epicondilalgia medial = codo de golfista (flexores/pronadores).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q029",
+    "category_id": "pathology_massage",
+    "question": "Cual es la definicion de la palabra contraindicado?",
+    "options": [
+      "Un sintoma o circunstancia que hace que el tratamiento se idoneo.",
+      "Una condicion inflamatoria grave que afecta desde desde la superficie de la piel hasta la subcutanea.",
+      "La ploriferacion de vasos sanguineos sobre la piel o la telangiectasia.",
+      "Un sintoma o circunstancia que hace que el tratamiento sea inapropiado."
+    ],
+    "correct": 3,
+    "feedback": "Contraindicación: situación en la que el tratamiento no es apropiado/seguro.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q030",
+    "category_id": "pathology_massage",
+    "question": "Cuando el musculo ____________ esta acortado puede lesionar al plexo braquial causando el llamado Sindrome del desfiladero toracico:",
+    "options": [
+      "Coracobraquial.",
+      "Pectoral menor.",
+      "Romboides mayor.",
+      "Romboides menor."
+    ],
+    "correct": 1,
+    "feedback": "Acortamiento del pectoral menor puede comprimir plexo/vasos en TOS.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q031",
+    "category_id": "pathology_massage",
+    "question": "La osteoartritis es una disfuncion de las articulaciones y se le define como:",
+    "options": [
+      "Un mayor grado de motricidad en la articulacion.",
+      "La disminucion del movimiento y del mecanismo del juego articular normal en la coyuntura.",
+      "La decadencia de las fibras anulares del disco intervertebral.",
+      "Un grupo de condiciones cronicas y degenerativas que afectan al cartilago articular y el hueso subcondral de las articulaciones."
+    ],
+    "correct": 3,
+    "feedback": "OA: degeneración del cartílago articular y hueso subcondral.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q032",
+    "category_id": "pathology_massage",
+    "question": "La escoliosis es un trastorno postural de la columna y se le define como:",
+    "options": [
+      "La desviacion de la columna vertebral hacia los lados.",
+      "Un aumento en la curva normal toracica junto con las escapulas alargadas y la cabeza inclinada hacia adelante.",
+      "Un incremento en la curvatura lumbar normal y un aumento de la inclinacion de la pelvis anterior con los flexores de la cadera acortados.",
+      "Una enfermedad inflamatoria cronica y sistemica que afecta a zonas especificas del cuerpo principalmente a la columna."
+    ],
+    "correct": 0,
+    "feedback": "Escoliosis: desviación lateral de la columna; trastorno postural.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q033",
+    "category_id": "pathology_massage",
+    "question": "En que area se debe palpar para encontrar la vaina del tendon responsable del trastorno llamado tenosinovitis De Quervain?",
+    "options": [
+      "Tendon del extensor comun.",
+      "Tendon del flexor comun.",
+      "Los tendones extensores y flexores comunes.",
+      "Los tendones del aBductor largo del pulgar y el extensor corto del pulgar."
+    ],
+    "correct": 3,
+    "feedback": "De Quervain: tendinopatía APL/EPB en primer compartimento dorsal.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q034",
+    "category_id": "pathology_massage",
+    "question": "Cual de los siguientes es un traumatismo musculoesqueletico interno que puede ser la causa que provoco el trastorno del hombro congelado?",
+    "options": [
+      "Hemiplejia.",
+      "Osteoartritis.",
+      "Infarto del miocardio.",
+      "Bronquitis repetitiva."
+    ],
+    "correct": 2,
+    "feedback": "Adhesive capsulitis puede desencadenarse tras MI/ inmovilización prolongada.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q035",
+    "category_id": "pathology_massage",
+    "question": "La espondilitis anquilosante es un problema de artritis inflamatoria y se define como:",
+    "options": [
+      "Enfermedad cronica inflamatoria sistematizada que afecta a zonas especificas del cuerpo principalmente a la columna vertebral",
+      "Grupo de trastornos en donde los cristales de urato monosodico se acumulan en los tejidos.",
+      "Enfermedad reumatica compleja que afecta a varios sistemas del organismo.",
+      "Inflamacion de las articulaciones causada por bacterias, virus u hongos."
+    ],
+    "correct": 0,
+    "feedback": "EA: artritis inflamatoria axial crónica que afecta columna/sacroilíacas.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q036",
+    "category_id": "pathology_massage",
+    "question": "Cual es una fuerza mecanica que causaria una lesion?",
+    "options": [
+      "Chimenea.",
+      "Sustancia quimica.",
+      "Golpe.",
+      "El sol."
+    ],
+    "correct": 2,
+    "feedback": "Fuerzas mecánicas incluyen golpes/compresión/cizalla.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q037",
+    "category_id": "pathology_massage",
+    "question": "El terapeuta debe contar con la autorizacion por escrito del medico para darle masaje al cliente porque el cliente padece de:",
+    "options": [
+      "Insuficiencia cardiaca congestiva.",
+      "Enfermedad renal cronica.",
+      "Asma.",
+      "Todas las respuestas son correctas."
+    ],
+    "correct": 3,
+    "feedback": "ICC, enfermedad renal crónica, asma pueden requerir autorización médica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q038",
+    "category_id": "pathology_massage",
+    "question": "La diabetes afecta a todo el organismo sin embargo estas estructuras del cuerpo se empiezan a deteriorar a un paso mas evidente que otras:",
+    "options": [
+      "El nervio ciatico, las falanges y el recto remoral",
+      "Las arterias mas diminutas, la dermis y las manos",
+      "Los oidos, el apendice y el tracto urinario",
+      "Rinones (kidneys), los ojos y nervios perifericos"
+    ],
+    "correct": 3,
+    "feedback": "Complicaciones microvasculares: nefropatía, retinopatía, neuropatía.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q039",
+    "category_id": "pathology_massage",
+    "question": "La hipomovilidad es ______________ y es la disminucion de la movilidad normal en la articulacion y genera que tal articulacion tenga movimiento muy limitado.",
+    "options": [
+      "una disfuncion postural.",
+      "una lesion por exceso de uso.",
+      "una lesion musculoesqueletica.",
+      "una disfuncion de la articulacion."
+    ],
+    "correct": 3,
+    "feedback": "Hipomovilidad: restricción articular.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q040",
+    "category_id": "pathology_massage",
+    "question": "La hipercifosis involucra musculos concentricos y excentricos, cuales son esos musculos?",
+    "options": [
+      "Excentricos: el Pectoral mayor y menor y los Concentricos: romboides y la parte media del trapecio.",
+      "Concentricos: Pectorales mayores y menores y los Excentricos: romboides y la parte media del trapecio.",
+      "Concentricos: los romboides y pectoral mayor y los Excentricos: parte media del trapecio y pectoral menor.",
+      "Concentricos: Grupo Erector de la Columna (ESG) y romboides y los Excentricos: parte superior del trapecio y elevador de la escapula."
+    ],
+    "correct": 1,
+    "feedback": "Hipercifosis: pectorales acortados (concéntricos), romboides/trapecio medio en excéntrico.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q041",
+    "category_id": "pathology_massage",
+    "question": "La hemiplejia es _____________ en donde una parte del cuerpo se paraliza y el trastorno proviene por una lesion en el cerebro.",
+    "options": [
+      "Una enfermedad sostenible y leve.",
+      "Un trastorno del Sistema Nervioso Periferico.",
+      "Un trastorno del Sistema Nervioso Central.",
+      "Una respuesta inmediata del sistema nervioso Simpatico."
+    ],
+    "correct": 2,
+    "feedback": "Hemiplejia: lesión de vías motoras en SNC.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q042",
+    "category_id": "pathology_massage",
+    "question": "Cual es el nombre del trastorno que causa entumecimiento y hormigueo en los tres primeros dedos laterales y en la mitad de los dedos de la mano?",
+    "options": [
+      "Sindrome costonavicular.",
+      "Sindrome del tunel carpiano.",
+      "Sindrome de salida toracica.",
+      "Sindrome piriforme."
+    ],
+    "correct": 1,
+    "feedback": "Mediano: pulgar, índice, medio y mitad radial del anular.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q043",
+    "category_id": "pathology_massage",
+    "question": "La bronquitis cronica es una patologia respiratoria y se le define como asi:",
+    "options": [
+      "Aumento de los espacios de aire distales a los bronquiolos terminales sumandosele el deterioro de las paredes alveolares.",
+      "Inflamacion aguda o cronica de los senos paranasales.",
+      "Trastorno inflamatorio cronico con broncoespasmos.",
+      "Enfermedad de las vias respiratorias que da como resultado la creacion de flemas (esputo purulento)."
+    ],
+    "correct": 3,
+    "feedback": "Bronquitis crónica: tos productiva ≥3 meses/año por ≥2 años.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q044",
+    "category_id": "pathology_massage",
+    "question": "Al aplicarse la tecnica de estimulacion cutanea se obtiene, entre otros efectos:",
+    "options": [
+      "Un decremento en la circulacion venosa y superficial.",
+      "Un incremento en la circulacion superficial.",
+      "Un aumento notorio en la tension muscular.",
+      "La disminucion de la descarga del sistema nervioso central."
+    ],
+    "correct": 1,
+    "feedback": "Frotación ligera estimula perfusión superficial.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q045",
+    "category_id": "pathology_massage",
+    "question": "Cual es una fuerza mecanica que causaria lesion o herida?",
+    "options": [
+      "Fuente electrica.",
+      "Compresion.",
+      "Sustancia quimica.",
+      "Calor del sol."
+    ],
+    "correct": 1,
+    "feedback": "Fuerzas mecánicas incluyen golpes/compresión/cizalla.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q046",
+    "category_id": "pathology_massage",
+    "question": "Una herida es una lesion en la piel, cual clase de herida presenta disminucion de tejido blando bajo la piel y tiene bordes irregulares?",
+    "options": [
+      "Laceracion.",
+      "Llaga.",
+      "Piquete.",
+      "Quemadura."
+    ],
+    "correct": 0,
+    "feedback": "Laceración: desgarro con bordes irregulares y pérdida de tejido.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q047",
+    "category_id": "pathology_massage",
+    "question": "Una persona que presenta acumulacion de fluidos en el espacio intersticial padece de:",
+    "options": [
+      "Anemia",
+      "Edema",
+      "Exema",
+      "Hiperglucemia"
+    ],
+    "correct": 1,
+    "feedback": "Edema: exceso de líquido intersticial.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q048",
+    "category_id": "pathology_massage",
+    "question": "Una persona en estado grave esta recibiendo reanimacion cardiopulmonar (RCP), el afectado esta en riesgo de distension gastrica por este motivo:",
+    "options": [
+      "Por la excesiva ventilacion forzada al estomago.",
+      "Por la entrada de la cantidad exagerada de aire al esofago.",
+      "Por la entrada de un volumen excesivo de aire a las venas.",
+      "Porque el estomago solo recibe aire de buena calidad"
+    ],
+    "correct": 1,
+    "feedback": "Ventilación excesiva forzada puede insuflar estómago ⇒ distensión.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q049",
+    "category_id": "pathology_massage",
+    "question": "A una persona se le resbala de las manos un liquido muy acido y le quema la piel. El acido es el causante debido a este elemento:",
+    "options": [
+      "Agente quimico",
+      "Contusion.",
+      "Fuerza mecanica.",
+      "Fuerza de friccion."
+    ],
+    "correct": 0,
+    "feedback": "Quemadura química: contacto con agente cáustico.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q050",
+    "category_id": "pathology_massage",
+    "question": "La inflamacion de los foliculos del cabello y de las glandulas sebaceas se les llama:",
+    "options": [
+      "Psoriasis.",
+      "Dermatitis.",
+      "Forunculos.",
+      "Impetigos."
+    ],
+    "correct": 2,
+    "feedback": "Foliculitis/forúnculos: infección de folículos/sebáceas.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q051",
+    "category_id": "pathology_massage",
+    "question": "Un cliente viene con Ud. a tratarse por dolor en el cuello. Al examinarle la postura usted nota que la cabeza y el cuello estan torcidos de lado y hacia la izquierda, la cara volteada a la derecha y el hombro izquierdo elevado. Cual es el nombre de esta patologia?",
+    "options": [
+      "Cuello blando",
+      "Torticolis",
+      "Lordosis",
+      "Impetigo"
+    ],
+    "correct": 1,
+    "feedback": "Tortícolis: espasmo/contractura SCM, desviación lateral/rotación opuesta.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q052",
+    "category_id": "pathology_massage",
+    "question": "Todas las siguientes opciones son disfunciones de la articulacion con excepcion de:",
+    "options": [
+      "Hipermovilidad e hipomovilidad.",
+      "Trastorno de la articulacion temporomandibular.",
+      "Escoliosis.",
+      "Enfermedad degenerativa del disco."
+    ],
+    "correct": 2,
+    "feedback": "Escoliosis es postural, no una disfunción articular per se.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q053",
+    "category_id": "pathology_massage",
+    "question": "La  _________ trata del estudio de las enfermedades del cuerpo humano.",
+    "options": [
+      "Neurologia",
+      "Inmunologia",
+      "Patologia",
+      "Histologia"
+    ],
+    "correct": 2,
+    "feedback": "Patología = estudio de enfermedades.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q054",
+    "category_id": "pathology_massage",
+    "question": "Las actividades deportivas que incluyen movimientos repetitivos de flexion de la munieca (wrist) y la pronacion, como en saque de pelota por encima de la cabeza en el tenis o el golf pueden causar lesion al:",
+    "options": [
+      "Tendon del extensor comun.",
+      "Tendon del flexor comun.",
+      "Tendon de la cabeza larga del biceps.",
+      "Los tendones del manguito rotador."
+    ],
+    "correct": 1,
+    "feedback": "Golpe de golf/tenis (pronación+flexión) sobrecarga flexores comunes.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q055",
+    "category_id": "pathology_massage",
+    "question": "La falta de insulina provoca el siguiente trastorno:",
+    "options": [
+      "Hipoglucemia.",
+      "Hiperglucemia.",
+      "Plexopatia.",
+      "Retinopatia."
+    ],
+    "correct": 1,
+    "feedback": "Insulina insuficiente ⇒ glucosa no entra a células ⇒ hiperglucemia.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q056",
+    "category_id": "pathology_massage",
+    "question": "El asma es un trastorno cronico y sucede al inflamarse las vias respiratorias y se le denomina:",
+    "options": [
+      "Patologia del sistema respiratorio.",
+      "Trastorno del Sistema Nervioso Central.",
+      "Trastorno diafragmatico.",
+      "Trastorno del Sistema Nervioso Periferico."
+    ],
+    "correct": 0,
+    "feedback": "Asma: patología del sistema respiratorio.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q057",
+    "category_id": "pathology_massage",
+    "question": "El asma es una patologia del sistema respiratoria y se le define asi:",
+    "options": [
+      "Trastorno inflamatorio cronico que se presenta con broncoespasmos.",
+      "Enfermedad que da como resultado la formacion excesiva de flemas.",
+      "El aumento de los espacios de aire distales a los bronquiolos terminales y al exterminio de las paredes alveolares.",
+      "Inflamacion aguda o cronica de los senos paranasales."
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q058",
+    "category_id": "pathology_massage",
+    "question": "Cual es el mejor tratamiento para una persona que se presenta con una torcedura severa del tobillo?",
+    "options": [
+      "Petrissage",
+      "Effleurage",
+      "Vibracion",
+      "Friccion cruzada"
+    ],
+    "correct": 3,
+    "feedback": "Tratamiento de fibras lesionadas: fricción transversa en fase subaguda; aguda: RICE inicialmente.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q059",
+    "category_id": "pathology_massage",
+    "question": "El enfisema pulmonar es una patologia del sistema respiratorio y se le define asi:",
+    "options": [
+      "Enfermedad que da como resultado la creacion de flemas.",
+      "El aumento de los espacios de aire distales a los bronquiolos terminales y el deterioro de las paredes alveolares.",
+      "Inflamacion aguda o cronica de los senos paranasales.",
+      "Trastorno inflamatorio cronico con broncoespasmos."
+    ],
+    "correct": 1,
+    "feedback": "Enfisema: destrucción alveolar y atrapamiento aéreo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q060",
+    "category_id": "pathology_massage",
+    "question": "Este trastorno es la inflamacion de las articulaciones:",
+    "options": [
+      "Anfiartrotico",
+      "Artritis",
+      "Bursitis",
+      "Epimisis"
+    ],
+    "correct": 1,
+    "feedback": "Artritis = inflamación articular.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q061",
+    "category_id": "pathology_massage",
+    "question": "Cuando se presentan los puntos gatillo (puntos hiperirritables) en este musculo posiblemente son porque el cliente tiene sindrome del hombro congelado:",
+    "options": [
+      "Subescapular.",
+      "Biceps femoral.",
+      "Sartorio.",
+      "Pectoral menor."
+    ],
+    "correct": 3,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q062",
+    "category_id": "pathology_massage",
+    "question": "A la contractura de Dupuytren se le define como un (a):",
+    "options": [
+      "Enfermedad que se caracteriza por fatiga persistente.",
+      "Deformidad en la flexion de los dedos en la fascia palmar.",
+      "Enfermedad cronica que provoca problemas con la ingesta de carbohidratos, proteina y grasa.",
+      "Una enfermedad reumatica no articular que dura como minimo 3 meses y con puntos sensibles en 11 de los 18 lugares prescritos."
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q063",
+    "category_id": "pathology_massage",
+    "question": "La osteoartritis es _______________ y es la mas comun de los trastornos articulares, es un trastorno lento y progresivo debido a la enfermedad del cartilago articular y a la celula que lo produce.",
+    "options": [
+      "una enfermedad articular.",
+      "un trastorno del Sistema Nervioso Periferico.",
+      "el trastorno emocional y afectivo que distorsiona la expresion facial.",
+      "disfuncion postural."
+    ],
+    "correct": 1,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q064",
+    "category_id": "pathology_massage",
+    "question": "La mejor tecnica para tratar un hematoma es:",
+    "options": [
+      "Aplicar presion firme sobre el morete y alrededor del mismo",
+      "Con la tecnica cupping",
+      "Alternando con terapia de puntos y masaje relajante",
+      "No tratar esta area hasta que se haya recuperado"
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q065",
+    "category_id": "pathology_massage",
+    "question": "El presionar contra la pared abdominal interior puede separar el recto mayor del abdomen en la linea alba, a esto se le llama:",
+    "options": [
+      "Diastacis del recto",
+      "Diastacis del intestino grueso",
+      "Dolor amniotico",
+      "Ninguna respuesta es correcta"
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q066",
+    "category_id": "pathology_massage",
+    "question": "La poliomielitis es una infeccion viral aguda que afecta las neuronas motoras de la medula espinal y del tronco cerebral y se le denomina:",
+    "options": [
+      "Lesion musculoesqueletica.",
+      "Trastorno del Sistema Nervioso Periferico.",
+      "Respuesta del nervioso Parasimpatico.",
+      "Trastorno del Sistema Nervioso Central."
+    ],
+    "correct": 1,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q067",
+    "category_id": "pathology_massage",
+    "question": "El ligamento ________ estabiliza al tobillo contra la deformidad del trastorno de pie Equino Varo:",
+    "options": [
+      "Deltoideo",
+      "Calcaneotibial",
+      "Tibionavicular",
+      "Lateral"
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q068",
+    "category_id": "pathology_massage",
+    "question": "Este ejercicio es el mas recomendable y beneficioso para el cliente que padece osteroporosis:",
+    "options": [
+      "Yoga",
+      "Tai chi",
+      "Levantar pesas y ejercicios de resistencia",
+      "Estiramiento"
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q069",
+    "category_id": "pathology_massage",
+    "question": "La fascitis plantar es una inflamacion de la aponeurosis plantar del pie y es causada por:",
+    "options": [
+      "Lesion por sobrecarga.",
+      "El padecimiento sistemico que provoca trastornos.",
+      "La disfuncion de la articulacion.",
+      "Lesion musculoesqueletica."
+    ],
+    "correct": 0,
+    "feedback": "Fascitis plantar: sobreuso mecánico de la fascia plantar.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q070",
+    "category_id": "pathology_massage",
+    "question": "La diabetes mellitus es una:",
+    "options": [
+      "Enfermedad progresiva en donde gradualmente los huesos se hacen debiles y mas delgados aumentando los riesgos de fracturas.",
+      "Enfermedad cronica que provoca trastornos internos al ingerir con los carbohidratos, proteina y grasa.",
+      "Una enfermedad reumatica no articular que dura como minimo 3 meses y con puntos sensibles en 11 de los 18 lugares prescritos.",
+      "Enfermedad que se caracteriza por fatiga persistente sin motivo aparente alguno."
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q071",
+    "category_id": "pathology_massage",
+    "question": "La bronquitis cronica es una patologia respiratoria y se le define como asi:",
+    "options": [
+      "Aumento de los espacios de aire distales a los bronquiolos terminales sumandosele el deterioro de las paredes alveolares.",
+      "Inflamacion aguda o cronica de los senos paranasales.",
+      "Trastorno inflamatorio cronico con broncoespasmos.",
+      "Enfermedad de las vias respiratorias que da como resultado la creacion de flemas (esputo purulento)."
+    ],
+    "correct": 3,
+    "feedback": "Bronquitis crónica: tos productiva ≥3 meses/año por ≥2 años.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q072",
+    "category_id": "pathology_massage",
+    "question": "Una persona en estado grave esta recibiendo reanimacion cardiopulmonar (RCP), el afectado esta en riesgo de distension gastrica por este motivo:",
+    "options": [
+      "Por la excesiva ventilacion forzada al estomago.",
+      "Por la entrada de la cantidad exagerada de aire al esofago.",
+      "Por la entrada de un volumen excesivo de aire a las venas.",
+      "Porque el estomago solo recibe aire de buena calidad"
+    ],
+    "correct": 1,
+    "feedback": "Ventilación excesiva forzada puede insuflar estómago ⇒ distensión.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q073",
+    "category_id": "pathology_massage",
+    "question": "La HIPERcifosis es una disfuncion postural y se le define como:",
+    "options": [
+      "Un incremento en la curvatura lumbar normal y un aumento de la inclinacion de la pelvis anterior con los flexores de la cadera acortados.",
+      "La desviacion giratoria lateral de la columna.",
+      "Un aumento en la curvatura normal toracica en conjunto con las escapulas alargadas y la cabeza inclinada hacia adelante.",
+      "Una enfermedad inflamatoria cronica y sistemica que afecta a zonas especificas del cuerpo principalmente a la columna."
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q074",
+    "category_id": "pathology_massage",
+    "question": "Porque motivo las enfermedades del corazon o de los riniones causan edema?",
+    "options": [
+      "Debido a que ejercicio estimula la circulacion linfatica y limpia el tejido muscular y esto tiene efecto directo en los riniones (kidneys).",
+      "Los riniones regulan el volumen de la sangre y un aumento en el volumen del liquido puede sobrecargar al corazon.",
+      "Porque a mas sal consuma una persona mas agua es retenida para equilibrarle.",
+      "Porque puede aumentar la permeabilidad de los capilares sanguineos."
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q075",
+    "category_id": "pathology_massage",
+    "question": "El terapeuta esta efectuando la evaluacion postural de la espina iliaca anterior superior y detecta inclinacion pelvica anterior en el cliente, esto significa que:",
+    "options": [
+      "La espina iliaca anterior superior es mucho mas larga que la espina iliaca posterior superior",
+      "La espina iliaca anterior superior predomina en longitud respecto a la espina iliaca posterior superior",
+      "La espina iliaca anterior superior es mucho mas voluminosa que la espina iliaca posterior superior",
+      "La espina iliaca anterior superior es mas corta que la espina iliaca posterior superior"
+    ],
+    "correct": 1,
+    "feedback": "Inclinación anterior: ASIS desciende/rota anterior respecto a PSIS (predominio anterior).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q076",
+    "category_id": "pathology_massage",
+    "question": "Existen causas y clasificaciones de heridas que son trastornos en el tejido natural de la piel, la siguiente es una CAUSA:",
+    "options": [
+      "Descarga electrica.",
+      "Abrasiones.",
+      "Laceracion y piquete.",
+      "Incisiones."
+    ],
+    "correct": 2,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q077",
+    "category_id": "pathology_massage",
+    "question": "Todas las siguientes opciones son disfunciones de la articulacion con excepcion de:",
+    "options": [
+      "Hipermovilidad e hipomovilidad.",
+      "Trastorno de la articulacion temporomandibular.",
+      "Escoliosis.",
+      "Enfermedad degenerativa del disco."
+    ],
+    "correct": 2,
+    "feedback": "Escoliosis es postural, no una disfunción articular per se.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q078",
+    "category_id": "pathology_massage",
+    "question": "Un musculo sostenido en una contraccion constante se describe como:",
+    "options": [
+      "Tension muscular.",
+      "Longitud muscular.",
+      "Tono muscular.",
+      "Aproximacion del musculo."
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q079",
+    "category_id": "pathology_massage",
+    "question": "El asma es una patologia del sistema respiratoria y se le define asi:",
+    "options": [
+      "Trastorno inflamatorio cronico que se presenta con broncoespasmos.",
+      "Enfermedad que da como resultado la formacion excesiva de flemas.",
+      "El aumento de los espacios de aire distales a los bronquiolos terminales y al exterminio de las paredes alveolares.",
+      "Inflamacion aguda o cronica de los senos paranasales."
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q080",
+    "category_id": "pathology_massage",
+    "question": "Cual es la condicion que se percibe como agujas o pellizcos en el tejido y que impide el flujo de sangre normal a una zona del cuerpo afectada debido a un embolo, coagulo o constriccion de una arteria?",
+    "options": [
+      "Inflamacion",
+      "Isquemia",
+      "Espasmos musculares",
+      "Lesion de tejido blando"
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q081",
+    "category_id": "pathology_massage",
+    "question": "La hiperlordosis es un aumento de la curva concava lumbar normal que incrementa la inclinacion de la pelvis anterior y la flexion de la cadera y se le denomina una:",
+    "options": [
+      "Disfuncion postural.",
+      "Lesion musculoesqueletica.",
+      "Lesion por sobrecarga.",
+      "Disfuncion de la articulacion."
+    ],
+    "correct": 3,
+    "feedback": "Alteración del ROM articular.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q082",
+    "category_id": "pathology_massage",
+    "question": "La receta del doctor dice: dar masaje reconfortante. Este masaje se refiere a este cliente en especifico:",
+    "options": [
+      "Que va a tener cirugia en 3 meses",
+      "Que tiene un mes de haber tenido cirugia",
+      "Con menopausia",
+      "Con enfermedad terminal"
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q083",
+    "category_id": "pathology_massage",
+    "question": "La bursitis es un trastorno que puede ser cronico y es causado por:",
+    "options": [
+      "Latigazo.",
+      "Esclerosis multiple.",
+      "Escoliosis circundante.",
+      "Lesiones por uso exagerado."
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q084",
+    "category_id": "pathology_massage",
+    "question": "Las lesiones en la medula espinal son un trastorno del Sistema Nervioso Central y se definen como:",
+    "options": [
+      "Una lesion a la columna vertebral, medula espinal o ambos, debido a un trauma directo o indirecto.",
+      "Un trastorno en donde ocurre una desmielinizacion de los nervios que se desencadena a lo largo de los nervios centrales.",
+      "Disminucion progresiva de la funcion de los ganglios basales.",
+      "Una infeccion viral aguda que afecta especificamente las neuronas motoras en la medula espinal y el tronco cerebral."
+    ],
+    "correct": 1,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q085",
+    "category_id": "pathology_massage",
+    "question": "El hombro congelado o tendinitis calcificada del manguito rotador del hombro son trastornos de las articulaciones que genera debido al endurecimiento de la capsula articular y tambien se le conoce asi:",
+    "options": [
+      "Sindrome del hombro mano.",
+      "Torticolis.",
+      "Capsulitis adhesiva.",
+      "Sindrome de la valvula toracica."
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q086",
+    "category_id": "pathology_massage",
+    "question": "Una de las causas del trastorno del raquitismo (huesos deformes) en los menores es por este motivo:",
+    "options": [
+      "Una deficiencia grave o prolongada de la vitamina C.",
+      "Una deficiencia grave o prolongada de la vitamina D.",
+      "Un exceso de vitamina C o una deficiencia de vitamina C.",
+      "Un exceso de vitamina A en la sangre."
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q087",
+    "category_id": "pathology_massage",
+    "question": "La enfermedad inflamatoria intestinal es un problema gastrointestinal y se le define asi:",
+    "options": [
+      "El movimiento lento, dificil o infrecuente de las heces por el intestino para evacuar.",
+      "Trastorno de la motilidad fuertemente ligado con la ansiedad, estres o depresion.",
+      "Inicador de la colitis ulcerosa y enfermedad de Crohn.",
+      "Movimiento constante y suelto (diarrea) de las heces por el intestino."
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q088",
+    "category_id": "pathology_massage",
+    "question": "La constipacion es el movimiento lento, difícil o poco frecuente de las heces fecales a traves del intestino y se denomina:",
+    "options": [
+      "Patologia circulatoria.",
+      "Trastorno del Sistema Nervioso Periferico.",
+      "Lesion musculoesqueletica.",
+      "Problema gastrointestinal."
+    ],
+    "correct": 1,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q089",
+    "category_id": "pathology_massage",
+    "question": "En todas las condiciones que a continuacion se mencionan el masaje esta contraindicado, excepto en caso de:",
+    "options": [
+      "Hemofilia.",
+      "Escoliosis.",
+      "Eclampsia.",
+      "Shock."
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q090",
+    "category_id": "pathology_massage",
+    "question": "Las afecciones de la artritis inflamatoria sistemica incluyen todas las siguientes opciones, excepto:",
+    "options": [
+      "La espondilitis anquilosante.",
+      "Gota.",
+      "Asma.",
+      "Artritis de Lyme."
+    ],
+    "correct": 3,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q091",
+    "category_id": "pathology_massage",
+    "question": "Si el cliente presenta dolor cronico en la espalda baja, que musculo esta tenso y debilitado?",
+    "options": [
+      "Cuadrado lumbar.",
+      "Triceps.",
+      "Recto del abdomen.",
+      "Trapecio mayor."
+    ],
+    "correct": 0,
+    "feedback": "Dolor lumbar crónico: QL frecuentemente tenso/hiperactivo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q092",
+    "category_id": "pathology_massage",
+    "question": "La piel de una persona con hipoglucemia se ve_____________.",
+    "options": [
+      "Sudorosa",
+      "Seca",
+      "Realmente normal",
+      "Bronceada"
+    ],
+    "correct": 0,
+    "feedback": "Hipoglucemia: piel fría y sudorosa, temblor, taquicardia.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q093",
+    "category_id": "pathology_massage",
+    "question": "Cuales son las siglas para el tratamiento universal para torceduras y esguinces?",
+    "options": [
+      "SOAP",
+      "RICE",
+      "SHARP",
+      "HEALS"
+    ],
+    "correct": 1,
+    "feedback": "RICE: Rest, Ice, Compression, Elevation.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q094",
+    "category_id": "pathology_massage",
+    "question": "La _____________ no proviene del sistema respiratorio.",
+    "options": [
+      "Sinusitis.",
+      "El enfisema.",
+      "Hemiplejia.",
+      "El asma."
+    ],
+    "correct": 2,
+    "feedback": "Hemiplejia es neurológica, no respiratoria.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q095",
+    "category_id": "pathology_massage",
+    "question": "Al dolor de cabeza tensional se le define asi:",
+    "options": [
+      "Secuencia de contraccion en el hemisferio cerebral.",
+      "Dolor cefaleico de rebote.",
+      "Un trastorno neurologico.",
+      "Dolor por contraccion muscular asociado con puntos gatillo."
+    ],
+    "correct": 3,
+    "feedback": "Cefalea tensional: hipertonía/PG miofasciales.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q096",
+    "category_id": "pathology_massage",
+    "question": "De los siguientes musculos posturales cual no es un musculo postural primario corto?",
+    "options": [
+      "Los extensores de la munieca (wrist) y el codo.",
+      "Los flexores de la mano y el gastrocnemio.",
+      "El esternocleidomastoideo.",
+      "El piriforme."
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q097",
+    "category_id": "pathology_massage",
+    "question": "El cliente presenta hipertension leve en la rodilla, los dos musculos afectados son:",
+    "options": [
+      "Biceps femoral acortado y el popliteo alargado",
+      "Biceps femoral acortado y el recto femoral alargado",
+      "Recto femoral alargado y el popliteo acortado",
+      "Recto femoral acortado y el popliteo alargado"
+    ],
+    "correct": 3,
+    "feedback": "Desequilibrio anterior de rodilla: RF corto y poplíteo alargado puede asociarse con hiperextensión.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q098",
+    "category_id": "pathology_massage",
+    "question": "Cuando el pancreas no segrega suficiente insulina o cuando el organismo es incapaz de utilizar la insulina apropiadamente, se trata de:",
+    "options": [
+      "Anemia",
+      "Leucemia",
+      "Diabetes tipo 2",
+      "Diabetes tipo 1"
+    ],
+    "correct": 3,
+    "feedback": "Insulino-deficiencia absoluta típica de DM tipo 1.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q099",
+    "category_id": "pathology_massage",
+    "question": "Las venas varicosas son una afeccion del sistema circulatorio que se le define como:",
+    "options": [
+      "El aumento de la presion arterial por encima del rango normal por tiempo prolongado.",
+      "Venas grandes y abultadas de modo anormal debido a un trastorno en la funcion normal de las valvulas venosas.",
+      "Las venas superficiales o profundas inusualmente delgadas.",
+      "La incapacidad del corazon para bombear suficiente sangre para abastecer las necesidades del cuerpo."
+    ],
+    "correct": 1,
+    "feedback": "Várices: incompetencia valvular venosa ⇒ dilatación tortuosa.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q100",
+    "category_id": "pathology_massage",
+    "question": "Un cliente llega quejandose de dolor en el hombro derecho y dice no poder acostarse sobre ese hombro y el dolor empeora por las noches. El dolor es localizable en el acromion del musculo deltoides y tambien le duele en el codo, esta condicion es:",
+    "options": [
+      "Bursitis subacromial.",
+      "Hombro congelado.",
+      "Torticolis.",
+      "Fascitis plantar."
+    ],
+    "correct": 0,
+    "feedback": "Dolor nocturno, dolor al acostarse sobre el hombro, local en acromion ⇒ bursitis subacromial.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q101",
+    "category_id": "pathology_massage",
+    "question": "Cual es el cambio hormonal que ocurre con el climaterio?",
+    "options": [
+      "Incremento del estrogeno",
+      "Incremento de la progesternona",
+      "Disminucion de la testosterona",
+      "Disminucion del estrogeno"
+    ],
+    "correct": 3,
+    "feedback": "Climaterio/menopausia: descenso de estrógenos.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q102",
+    "category_id": "pathology_massage",
+    "question": "El trastorno en el cual la laringe se inflama es:",
+    "options": [
+      "Bronquitis.",
+      "Rinitis.",
+      "Laringitis.",
+      "Tuberculosis."
+    ],
+    "correct": 2,
+    "feedback": "Laringitis: inflamación de la laringe.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q103",
+    "category_id": "pathology_massage",
+    "question": "Estos son trastornos comunes de la piel como consecuencia de alergias, bacterias, virus o infecciones por hongos, con excepcion de:",
+    "options": [
+      "La psoriasis.",
+      "El impetigo.",
+      "La dermatitis.",
+      "El carcinoma de celulas basales."
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q104",
+    "category_id": "pathology_massage",
+    "question": "Cual es una fuente termica que causaria herida o lesion?",
+    "options": [
+      "Sustancia quimica toxica.",
+      "Golpe.",
+      "Contusion.",
+      "Aplastamiento o compresion."
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q105",
+    "category_id": "pathology_massage",
+    "question": "Cuando los bronquios estan inflamados se le conoce como:",
+    "options": [
+      "Laringitis",
+      "Tuberculosis",
+      "Bronquitis",
+      "Rinitis"
+    ],
+    "correct": 2,
+    "feedback": "Bronquitis: inflamación de bronquios.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q106",
+    "category_id": "pathology_massage",
+    "question": "El ligamento ________ estabiliza al tobillo contra la deformidad del trastorno de pie Equino Varo:",
+    "options": [
+      "Deltoideo",
+      "Calcaneotibial",
+      "Tibionavicular",
+      "Lateral"
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q107",
+    "category_id": "pathology_massage",
+    "question": "La debilidad para sujetar y el dolor en el epicondilo medial son los sintomas de este trastorno:",
+    "options": [
+      "Tendinosis del extensor comun.",
+      "Codo de golfista.",
+      "Codo de tenista.",
+      "La epicondilitis radial."
+    ],
+    "correct": 1,
+    "feedback": "Epicondilalgia medial = codo de golfista (flexores/pronadores).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q108",
+    "category_id": "pathology_massage",
+    "question": "__________ es una enfermedad inflamatoria de la piel y son lesiones cutaneas rojizas y escamosas, dan comezon, dolor e hinchazon.",
+    "options": [
+      "La verruga.",
+      "El impetigo.",
+      "La psoriasis.",
+      "La alopecia."
+    ],
+    "correct": 2,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q109",
+    "category_id": "pathology_massage",
+    "question": "Un cliente presenta torticolis del lado izquierdo, cual musculo es el mas acortado y el mas afectado?",
+    "options": [
+      "El pectoral mayor izquierdo.",
+      "El pectoral mayor derecho.",
+      "El esternocleidomastoideo izquierdo.",
+      "El esternocleidomastoideo derecho."
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q110",
+    "category_id": "pathology_massage",
+    "question": "Estos son los musculos mas tensos durante el embarazo:",
+    "options": [
+      "Romboides",
+      "Musculos del piso pelviano",
+      "Grupo espinal erector de la columna",
+      "Abdominales"
+    ],
+    "correct": 2,
+    "feedback": "Embarazo: tendencia a hiperlordosis con ESG (erectores) tensos.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q111",
+    "category_id": "pathology_massage",
+    "question": "Cual es la bursa mas afectada en la bursitis llamada por calentamiento de silla?",
+    "options": [
+      "Bursa iliopectinea.",
+      "Bursa isquiatica.",
+      "Bursa trocanterea.",
+      "Bursa del olecranon."
+    ],
+    "correct": 1,
+    "feedback": "Sitting/‘weaver’s bottom’ → bursitis isquiática.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q112",
+    "category_id": "pathology_massage",
+    "question": "Un cliente le dice al terapeuta que se lastimo el tobillo ayer y la inflamacion es evidente y no lo puede mover; que debe hacer el terapeuta?",
+    "options": [
+      "Aplicarle la prueba de movimiento pasiva",
+      "Sugerirle que contacte al medico o que vaya a emergencias a que lo atiendan",
+      "Aplicarle drenaje linfatico para reducir la inflamacion y despues que se coloque una venda",
+      "Friccionarle los tendones y ligamentos del tobillo suavemente"
+    ],
+    "correct": 1,
+    "feedback": "Lesión aguda grave con incapacidad de mover ⇒ derivar a evaluación médica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q113",
+    "category_id": "pathology_massage",
+    "question": "El asma es una patologia del sistema respiratoria y se le define asi:",
+    "options": [
+      "Trastorno inflamatorio cronico que se presenta con broncoespasmos.",
+      "Enfermedad que da como resultado la formacion excesiva de flemas.",
+      "El aumento de los espacios de aire distales a los bronquiolos terminales y al exterminio de las paredes alveolares.",
+      "Inflamacion aguda o cronica de los senos paranasales."
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q114",
+    "category_id": "pathology_massage",
+    "question": "Cual es el mejor tratamiento para aliviar una bursitis?",
+    "options": [
+      "Compresa caliente",
+      "Masaje sueco",
+      "Friccion transversa",
+      "Crioterapia"
+    ],
+    "correct": 3,
+    "feedback": "Bursitis aguda: crioterapia y reposo; fricción puede irritar.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q115",
+    "category_id": "pathology_massage",
+    "question": "Un __________ se define como un punto doloroso en un tejido blando que presenta continuamente un patron de dolor referido.",
+    "options": [
+      "Espasmo",
+      "Esguince",
+      "Subluxacion",
+      "Punto gatillo"
+    ],
+    "correct": 3,
+    "feedback": "Punto gatillo miofascial: nódulo hiperirritable con dolor referido.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q116",
+    "category_id": "pathology_massage",
+    "question": "El sindrome de Reiter es una artritis inflamatoria y se define como un (a):",
+    "options": [
+      "Trastorno autoinmune que afecta a todo el cuerpo esparciendo lentamente fibrosis y almacenamientos de colageno.",
+      "Triada de artritis, conjuntivitis, uretritis no gonococica que continua con una inflamacion en el tracto intestinal o urinario.",
+      "Enfermedad cronica de inflamacion sinovial en los menores de edad.",
+      "Enfermedad cronica destructiva autoinmune de multiples articulaciones y del tejido conectivo."
+    ],
+    "correct": 1,
+    "feedback": "Síndrome de Reiter (artritis reactiva): artritis + conjuntivitis + uretritis.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q117",
+    "category_id": "pathology_massage",
+    "question": "El nombre mas comun para la torticolis es:",
+    "options": [
+      "Escoliosis",
+      "Espondilitis Anquilosante",
+      "Cuello torcido",
+      "Hernia discal"
+    ],
+    "correct": 2,
+    "feedback": "Tortícolis = cuello torcido.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q118",
+    "category_id": "pathology_massage",
+    "question": "En que area se debe palpar para encontrar la vaina del tendon responsable del trastorno llamado tenosinovitis De Quervain?",
+    "options": [
+      "Tendon del extensor comun.",
+      "Tendon del flexor comun.",
+      "Los tendones extensores y flexores comunes.",
+      "Los tendones del aBductor largo del pulgar y el extensor corto del pulgar."
+    ],
+    "correct": 3,
+    "feedback": "De Quervain: tendinopatía APL/EPB en primer compartimento dorsal.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q119",
+    "category_id": "pathology_massage",
+    "question": "El nivel de gravedad de una lesion que presenta sangrado, inflamacion, dolor y los musculos estan debilitados es:",
+    "options": [
+      "Trastorno imperceptible.",
+      "Lesion leve.",
+      "Trastorno moderado.",
+      "Trastorno severo."
+    ],
+    "correct": 2,
+    "feedback": "Grado II (moderado): desgarro parcial, dolor, edema, debilidad.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "path_q120",
+    "category_id": "pathology_massage",
+    "question": "Porque motivo las enfermedades del corazon o de los riniones causan edema?",
+    "options": [
+      "Debido a que ejercicio estimula la circulacion linfatica y limpia el tejido muscular y esto tiene efecto directo en los riniones (kidneys).",
+      "Los riniones regulan el volumen de la sangre y un aumento en el volumen del liquido puede sobrecargar al corazon.",
+      "Porque a mas sal consuma una persona mas agua es retenida para equilibrarle.",
+      "Porque puede aumentar la permeabilidad de los capilares sanguineos."
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica léxica en ausencia de una regla específica.",
+    "difficulty": "medium",
+    "language": "es"
+  }
+];
