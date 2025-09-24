@@ -44,7 +44,7 @@ The **endomysium** surrounds individual muscle fibers, containing capillaries an
 
 At the cellular level, muscle contraction results from the sliding interaction between **actin** (thin filaments) and **myosin** (thick filaments). During contraction, myosin cross-bridges repeatedly bind to actin, pulling the filaments past each other to shorten the sarcomere. This process requires calcium ions and ATP for energy, both of which can be influenced by massage therapy.
 
-**Must-Know Tip:** Massage techniques work primarily through the connective tissue framework (epi-, peri-, and endomysium) rather than directly on contractile proteins. Deep tissue techniques affect fascicle organization and connective tissue mobility, while lighter techniques influence fluid movement and neural responses.
+**Must-Know Tips:** Massage techniques work primarily through the connective tissue framework (epi-, peri-, and endomysium) rather than directly on contractile proteins. Deep tissue techniques affect fascicle organization and connective tissue mobility, while lighter techniques influence fluid movement and neural responses.
 
 ### Muscle Tissue Characteristics
 
@@ -62,7 +62,7 @@ Skeletal muscle demonstrates four fundamental characteristics that directly rela
 
 **Type II (fast-twitch) fibers** generate powerful, rapid contractions using primarily anaerobic metabolism. They fatigue quickly but produce high force outputs essential for explosive movements and strength activities. Type II fibers benefit from post-exercise massage to address metabolic byproducts and reduce the inflammatory response associated with high-intensity training.
 
-**Must-Know Tip:** Athletes with predominantly Type I muscle fibers (distance runners, cyclists) benefit from lighter, rhythmic massage techniques that support circulation and parasympathetic recovery. Those with Type II dominance (sprinters, weightlifters) require deeper pressure to address tension and facilitate metabolic recovery, but timing is crucial to avoid disrupting the inflammatory process necessary for strength adaptations.
+**Must-Know Tips:** Athletes with predominantly Type I muscle fibers (distance runners, cyclists) benefit from lighter, rhythmic massage techniques that support circulation and parasympathetic recovery. Those with Type II dominance (sprinters, weightlifters) require deeper pressure to address tension and facilitate metabolic recovery, but timing is crucial to avoid disrupting the inflammatory process necessary for strength adaptations.
 
 ## C. Muscle Contraction Mechanics and Movement Analysis
 
@@ -76,7 +76,7 @@ Understanding how muscles produce movement and force provides the foundation for
 
 **Eccentric contractions** occur when muscles lengthen under tension, controlling movement against gravity or external resistance. Examples include the quadriceps controlling descent during squats, the biceps lowering a weight, or the posterior muscles controlling forward bending. Eccentric contractions produce the greatest force but also cause the most muscle damage and delayed-onset soreness.
 
-**Must-Know Tip:** Focus post-exercise massage on muscles that performed high levels of eccentric work, as these are most prone to microscopic damage, inflammation, and delayed-onset muscle soreness (DOMS). Schedule massage 24-48 hours post-exercise for optimal recovery benefits.
+**Must-Know Tips:** Focus post-exercise massage on muscles that performed high levels of eccentric work, as these are most prone to microscopic damage, inflammation, and delayed-onset muscle soreness (DOMS). Schedule massage 24-48 hours post-exercise for optimal recovery benefits.
 
 ### Agonist-Antagonist Relationships
 
@@ -86,13 +86,13 @@ Dysfunction in this relationship creates movement compensations and can lead to 
 
 **Synergist muscles** support agonist function by providing additional force, refining movement direction, or eliminating unwanted motions. The brachialis assists the biceps brachii during elbow flexion (synergist function), while the rotator cuff muscles stabilize the shoulder joint during arm movements (stabilizer function).
 
-**Must-Know Tip:** When treating muscle tension or trigger points, always assess and address both the overactive muscle and its antagonist. Use techniques to reduce tension in overactive muscles while applying gentle stretching or activation techniques to underactive antagonists to restore normal movement patterns.
+**Must-Know Tips:** When treating muscle tension or trigger points, always assess and address both the overactive muscle and its antagonist. Use techniques to reduce tension in overactive muscles while applying gentle stretching or activation techniques to underactive antagonists to restore normal movement patterns.
 
 ### The All-or-None Principle
 
 Individual muscle fibers operate according to the all-or-none principle: once a fiber receives a stimulus of sufficient strength (threshold), it contracts maximally; if the stimulus is below threshold, no contraction occurs. This principle explains how the nervous system grades muscle force through motor unit recruitment and firing frequency rather than varying individual fiber contraction strength.
 
-**Must-Know Tip:** Understanding the all-or-none principle helps explain why gradual pressure application in massage is more effective than sudden, intense pressure. Gradual loading allows the nervous system to adapt and reduce protective responses, while sudden pressure may trigger defensive muscle guarding.
+**Must-Know Tips:** Understanding the all-or-none principle helps explain why gradual pressure application in massage is more effective than sudden, intense pressure. Gradual loading allows the nervous system to adapt and reduce protective responses, while sudden pressure may trigger defensive muscle guarding.
 
 ## D. Proprioceptive System and Sensory Feedback
 
@@ -106,7 +106,7 @@ When a muscle is stretched, spindle activation triggers a reflex contraction of 
 
 Muscle spindles also contribute to muscle tone maintenance and postural control by providing continuous feedback about muscle length to the central nervous system. Dysfunction in spindle sensitivity can lead to altered muscle tone, movement coordination problems, and increased injury risk.
 
-**Must-Know Tip:** When stretching tight muscles, hold the stretch for 20-30 seconds to allow Golgi tendon organs to override initial muscle spindle activation. Begin with gentle pressure and gradually increase to avoid triggering excessive stretch reflexes that can cause muscle guarding and reduced effectiveness.
+**Must-Know Tips:** When stretching tight muscles, hold the stretch for 20-30 seconds to allow Golgi tendon organs to override initial muscle spindle activation. Begin with gentle pressure and gradually increase to avoid triggering excessive stretch reflexes that can cause muscle guarding and reduced effectiveness.
 
 ### Golgi Tendon Organs
 
@@ -116,7 +116,7 @@ When tension exceeds safe levels, GTOs trigger an inhibitory response that cause
 
 GTOs play a crucial role in motor learning, force regulation, and protective responses during high-intensity activities. They also contribute to the therapeutic effects of sustained pressure techniques, contract-relax stretching, and other manual therapy applications that involve loading the musculotendinous units.
 
-**Must-Know Tip:** Sustained pressure techniques (30+ seconds) applied to musculotendinous junctions can activate GTOs and promote muscle relaxation through autogenic inhibition. This mechanism explains why direct pressure on trigger points often produces lasting tension reduction.
+**Must-Know Tips:** Sustained pressure techniques (30+ seconds) applied to musculotendinous junctions can activate GTOs and promote muscle relaxation through autogenic inhibition. This mechanism explains why direct pressure on trigger points often produces lasting tension reduction.
 
 ### Joint Mechanoreceptors
 
@@ -126,7 +126,7 @@ GTOs play a crucial role in motor learning, force regulation, and protective res
 
 Joint mechanoreceptors work together with muscle spindles and GTOs to provide comprehensive information about body position and movement, enabling coordinated motor responses and protective reflexes.
 
-**Must-Know Tip:** Joint mobilization and gentle range of motion techniques stimulate joint mechanoreceptors, which can reduce pain perception through gate control mechanisms and improve proprioceptive awareness. Always work within pain-free ranges to avoid triggering protective responses.
+**Must-Know Tips:** Joint mobilization and gentle range of motion techniques stimulate joint mechanoreceptors, which can reduce pain perception through gate control mechanisms and improve proprioceptive awareness. Always work within pain-free ranges to avoid triggering protective responses.
 
 ## E. Major Muscle Groups: Locations, Attachments, and Actions
 
@@ -140,7 +140,7 @@ The biceps commonly develops tension from repetitive gripping activities, comput
 
 **Triceps Brachii** consists of three heads: the long head originates from the infraglenoid tubercle of the scapula, the lateral head from the posterior humerus above the spiral groove, and the medial head from the posterior humerus below the spiral groove. All three heads insert on the olecranon process of the ulna, producing elbow extension. The long head also contributes to shoulder extension and adduction.
 
-**Must-Know Tip:** When treating biceps dysfunction, always assess the antagonist triceps for balanced muscle function. Overactive biceps often coincide with weak or inhibited triceps, requiring treatment of both muscle groups to restore normal movement patterns.
+**Must-Know Tips:** When treating biceps dysfunction, always assess the antagonist triceps for balanced muscle function. Overactive biceps often coincide with weak or inhibited triceps, requiring treatment of both muscle groups to restore normal movement patterns.
 
 **Deltoid** forms the rounded contour of the shoulder, divided into three distinct sections. The anterior fibers originate from the lateral third of the clavicle and produce shoulder flexion, horizontal adduction, and internal rotation. The middle fibers arise from the acromion process and are the primary shoulder abductors. The posterior fibers originate from the spine of the scapula and produce shoulder extension, horizontal abduction, and external rotation. All three sections insert on the deltoid tuberosity of the humerus.
 
@@ -152,7 +152,7 @@ The pectoralis major commonly becomes tight and overactive due to forward head p
 
 **Latissimus Dorsi** is a broad, flat muscle forming much of the back's contour. It originates from the spinous processes of T7-L5, iliac crest, and inferior ribs, inserting on the floor of the bicipital groove of the humerus. Primary actions include shoulder extension, adduction, and internal rotation, making it crucial for pulling activities and overhead sports.
 
-**Must-Know Tip:** Pectoralis major tightness often accompanies latissimus dorsi restriction, creating a characteristic rounded shoulder and forward head posture. Address both muscles together using stretching and manual techniques to restore balanced shoulder mechanics.
+**Must-Know Tips:** Pectoralis major tightness often accompanies latissimus dorsi restriction, creating a characteristic rounded shoulder and forward head posture. Address both muscles together using stretching and manual techniques to restore balanced shoulder mechanics.
 
 **Trapezius** is divided into three functional regions based on fiber orientation and actions. The upper fibers originate from the occipital bone and ligamentum nuchae, inserting on the lateral third of the clavicle. They produce scapular elevation, upward rotation, and cervical extension/lateral flexion.
 
@@ -170,7 +170,7 @@ The **vastus lateralis** arises from the lateral femur, **vastus medialis** from
 
 The **semitendinosus** and **semimembranosus** both originate from the ischial tuberosity and insert medially on the tibia. They produce hip extension, knee flexion, and knee internal rotation. These muscles are crucial for deceleration during running and contribute significantly to posterior chain function.
 
-**Must-Know Tip:** Hamstring strains often occur at the musculotendinous junction during high-speed eccentric contractions. Focus treatment on the biceps femoris long head, which spans both hip and knee joints and is most susceptible to injury during sprinting activities.
+**Must-Know Tips:** Hamstring strains often occur at the musculotendinous junction during high-speed eccentric contractions. Focus treatment on the biceps femoris long head, which spans both hip and knee joints and is most susceptible to injury during sprinting activities.
 
 **Gastrocnemius** forms the prominent bulk of the calf, consisting of medial and lateral heads that originate from the respective femoral condyles. Both heads join to form the Achilles tendon, which inserts on the calcaneus. The gastrocnemius produces plantar flexion and knee flexion, making it crucial for walking, running, and jumping activities.
 
@@ -204,7 +204,7 @@ Joint structure directly influences movement possibilities, stability requiremen
 
 **Saddle joints** feature concave and convex surfaces oriented perpendicular to each other, as seen in the carpometacarpal joint of the thumb. This configuration allows greater movement than condyloid joints while maintaining stability against dislocation forces.
 
-**Must-Know Tip:** The knee is structurally classified as a hinge joint but functionally demonstrates characteristics of multiple joint types. It allows flexion-extension (hinge), slight rotation when flexed (pivot), and anterior-posterior gliding (plane). This complexity makes the knee susceptible to multiple injury patterns requiring comprehensive assessment.
+**Must-Know Tips:** The knee is structurally classified as a hinge joint but functionally demonstrates characteristics of multiple joint types. It allows flexion-extension (hinge), slight rotation when flexed (pivot), and anterior-posterior gliding (plane). This complexity makes the knee susceptible to multiple injury patterns requiring comprehensive assessment.
 
 ## G. Range of Motion Assessment and Clinical Applications
 
@@ -230,7 +230,7 @@ When **AROM and PROM are equally limited**, the restriction likely involves join
 
 When **PROM is less than AROM** (rare), suspect muscle spasm, severe inflammation, or protective guarding. This pattern indicates tissue irritability requiring gentle treatment approaches and possibly medical evaluation.
 
-**Must-Know Tip:** Always compare ROM findings bilaterally and consider the client's age, activity level, and medical history when interpreting results. A 20-degree limitation may be significant in a young athlete but acceptable in an elderly client with arthritis. Document specific measurements and note pain responses to track progress objectively.
+**Must-Know Tips:** Always compare ROM findings bilaterally and consider the client's age, activity level, and medical history when interpreting results. A 20-degree limitation may be significant in a young athlete but acceptable in an elderly client with arthritis. Document specific measurements and note pain responses to track progress objectively.
 
 ### End-Feel Assessment
 
@@ -260,4 +260,4 @@ Understanding kinesiology concepts enables massage therapists to perform more ef
 
 7. **Active versus passive ROM differences help identify restriction sources** - This diagnostic principle guides treatment selection and helps establish realistic therapeutic goals based on the underlying dysfunction pattern.
 
-**Must-Know Tip:** Successful kinesiology application requires understanding that muscles never work in isolation. Always consider the entire kinetic chain when assessing movement dysfunction and planning treatment interventions. Address both the symptomatic area and contributing factors throughout the movement system for lasting therapeutic results.
+**Must-Know Tips:** Successful kinesiology application requires understanding that muscles never work in isolation. Always consider the entire kinetic chain when assessing movement dysfunction and planning treatment interventions. Address both the symptomatic area and contributing factors throughout the movement system for lasting therapeutic results.
