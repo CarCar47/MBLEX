@@ -1,0 +1,156 @@
+#!/usr/bin/env python3
+"""
+Update the existing JSON exported earlier (assessment_diagnosis_massage_questions.json)
+by filling correct, feedback, and difficulty for each of the 120 items.
+
+Usage:
+  1) Put this script in the same folder as your JSON file:
+       assessment_diagnosis_massage_questions.json
+  2) Run:
+       python update_answers_assessment.py
+  3) The script will write:
+       assessment_diagnosis_massage_questions_keyed.json
+"""
+import json, pathlib
+
+IN_PATH = pathlib.Path("assessment_diagnosis_massage_questions.json")
+OUT_PATH = pathlib.Path("assessment_diagnosis_massage_questions_keyed.json")
+
+# id -> [correct_index, feedback]
+ANS = {
+ "assessment_diagnosis_q001": [2, "La inclinación anterior depende de flexores de cadera (iliopsoas/psoas) y la posterior de isquiotibiales; aquí se representan por psoas (minor) y semitendinoso/bíceps femoral."],
+ "assessment_diagnosis_q002": [3, "El nervio axilar (plexo braquial) inerva deltoides y redondo menor en la región proximal del brazo."],
+ "assessment_diagnosis_q003": [1, "En anatomía, la cara frontal del cuerpo es la región anterior."],
+ "assessment_diagnosis_q004": [2, "Una pregunta específica se centra en detalles del evento/lesión: mecanismo de inicio (golpe vs. gradual)."],
+ "assessment_diagnosis_q005": [3, "Los romboides retraen (aducción), elevan y rotan inferiormente la escápula."],
+ "assessment_diagnosis_q006": [2, "Fase 2 (subaguda): 72 horas a 14 semanas tras el trauma cervical (Foreman & Croft)."],
+ "assessment_diagnosis_q007": [1, "La Técnica Alexander mejora la postura y la coordinación neuromuscular."],
+ "assessment_diagnosis_q008": [2, "Acostado boca arriba corresponde a la posición supina."],
+ "assessment_diagnosis_q009": [1, "La inclinación pélvica posterior estira flexores de cadera: iliaco, psoas mayor y recto femoral."],
+ "assessment_diagnosis_q010": [0, "El nervio frénico (C3–C5) del plexo cervical inerva el diafragma."],
+ "assessment_diagnosis_q011": [2, "Las preguntas generales exploran el estado de salud habitual del cliente."],
+ "assessment_diagnosis_q012": [2, "Postura en equilibrio: eficiencia fisiológica y mecánica."],
+ "assessment_diagnosis_q013": [0, "Cambios atípicos de color/forma/tamaño ameritan informar y derivar si procede."],
+ "assessment_diagnosis_q014": [3, "Pes cavus = arco plantar muy elevado."],
+ "assessment_diagnosis_q015": [0, "Observaciones: claves visuales objetivas sobre la condición del cliente."],
+ "assessment_diagnosis_q016": [3, "Romboides mayor y menor comparten inervación por el nervio dorsal escapular (C5)."],
+ "assessment_diagnosis_q017": [1, "Sin mejoría en latigazo cervical, se deriva a quiropráctico/fisioterapeuta/osteópata."],
+ "assessment_diagnosis_q018": [3, "Los puntos gatillo latentes duelen al movimiento/palpación, no en reposo; los activos duelen incluso en reposo."],
+ "assessment_diagnosis_q019": [0, "Antecedentes médicos como diabetes/HTA/cáncer son preguntas generales."],
+ "assessment_diagnosis_q020": [1, "Cápsula y ligamentos estabilizan la articulación permitiendo el movimiento en ROM activo."],
+ "assessment_diagnosis_q021": [0, "“¿Le ha sucedido antes?” indaga sobre especificidad del cuadro actual."],
+ "assessment_diagnosis_q022": [2, "La conmoción cerebral puede comprometer la vida y requiere evaluación médica."],
+ "assessment_diagnosis_q023": [3, "En pie cavo se afectan y pueden verse sobrecargados músculos del pie/tobillo; entre las opciones, los listados del pie son los pertinentes."],
+ "assessment_diagnosis_q024": [1, "El braquiorradial ayuda a llevar el antebrazo a posición neutra entre pronación y supinación."],
+ "assessment_diagnosis_q025": [2, "Pregunta enfocada al dolor: duración/intensidad/características del dolor."],
+ "assessment_diagnosis_q026": [3, "El trabajo corporal ayurvédico integra hierbas y hábitos para depurar hígado/digestión."],
+ "assessment_diagnosis_q027": [0, "El cuadrado lumbar suele estar tenso/hipertónico en dolor lumbar crónico."],
+ "assessment_diagnosis_q028": [3, "La prueba manual ayuda a identificar tejido implicado, disfunción articular y función muscular."],
+ "assessment_diagnosis_q029": [0, "Los romboides están medialmente respecto al deltoides."],
+ "assessment_diagnosis_q030": [3, "Varo estresa el ligamento colateral lateral (LCL)."],
+ "assessment_diagnosis_q031": [2, "El plexo cervical sirve diafragma, cuello y hombro."],
+ "assessment_diagnosis_q032": [0, "Apendicular: extremidades y cinturas (escápula/clavícula/pélvica)."],
+ "assessment_diagnosis_q033": [1, "La acupresión puede aliviar presión en senos paranasales mediante puntos reflejos."],
+ "assessment_diagnosis_q034": [0, "Ayurveda educa en dieta/ejercicio/estrés y hábitos de vida."],
+ "assessment_diagnosis_q035": [1, "Impacto trasero, grado 4 con inestabilidad/neuro/fractura y fase crónica/permanente (F/C)."],
+ "assessment_diagnosis_q036": [2, "La Terapia de Armonización se centra en patrones somáticos y regulación del sistema nervioso."],
+ "assessment_diagnosis_q037": [1, "Los ligamentos de cadera limitan principalmente la extensión."],
+ "assessment_diagnosis_q038": [2, "Evaluación visual: contornos, textura, temperatura, cicatrices, etc."],
+ "assessment_diagnosis_q039": [1, "Entre las opciones dadas, antecedentes familiares se toma como enfoque específico del cuadro actual."],
+ "assessment_diagnosis_q040": [0, "En la fase aguda de capsulitis adhesiva el dolor suele localizarse en la cara lateral del brazo."],
+ "assessment_diagnosis_q041": [0, "El nervio frénico (plexo cervical) inerva el diafragma."],
+ "assessment_diagnosis_q042": [1, "El plexo sacro inerva la cara posterior de pierna y pie."],
+ "assessment_diagnosis_q043": [2, "Escaleno anterior y medio se insertan en la 1ª costilla."],
+ "assessment_diagnosis_q044": [1, "Derivar a quiropráctico/fisio/osteópata ante falta de mejoría."],
+ "assessment_diagnosis_q045": [3, "Sedestación prolongada alarga glúteo mayor e isquiotibiales; también compromete glúteo medio."],
+ "assessment_diagnosis_q046": [2, "Bursitis de flexores de cadera se evalúa en región anterior proximal del muslo."],
+ "assessment_diagnosis_q047": [2, "La relajación post‑isométrica es efectiva para músculos acortados."],
+ "assessment_diagnosis_q048": [1, "Patrones Aston enseña mecánica corporal y posturas saludables para el terapeuta."],
+ "assessment_diagnosis_q049": [3, "Preguntas abiertas permiten que el cliente se exprese sin sesgos."],
+ "assessment_diagnosis_q050": [2, "Dolor al inicio, durante y después de la actividad = tendinopatía grado 3."],
+ "assessment_diagnosis_q051": [0, "Cambios atípicos en color/forma/tamaño requieren informar y posible derivación."],
+ "assessment_diagnosis_q052": [1, "Específica: mecanismo de lesión y primeros auxilios recibidos."],
+ "assessment_diagnosis_q053": [0, "En varo crónico se alargan estructuras laterales como bíceps femoral y banda iliotibial."],
+ "assessment_diagnosis_q054": [3, "La acupresión estimula respuestas de autorregulación/curación del cuerpo."],
+ "assessment_diagnosis_q055": [3, "El pectoral menor recibe inervación del nervio pectoral medial (C8–T1)."],
+ "assessment_diagnosis_q056": [3, "La urticaria se debe a histamina/mastocitos; ninguna opción dada lo describe correctamente."],
+ "assessment_diagnosis_q057": [2, "Las alteraciones funcionales pueden modificarse con trabajo de tejidos blandos/fascia."],
+ "assessment_diagnosis_q058": [1, "La desviación cubital mejora al estirar el extensor carpi ulnaris, potente desviador cubital."],
+ "assessment_diagnosis_q059": [0, "Las asimetrías bilaterales se detectan con evaluación postural y de la marcha."],
+ "assessment_diagnosis_q060": [2, "Tibial anterior: dorsiflexión + inversión; antagonista combinado = peroneo largo (eversión + flexión plantar)."],
+ "assessment_diagnosis_q061": [3, "Se seleccionan músculos del pie y tobillo según las opciones; ver pie cavo."],
+ "assessment_diagnosis_q062": [1, "Torcedura aguda debe valorarla un profesional médico/quiropráctico; entre opciones: quiropráctico."],
+ "assessment_diagnosis_q063": [0, "Talón y tobillo hacia afuera = eversión."],
+ "assessment_diagnosis_q064": [0, "Antecedentes patológicos generales = pregunta general."],
+ "assessment_diagnosis_q065": [0, "Los ejercicios de Kegel fortalecen el piso pélvico."],
+ "assessment_diagnosis_q066": [1, "Hipercifosis torácica suele asociarse a acortamiento del pectoral menor bilateral."],
+ "assessment_diagnosis_q067": [1, "Balance Cero (Zero Balancing) trabaja el biocampo/energía y estructura."],
+ "assessment_diagnosis_q068": [1, "Con rodillas flexionadas (supino) se accede mejor al iliopsoas por abdomen relajado."],
+ "assessment_diagnosis_q069": [0, "El órgano tendinoso de Golgi protege frente a desgarros por tensión excesiva."],
+ "assessment_diagnosis_q070": [3, "ROM activo y pasivo son distintos (contracción voluntaria vs. movimiento pasivo)."],
+ "assessment_diagnosis_q071": [3, "Flexión cervical leve sugiere escalenos anteriores acortados bilateralmente."],
+ "assessment_diagnosis_q072": [1, "Pregunta general de contexto: profesión/actividad laboral."],
+ "assessment_diagnosis_q073": [2, "La palpación determina la estructura implicada y su integridad funcional."],
+ "assessment_diagnosis_q074": [2, "Dolor con movimiento pasivo sugiere patología articular/capsular."],
+ "assessment_diagnosis_q075": [3, "Dolor continuo incluso en actividades cotidianas = grado 4."],
+ "assessment_diagnosis_q076": [3, "El tríceps es antagonista del bíceps braquial en el codo."],
+ "assessment_diagnosis_q077": [2, "Pregunta enfocada al dolor: duración exacta del dolor intenso."],
+ "assessment_diagnosis_q078": [3, "Acupresión estimula autocuración; útil en tendinopatías crónicas."],
+ "assessment_diagnosis_q079": [1, "Aromaterapia (p. ej., lavanda) puede aplicarse localmente y llevarse consigo."],
+ "assessment_diagnosis_q080": [2, "Fibras inferiores del pectoral mayor limitan flexión; su acortamiento reduce flexión GH."],
+ "assessment_diagnosis_q081": [2, "Palpación: localización e integridad de estructuras."],
+ "assessment_diagnosis_q082": [0, "El supraespinoso es el desgarro más frecuente del manguito rotador."],
+ "assessment_diagnosis_q083": [1, "Derivar a quiropráctico/fisio/osteópata si no hay progreso."],
+ "assessment_diagnosis_q084": [1, "Posterior de pierna y pie = plexo sacro."],
+ "assessment_diagnosis_q085": [2, "El nervio torácico largo (C5–C7) inerva el serrato anterior."],
+ "assessment_diagnosis_q086": [0, "El ligamento deltoideo (medial) resiste valgo en el tobillo."],
+ "assessment_diagnosis_q087": [1, "Patrones Aston ayuda a realinear pies/tobillos y mejorar flexibilidad/uso."],
+ "assessment_diagnosis_q088": [2, "Pregunta específica: describir la lesión y su mecanismo."],
+ "assessment_diagnosis_q089": [2, "Tras el whiplash agudo suele haber calor (inflamación) a la palpación suave."],
+ "assessment_diagnosis_q090": [0, "La prueba de deglución ayuda a discriminar dolor referido del ECOM vs. otras causas cervicales."],
+ "assessment_diagnosis_q091": [3, "Sexo, sorpresa, velocidad, tipo de vehículo y apoyacabezas influyen; todas son correctas."],
+ "assessment_diagnosis_q092": [3, "Específica: si ya fue con el médico y obtuvo diagnóstico sobre este problema."],
+ "assessment_diagnosis_q093": [3, "Hipertonía del pectoral menor tracciona la escápula en rotación descendente y anteversión."],
+ "assessment_diagnosis_q094": [0, "Valoración: análisis objetivo y fundamentado del estado del cliente."],
+ "assessment_diagnosis_q095": [3, "Capsulitis adhesiva = hombro congelado."],
+ "assessment_diagnosis_q096": [1, "Inclinación izquierda implica alargamiento/debilidad contralateral: trapecio superior derecho."],
+ "assessment_diagnosis_q097": [2, "La eversión evalúa principalmente peroneos largo y corto."],
+ "assessment_diagnosis_q098": [1, "Entre escalenos posteriores y esplenio de la cabeza se ubica el elevador de la escápula."],
+ "assessment_diagnosis_q099": [1, "Derivar ante falta de mejoría en latigazo cervical."],
+ "assessment_diagnosis_q100": [1, "La presión sostenida en puntos dolorosos busca la distensión/ablandamiento del tejido."],
+ "assessment_diagnosis_q101": [2, "Visual: forma superficial, textura, temperatura, relieves y cicatrices."],
+ "assessment_diagnosis_q102": [0, "Observaciones = pistas visuales objetivas de la condición."],
+ "assessment_diagnosis_q103": [0, "Para aliviar tensión leve en la muñeca suele elongarse el grupo extensor (uso excesivo frecuente)."],
+ "assessment_diagnosis_q104": [0, "ROM activo valora la capacidad del cliente para contraer y mover por sí mismo."],
+ "assessment_diagnosis_q105": [0, "La Terapia de Armonización aborda traumas relacionales alojados en el sistema nervioso."],
+ "assessment_diagnosis_q106": [1, "Proximal = más cercano al origen."],
+ "assessment_diagnosis_q107": [0, "Patrones Aston reeduca patrones de trabajo y ergonomía para aliviar neuralgias."],
+ "assessment_diagnosis_q108": [2, "Patrones Aston ayuda a integrar cambios para que los efectos duren más tiempo."],
+ "assessment_diagnosis_q109": [0, "Se denomina valoración y evaluación al proceso de explorar la condición actual y fundamentos físicos."],
+ "assessment_diagnosis_q110": [2, "Evitar lesión: presión gradual y controlada, con vaivén y repeticiones prudentes."],
+ "assessment_diagnosis_q111": [2, "Inclinación izquierda alarga trapecio superior derecho."],
+ "assessment_diagnosis_q112": [0, "La fascia sana permite movimiento libre de músculos y articulaciones en ROM activo."],
+ "assessment_diagnosis_q113": [1, "La aducción/aducción horizontal se limita con pectoral mayor (fibras superiores) acortado."],
+ "assessment_diagnosis_q114": [2, "Amma (acupresión japonesa) activa puntos para favorecer la curación."],
+ "assessment_diagnosis_q115": [1, "La inclinación lateral pélvica involucra QL y latissimus dorsi por la fascia toracolumbar."],
+ "assessment_diagnosis_q116": [0, "Tacones altos acortan el gastrocnemio/soléus por flexión plantar mantenida."],
+ "assessment_diagnosis_q117": [1, "Las 4T: temperatura, tonicidad (tono), sensibilidad (tenderness) y textura."],
+ "assessment_diagnosis_q118": [0, "Buen proceso: registrar/valorar problemas físicos/sociales, anamnesis y evaluación física."],
+ "assessment_diagnosis_q119": [1, "Específica: fecha de trauma/inicio de síntomas del cuadro actual."],
+ "assessment_diagnosis_q120": [3, "Todas: el terapeuta necesita su propia valoración para comprender y planificar con objetividad."]
+}
+
+if not IN_PATH.exists():
+    raise SystemExit(f"No se encontró {IN_PATH}. Asegúrate de poner este script junto al archivo JSON exportado.")
+
+data = json.loads(IN_PATH.read_text(encoding="utf-8"))
+for item in data:
+    qid = item.get("id")
+    if qid in ANS:
+        correct, fb = ANS[qid]
+        item["correct"] = correct
+        item["feedback"] = fb
+        item["difficulty"] = "medium"
+
+OUT_PATH.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+print(f"✅ Escrito: {OUT_PATH} — {len(data)} preguntas actualizadas.")

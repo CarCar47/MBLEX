@@ -1,0 +1,1051 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MBLEX Massage Therapy Preparation</title>
+    <meta name="description" content="Interactive MBLEX massage therapy licensure exam preparation platform">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="assets/images/MBLEX logo app.png">
+    <link rel="apple-touch-icon" href="assets/images/MBLEX logo app.png">
+    <link rel="shortcut icon" href="assets/images/MBLEX logo app.png">
+    
+    <!-- Auth0 SDK -->
+    <script src="https://cdn.auth0.com/js/auth0-spa-js/2.1/auth0-spa-js.production.js"></script>
+    
+    <!-- PWA Manifest -->
+    <link rel="manifest" href="manifest.json">
+
+    <!-- PWA Meta Tags -->
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="MBLEX Quiz">
+    <meta name="application-name" content="MBLEX Quiz">
+    <meta name="msapplication-TileColor" content="#667eea">
+    <meta name="theme-color" content="#667eea">
+
+    <!-- App Styles -->
+    <link rel="stylesheet" href="css/styles.css?v=2025-content-display-layout-fix">
+    <link rel="stylesheet" href="css/quiz-generator-styles.css">
+    <link rel="stylesheet" href="css/offline-styles.css">
+</head>
+<body>
+    <!-- Loading Screen -->
+    <div id="loadingScreen" class="screen">
+        <div class="loading-content">
+            <div class="loading-spinner"></div>
+            <h2>Loading MBLEX Prep Platform...</h2>
+            <p>Preparing your massage therapy education tools</p>
+        </div>
+    </div>
+
+    <!-- Login Screen -->
+    <div id="loginScreen" class="screen">
+        <div class="login-container">
+            <div class="login-content">
+                <div class="login-header">
+                    <h1>MBLEX Massage Therapy Prep</h1>
+                    <p class="login-subtitle">Your path to massage therapy licensure success</p>
+                </div>
+                
+                <div class="login-features">
+                    <div class="feature-item">
+                        <span class="feature-icon">📚</span>
+                        <span>Comprehensive Study Materials</span>
+                    </div>
+                    <div class="feature-item">
+                        <span class="feature-icon">📝</span>
+                        <span>Practice Test Generator</span>
+                    </div>
+                    <div class="feature-item">
+                        <span class="feature-icon">🎮</span>
+                        <span>Interactive Simulations</span>
+                    </div>
+                    <div class="feature-item">
+                        <span class="feature-icon">🤖</span>
+                        <span>AI Tutor Assistant</span>
+                    </div>
+                </div>
+                
+                <button id="loginButton" class="btn btn-primary btn-large" onclick="login()">
+                    Begin Your MBLEX Journey
+                </button>
+                
+                <div class="login-info">
+                    <p>Secure authentication powered by Auth0</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Start Screen with Four Cards -->
+    <div id="mainStartScreen" class="screen active">
+        <div class="main-start-container">
+            
+            <!-- Language Toggle -->
+            <div class="language-toggle">
+                <button id="btnEnglish" class="lang-btn active" onclick="setLanguage('en')">
+                    English
+                </button>
+                <button id="btnSpanish" class="lang-btn" onclick="setLanguage('es')">
+                    Español
+                </button>
+            </div>
+            
+            <!-- Main Title -->
+            <div class="main-title">
+                <h1 data-translate="main-title">MBLEX Preparation Platform</h1>
+                <p class="main-subtitle" data-translate="main-subtitle">Master your massage therapy licensure exam</p>
+                
+                <!-- User Welcome Section -->
+                <div class="user-welcome auth-visible">
+                    <div class="welcome-message">
+                        <div class="user-info">
+                            <img class="profile-image" src="assets/images/MBLEX logo app.png" alt="MBLEX Logo" width="40" height="40">
+                            <div class="user-details">
+                                <p class="welcome-text"><span data-translate="welcome-back">Welcome back</span>, <span class="user-name">User</span>!</p>
+                                <button onclick="logout()" class="btn btn-secondary btn-small" data-translate="sign-out">Sign Out</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Four Main Option Cards -->
+            <div class="main-options four-card-grid">
+                <!-- Card 1: Study Area -->
+                <div class="option-card study-card">
+                    <div class="option-icon">📚</div>
+                    <h2 data-translate="study-title">Study Area</h2>
+                    <p data-translate="study-desc">Comprehensive study materials organized by MBLEX topics and body systems</p>
+                    <button id="studyButton" class="btn btn-primary btn-large" data-translate="study-btn">
+                        Start Studying
+                    </button>
+                </div>
+                
+                <!-- Card 2: Test Generator -->
+                <div class="option-card test-card">
+                    <div class="option-icon">📝</div>
+                    <h2 data-translate="test-title">Test Generator</h2>
+                    <p data-translate="test-desc">Practice exams with MBLEX-style questions in English and Spanish</p>
+                    <button id="testButton" class="btn btn-primary btn-large" data-translate="test-btn">
+                        Take Practice Test
+                    </button>
+                </div>
+                
+                <!-- Card 3: Simulation Game -->
+                <div class="option-card simulation-card">
+                    <div class="option-icon">🎮</div>
+                    <h2 data-translate="simulation-title">Simulation Game</h2>
+                    <p data-translate="simulation-desc">Interactive massage therapy scenarios with real-world clinical situations</p>
+                    <button id="simulationButton" class="btn btn-primary btn-large" data-translate="simulation-btn">
+                        Start Simulation
+                    </button>
+                </div>
+                
+                <!-- Card 4: AI Chatbot -->
+                <div class="option-card chatbot-card">
+                    <div class="option-icon">🤖</div>
+                    <h2 data-translate="ai-title">AI Tutor Assistant</h2>
+                    <p data-translate="ai-desc">Get personalized help, practice questions, and instant feedback</p>
+                    <button id="aiTutorButton" class="btn btn-primary btn-large" data-translate="ai-btn">
+                        Launch AI Tutor
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Study Screen -->
+    <div id="studyScreen" class="screen">
+        <div class="study-container">
+            <header class="study-header">
+                <h2 data-translate="study-areas-title">MBLEX Study Areas</h2>
+                <p data-translate="study-areas-subtitle">Choose a content area to focus your study preparation</p>
+            </header>
+            
+            <div id="studyAreasContainer">
+                <!-- Study area cards will be dynamically generated here -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Test Generator Screen -->
+    <div id="testScreen" class="screen">
+        <div class="screen-header">
+            <h1 data-translate="test-title">📝 Test Generator</h1>
+            <p data-translate="test-desc">Practice exams with MBLEX-style questions in English and Spanish</p>
+        </div>
+
+        <div class="screen-content">
+            <!-- Quiz Generator Setup -->
+            <div id="quizSetup" class="quiz-setup-container">
+                <div class="setup-card">
+                    <h2>Setup Your Quiz</h2>
+                    <div class="setup-grid">
+                        <!-- Topic Selection -->
+                        <div class="setup-section">
+                            <label class="section-label">Topics / Sections</label>
+                            <div id="topicButtons" class="topic-buttons">
+                                <!-- Topic buttons will be generated here -->
+                            </div>
+                            <p id="topicWarning" class="warning-text" style="display: none;">
+                                Select at least one topic.
+                            </p>
+                        </div>
+
+                        <!-- Question Count -->
+                        <div class="setup-section">
+                            <label class="section-label" for="questionCount">Questions</label>
+                            <select id="questionCount" class="form-select">
+                                <option value="5">5 questions</option>
+                                <option value="10" selected>10 questions</option>
+                                <option value="15">15 questions</option>
+                                <option value="20">20 questions</option>
+                                <option value="30">30 questions</option>
+                                <option value="50">50 questions</option>
+                                <option value="75">75 questions</option>
+                                <option value="100">100 questions</option>
+                                <option value="120">120 questions (all)</option>
+                            </select>
+                            <p class="help-text">Available: <span id="poolCount">0</span> questions</p>
+                        </div>
+                    </div>
+
+                    <!-- Generate Button -->
+                    <button id="generateQuizBtn" class="btn-generate" disabled>
+                        🚀 Generate Quiz
+                    </button>
+                </div>
+            </div>
+
+            <!-- Quiz Interface -->
+            <div id="quizInterface" class="quiz-interface" style="display: none;">
+                <!-- Quiz Header -->
+                <div class="quiz-header-bar">
+                    <div class="quiz-progress">
+                        <span id="questionCounter">Question 1 of 10</span>
+                        <div class="progress-bar">
+                            <div id="progressFill" class="progress-fill"></div>
+                        </div>
+                    </div>
+                    <button id="resetQuizBtn" class="btn-reset">🔄 New Quiz</button>
+                </div>
+
+                <!-- Question Content -->
+                <div class="question-container">
+                    <div class="question-topic" id="questionTopic"></div>
+                    <div class="question-stem" id="questionStem"></div>
+
+                    <!-- Multiple Choice Options -->
+                    <div id="choiceContainer" class="choice-container">
+                        <!-- Choices will be generated here -->
+                    </div>
+                </div>
+
+                <!-- Navigation -->
+                <div class="quiz-navigation">
+                    <button id="prevQuestionBtn" class="btn-nav" disabled>← Previous</button>
+                    <div class="nav-center">
+                        <button id="submitQuizBtn" class="btn-submit">Submit Quiz</button>
+                    </div>
+                    <button id="nextQuestionBtn" class="btn-nav" disabled>Next →</button>
+                </div>
+            </div>
+
+            <!-- Results Screen -->
+            <div id="resultsScreen" class="results-screen" style="display: none;">
+                <!-- Results will be generated here -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Simulation Screen -->
+    <div id="simulationScreen" class="screen">
+        <div class="study-container">
+            <header class="study-header">
+                <h2>🎮 Interactive Simulations</h2>
+                <p>Real-world massage therapy scenarios - Test your clinical decision-making skills</p>
+            </header>
+            
+            <div class="simulation-welcome">
+                <div class="welcome-content">
+                    <div class="simulation-info">
+                        <p>Practice interactive patient scenarios that present unique challenges to help prepare you for the MBLEX exam and real-world practice.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Bottom Footer with Action Buttons -->
+        <div class="simulation-footer">
+            <button id="startRandomScenario" class="btn btn-primary btn-large">
+                🚀 Start Random Scenario
+            </button>
+            <button id="viewProgress" class="btn btn-secondary">
+                📊 View Progress
+            </button>
+            <button id="resetProgress" class="btn btn-danger">
+                🔄 Reset Progress
+            </button>
+        </div>
+    </div>
+
+    <!-- Simulation Game Screen -->
+    <div id="simulationGameScreen" class="screen">
+        <div class="game-container">
+            <!-- Game Header - Clean top positioning like nursing app -->
+            <header class="game-header">
+                <div class="scenario-info">
+                    <h2 id="scenarioTitle">Scenario Loading...</h2>
+                    <div class="scenario-progress">
+                        <span id="currentStep">1</span> / <span id="totalSteps">1</span>
+                    </div>
+                </div>
+                <div class="score-display">
+                    <div class="score-item">
+                        <label>Score:</label>
+                        <span id="currentScore">100</span>%
+                    </div>
+                </div>
+            </header>
+
+            <!-- Main Game Content -->
+            <main class="game-content">
+            <!-- Patient Info Panel (if applicable) -->
+            <div class="patient-panel" id="patientPanel" style="display: none;">
+                <div class="patient-header">
+                    <img id="patientImage" src="" alt="Patient" class="patient-photo">
+                    <div class="patient-details">
+                        <h3 id="patientName">Patient Name</h3>
+                        <p id="patientBasics">Age: - | Gender: -</p>
+                        <p id="patientPresentation">Loading patient information...</p>
+                    </div>
+                </div>
+                <div class="patient-vitals" id="patientVitals">
+                    <!-- Vitals will be loaded dynamically -->
+                </div>
+            </div>
+
+            <!-- Step Content -->
+            <div class="step-content">
+                <div class="step-header">
+                    <h2 id="stepTitle">Step Title</h2>
+                    <p id="stepDescription">Step description...</p>
+                </div>
+                
+                <div class="step-question">
+                    <h3 id="stepQuestion">What is your next action?</h3>
+                </div>
+                
+                <div class="choices-container" id="choicesContainer">
+                    <!-- Choices will be loaded dynamically -->
+                </div>
+            </div>
+            </main>
+        </div>
+    </div>
+
+    <!-- Simulation Results Screen -->
+    <div id="simulationResultsScreen" class="screen">
+        <div class="results-container">
+            <div class="results-header">
+                <h1>Scenario Complete!</h1>
+                <h2 id="resultsScenarioTitle">Scenario Title</h2>
+            </div>
+            
+            <div class="results-score-section">
+                <div class="score-circle">
+                    <div class="score-display">
+                        <span class="score-number" id="resultsScoreNumber">0</span>
+                        <span class="score-total">/ 3</span>
+                    </div>
+                    <div class="score-percentage" id="resultsScorePercentage">0%</div>
+                </div>
+                
+                <div class="grade-display">
+                    <div class="grade-letter" id="resultsGrade">F</div>
+                    <div class="grade-label">Grade</div>
+                </div>
+            </div>
+            
+            <div class="results-details">
+                <div class="result-item">
+                    <span class="result-label">Time Taken:</span>
+                    <span class="result-value" id="resultsTime">0:00</span>
+                </div>
+                <div class="result-item">
+                    <span class="result-label">Questions Correct:</span>
+                    <span class="result-value" id="resultsCorrect">0/3</span>
+                </div>
+            </div>
+            
+            <div class="results-feedback">
+                <h3>Performance Feedback</h3>
+                <p id="resultsFeedback">Great job completing this scenario!</p>
+            </div>
+            
+            <div class="results-actions">
+                <button id="reviewAnswersBtn" class="btn btn-secondary btn-large">
+                    📋 Review Answers
+                </button>
+                <button id="newScenarioBtn" class="btn btn-primary btn-large">
+                    🎮 New Scenario
+                </button>
+                <button id="returnToMenuBtn" class="btn btn-secondary btn-large">
+                    🏠 Return to Menu
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- AI Chatbot Screen -->
+    <div id="aiTutorScreen" class="screen">
+        <div class="chatbot-container">
+            <header class="chatbot-header">
+                <h2>AI Tutor Assistant</h2>
+                <div class="chatbot-controls">
+                    <button id="fullscreenButton" class="btn btn-secondary" title="Toggle Fullscreen">
+                        📱 Fullscreen
+                    </button>
+                    <button id="helpButton" class="btn btn-secondary" title="How to Use AI Tutor">
+                        💡 Help
+                    </button>
+                </div>
+            </header>
+            
+            <div class="chatbot-content">
+                <!-- Quick Start Prompts -->
+                <div class="chatbot-instructions">
+                    <div class="quick-prompts" style="display: flex; align-items: center; justify-content: center; padding: 1rem; gap: 1rem;">
+                        <p style="color: #666; font-style: italic; margin: 0;">
+                            Press the Refresh Button to bring up easy to use practice question buttons
+                        </p>
+                        <button id="refreshChatbot" class="btn btn-secondary" title="Refresh Chatbot">
+                            🔄 Refresh
+                        </button>
+                    </div>
+                </div>
+                
+                <!-- Chatbot iframe container -->
+                <div id="chatbotFrame" class="chatbot-frame">
+                    <iframe
+                        id="chatbotIframe"
+                        src="https://www.chatbase.co/chatbot-iframe/JSnFdxR-Yqctl2QMqQZb0"
+                        width="100%"
+                        height="100%"
+                        frameborder="0"
+                        allow="microphone; camera"
+                        title="AI Tutor Chatbot">
+                    </iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Individual MBLEX Study Area Screens -->
+    
+    <!-- Anatomy & Physiology Screen -->
+    <div id="anatomy_physiologyScreen" class="screen">
+        <div class="study-area-container">
+            <div class="study-area-header">
+                <h1>🧍 Anatomy & Physiology</h1>
+                <p><strong>11% of MBLEX exam</strong> • Body system structures and functions</p>
+            </div>
+            
+            <!-- Topics Covered Container -->
+            <div class="topics-covered-container">
+                <div class="study-content-overview">
+                    <h3>Topics Covered:</h3>
+                    <ul>
+                        <li>System structure (Cardiovascular, Digestive, Endocrine, etc.)</li>
+                        <li>System function for all body systems</li>
+                        <li>Tissue injury and repair processes</li>
+                        <li>Concepts of energetic anatomy</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- Learning Formats Container -->
+            <div class="learning-formats-container">
+                <div class="learning-formats-section">
+                    <h2>Choose Your Learning Format</h2>
+                    <div class="learning-formats-grid">
+                        <div class="format-card" data-area="anatomy_physiology" data-format="reading">
+                            <div class="format-icon">📖</div>
+                            <h3>Reading</h3>
+                            <p>Comprehensive text-based study materials</p>
+                            <button class="btn btn-primary format-btn">Study Reading Materials</button>
+                        </div>
+                        
+                        <div class="format-card" data-area="anatomy_physiology" data-format="images">
+                            <div class="format-icon">🖼️</div>
+                            <h3>Images</h3>
+                            <p>Visual diagrams and anatomical illustrations</p>
+                            <button class="btn btn-primary format-btn">View Image Gallery</button>
+                        </div>
+                        
+                        <div class="format-card" data-area="anatomy_physiology" data-format="videos">
+                            <div class="format-icon">🎥</div>
+                            <h3>Videos</h3>
+                            <p>Educational videos and demonstrations</p>
+                            <button class="btn btn-primary format-btn">Watch Videos</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Kinesiology Screen -->
+    <div id="kinesiologyScreen" class="screen">
+        <div class="study-area-container">
+            <div class="study-area-header">
+                <h1>🦴 Kinesiology</h1>
+                <p><strong>12% of MBLEX exam</strong> • Movement, muscles, and joint function</p>
+            </div>
+            
+            <!-- Topics Covered Container -->
+            <div class="topics-covered-container">
+                <div class="study-content-overview">
+                    <h3>Topics Covered:</h3>
+                    <ul>
+                        <li>Skeletal muscle components & characteristics</li>
+                        <li>Concepts of skeletal muscle contractions</li>
+                        <li>Proprioceptors and sensory feedback</li>
+                        <li>Joint structure and function</li>
+                        <li>Range of motion (Active, Passive, Resisted)</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- Learning Formats Container -->
+            <div class="learning-formats-container">
+                <div class="learning-formats-section">
+                    <h2>Choose Your Learning Format</h2>
+                    <div class="learning-formats-grid">
+                        <div class="format-card" data-area="kinesiology" data-format="reading">
+                            <div class="format-icon">📖</div>
+                            <h3>Reading</h3>
+                            <p>Comprehensive text-based study materials</p>
+                            <button class="btn btn-primary format-btn">Study Reading Materials</button>
+                        </div>
+                        
+                        <div class="format-card" data-area="kinesiology" data-format="images">
+                            <div class="format-icon">🖼️</div>
+                            <h3>Images</h3>
+                            <p>Muscle diagrams and movement illustrations</p>
+                            <button class="btn btn-primary format-btn">View Image Gallery</button>
+                        </div>
+                        
+                        <div class="format-card" data-area="kinesiology" data-format="videos">
+                            <div class="format-icon">🎥</div>
+                            <h3>Videos</h3>
+                            <p>Movement analysis and technique videos</p>
+                            <button class="btn btn-primary format-btn">Watch Videos</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Pathology & Contraindications Screen -->
+    <div id="pathology_contraindicationsScreen" class="screen">
+        <div class="study-area-container">
+            <div class="study-area-header">
+                <h1>⚠️ Pathology, Contraindications & Special Populations</h1>
+                <p><strong>14% of MBLEX exam</strong> • Safety protocols and medical considerations</p>
+            </div>
+            
+            <!-- Topics Covered Container -->
+            <div class="topics-covered-container">
+                <div class="study-content-overview">
+                    <h3>Topics Covered:</h3>
+                    <ul>
+                        <li>Overview of pathologies</li>
+                        <li>Contraindications (Site specific, Pathology related, Special populations)</li>
+                        <li>Areas of caution for massage therapy</li>
+                        <li>Special populations considerations</li>
+                        <li>Classes of medications and interactions</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- Learning Formats Container -->
+            <div class="learning-formats-container">
+                <div class="learning-formats-section">
+                    <h2>Choose Your Learning Format</h2>
+                    <div class="learning-formats-grid">
+                        <div class="format-card" data-area="pathology_contraindications" data-format="reading">
+                            <div class="format-icon">📖</div>
+                            <h3>Reading</h3>
+                            <p>Detailed pathology and safety protocols</p>
+                            <button class="btn btn-primary format-btn">Study Reading Materials</button>
+                        </div>
+                        
+                        <div class="format-card" data-area="pathology_contraindications" data-format="images">
+                            <div class="format-icon">🖼️</div>
+                            <h3>Images</h3>
+                            <p>Condition recognition and visual guides</p>
+                            <button class="btn btn-primary format-btn">View Image Gallery</button>
+                        </div>
+                        
+                        <div class="format-card" data-area="pathology_contraindications" data-format="videos">
+                            <div class="format-icon">🎥</div>
+                            <h3>Videos</h3>
+                            <p>Safety demonstrations and case studies</p>
+                            <button class="btn btn-primary format-btn">Watch Videos</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Soft Tissue Benefits Screen -->
+    <div id="soft_tissue_benefitsScreen" class="screen">
+        <div class="study-area-container">
+            <div class="study-area-header">
+                <h1>🤲 Benefits & Effects of Soft Tissue Manipulation</h1>
+                <p><strong>15% of MBLEX exam</strong> • Massage techniques and therapeutic outcomes</p>
+            </div>
+            
+            <!-- Topics Covered Container -->
+            <div class="topics-covered-container">
+                <div class="study-content-overview">
+                    <h3>Topics Covered:</h3>
+                    <ul>
+                        <li>Physiological effects of soft tissue manipulation</li>
+                        <li>Psychological effects of massage therapy</li>
+                        <li>Effects for specific client populations</li>
+                        <li>Soft tissue techniques (Types, Sequence of application)</li>
+                        <li>Hot/cold applications and massage modalities</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- Learning Formats Container -->
+            <div class="learning-formats-container">
+                <div class="learning-formats-section">
+                    <h2>Choose Your Learning Format</h2>
+                    <div class="learning-formats-grid">
+                        <div class="format-card" data-area="soft_tissue_benefits" data-format="reading">
+                            <div class="format-icon">📖</div>
+                            <h3>Reading</h3>
+                            <p>Therapeutic effects and techniques</p>
+                            <button class="btn btn-primary format-btn">Study Reading Materials</button>
+                        </div>
+                        
+                        <div class="format-card" data-area="soft_tissue_benefits" data-format="images">
+                            <div class="format-icon">🖼️</div>
+                            <h3>Images</h3>
+                            <p>Technique illustrations and hand positions</p>
+                            <button class="btn btn-primary format-btn">View Image Gallery</button>
+                        </div>
+                        
+                        <div class="format-card" data-area="soft_tissue_benefits" data-format="videos">
+                            <div class="format-icon">🎥</div>
+                            <h3>Videos</h3>
+                            <p>Massage technique demonstrations</p>
+                            <button class="btn btn-primary format-btn">Watch Videos</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Client Assessment Screen -->
+    <div id="client_assessmentScreen" class="screen">
+        <div class="study-area-container">
+            <div class="study-area-header">
+                <h1>📋 Client Assessment & Treatment Planning</h1>
+                <p><strong>17% of MBLEX exam</strong> • Evaluation and clinical decision-making</p>
+            </div>
+            
+            <!-- Topics Covered Container -->
+            <div class="topics-covered-container">
+                <div class="study-content-overview">
+                    <h3>Topics Covered:</h3>
+                    <ul>
+                        <li>Organization of a massage/bodywork session</li>
+                        <li>Client consultation and evaluation (Verbal intake, Health history)</li>
+                        <li>Assessment techniques (Visual, Postural, Gait, Palpation, ROM)</li>
+                        <li>Clinical reasoning and contraindication identification</li>
+                        <li>Treatment goal setting and strategy formulation</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- Learning Formats Container -->
+            <div class="learning-formats-container">
+                <div class="learning-formats-section">
+                    <h2>Choose Your Learning Format</h2>
+                    <div class="learning-formats-grid">
+                        <div class="format-card" data-area="client_assessment" data-format="reading">
+                            <div class="format-icon">📖</div>
+                            <h3>Reading</h3>
+                            <p>Assessment techniques and planning</p>
+                            <button class="btn btn-primary format-btn">Study Reading Materials</button>
+                        </div>
+                        
+                        <div class="format-card" data-area="client_assessment" data-format="images">
+                            <div class="format-icon">🖼️</div>
+                            <h3>Images</h3>
+                            <p>Assessment forms and visual guides</p>
+                            <button class="btn btn-primary format-btn">View Image Gallery</button>
+                        </div>
+                        
+                        <div class="format-card" data-area="client_assessment" data-format="videos">
+                            <div class="format-icon">🎥</div>
+                            <h3>Videos</h3>
+                            <p>Client consultation demonstrations</p>
+                            <button class="btn btn-primary format-btn">Watch Videos</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Ethics & Boundaries Screen -->
+    <div id="ethics_boundariesScreen" class="screen">
+        <div class="study-area-container">
+            <div class="study-area-header">
+                <h1>⚖️ Ethics, Boundaries, Laws & Regulations</h1>
+                <p><strong>16% of MBLEX exam</strong> • Professional conduct and legal compliance</p>
+            </div>
+            
+            <!-- Topics Covered Container -->
+            <div class="topics-covered-container">
+                <div class="study-content-overview">
+                    <h3>Topics Covered:</h3>
+                    <ul>
+                        <li>Ethical behavior and professional boundaries</li>
+                        <li>Code of ethics violations and prevention</li>
+                        <li>Therapeutic relationships and dual relationships</li>
+                        <li>Sexual misconduct prevention</li>
+                        <li>Laws, regulations, scope of practice, and confidentiality</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- Learning Formats Container -->
+            <div class="learning-formats-container">
+                <div class="learning-formats-section">
+                    <h2>Choose Your Learning Format</h2>
+                    <div class="learning-formats-grid">
+                        <div class="format-card" data-area="ethics_boundaries" data-format="reading">
+                            <div class="format-icon">📖</div>
+                            <h3>Reading</h3>
+                            <p>Ethics codes and legal requirements</p>
+                            <button class="btn btn-primary format-btn">Study Reading Materials</button>
+                        </div>
+                        
+                        <div class="format-card" data-area="ethics_boundaries" data-format="images">
+                            <div class="format-icon">🖼️</div>
+                            <h3>Images</h3>
+                            <p>Scenario diagrams and decision trees</p>
+                            <button class="btn btn-primary format-btn">View Image Gallery</button>
+                        </div>
+                        
+                        <div class="format-card" data-area="ethics_boundaries" data-format="videos">
+                            <div class="format-icon">🎥</div>
+                            <h3>Videos</h3>
+                            <p>Ethics scenarios and case studies</p>
+                            <button class="btn btn-primary format-btn">Watch Videos</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Professional Practice Screen -->
+    <div id="professional_practiceScreen" class="screen">
+        <div class="study-area-container">
+            <div class="study-area-header">
+                <h1>🏢 Guidelines for Professional Practice</h1>
+                <p><strong>15% of MBLEX exam</strong> • Safety, hygiene, and business practices</p>
+            </div>
+            
+            <!-- Topics Covered Container -->
+            <div class="topics-covered-container">
+                <div class="study-content-overview">
+                    <h3>Topics Covered:</h3>
+                    <ul>
+                        <li>Proper and safe use of equipment and supplies</li>
+                        <li>Practitioner hygiene and sanitation practices</li>
+                        <li>Safety practices (Facilities, Practitioner, Client safety)</li>
+                        <li>Body mechanics, PPE, self-care, and injury prevention</li>
+                        <li>Business practices, documentation, and terminology</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- Learning Formats Container -->
+            <div class="learning-formats-container">
+                <div class="learning-formats-section">
+                    <h2>Choose Your Learning Format</h2>
+                    <div class="learning-formats-grid">
+                        <div class="format-card" data-area="professional_practice" data-format="reading">
+                            <div class="format-icon">📖</div>
+                            <h3>Reading</h3>
+                            <p>Professional standards and guidelines</p>
+                            <button class="btn btn-primary format-btn">Study Reading Materials</button>
+                        </div>
+                        
+                        <div class="format-card" data-area="professional_practice" data-format="images">
+                            <div class="format-icon">🖼️</div>
+                            <h3>Images</h3>
+                            <p>Equipment setup and safety procedures</p>
+                            <button class="btn btn-primary format-btn">View Image Gallery</button>
+                        </div>
+                        
+                        <div class="format-card" data-area="professional_practice" data-format="videos">
+                            <div class="format-icon">�🎥</div>
+                            <h3>Videos</h3>
+                            <p>Professional practice demonstrations</p>
+                            <button class="btn btn-primary format-btn">Watch Videos</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Content Display Screen -->
+    <div id="contentDisplayScreen" class="screen">
+        <div class="study-area-container">
+            <div class="study-area-header">
+                <h1 id="contentTitle">Loading...</h1>
+                <p id="contentSubtitle">Please wait while content loads</p>
+            </div>
+            
+            <div class="content-display-container">
+                <!-- Loading indicator -->
+                <div id="contentLoading" class="content-loading">
+                    <div class="loading-spinner"></div>
+                    <p>Loading content...</p>
+                </div>
+                
+                <!-- Content container -->
+                <div id="contentContainer" class="content-container" style="display: none;">
+                    <div id="contentBody" class="content-body">
+                        <!-- Content will be loaded here -->
+                    </div>
+                </div>
+                
+                <!-- Error state -->
+                <div id="contentError" class="content-error" style="display: none;">
+                    <div class="error-icon">⚠️</div>
+                    <h3>Content Loading Error</h3>
+                    <p id="errorMessage">Unable to load content. Please try again.</p>
+                    <button class="btn btn-primary" onclick="location.reload()">Reload Page</button>
+                </div>
+                
+                <!-- Back navigation at bottom -->
+                <div class="back-navigation">
+                    <button class="btn btn-secondary back-to-format-selection" id="backToFormatBtn">
+                        ← Back to Learning Formats
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Global Navigation -->
+    <div class="global-nav auth-visible">
+        <!-- Audio Controls -->
+        <div class="audio-controls">
+            <button id="globalBackArrow" class="back-arrow" title="Go Back">
+                <span class="arrow-icon">←</span>
+            </button>
+            <button id="audioToggle" class="audio-toggle" title="Toggle Audio">
+                <span class="audio-icon">🔊</span>
+            </button>
+            <button id="skipSongButton" class="skip-song-button hidden" title="Next Song">
+                <span class="skip-icon">⏭️</span>
+            </button>
+            <div class="volume-control" title="Volume">
+                <span class="volume-icon">🔉</span>
+                <input type="range" id="volumeSlider" class="volume-slider" min="0" max="100" value="50" step="1">
+            </div>
+        </div>
+        
+        <!-- Navigation Controls -->
+        <div class="nav-controls">
+            <button id="globalBackButton" class="back-button" title="Main Menu">
+                <span class="menu-icon">🏠</span>
+            </button>
+        </div>
+    </div>
+
+    <!-- Hidden Google Translate Element -->
+    <div id="google_translate_element"></div>
+
+    <!-- Audio Elements -->
+    <audio id="backgroundMusic" preload="auto">
+        <source src="" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+
+    <!-- Accessibility -->
+    <div id="announcements" class="sr-only" aria-live="polite" aria-atomic="true"></div>
+
+    <!-- Help Modal -->
+    <div id="helpModal" class="modal hidden">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>💡 How to Use the AI Tutor</h3>
+                <button class="close-btn" onclick="closeHelpModal()">&times;</button>
+            </div>
+            <div class="modal-body">
+                <ul class="help-list">
+                    <li>Ask questions about MBLEX topics</li>
+                    <li>Request practice questions</li>
+                    <li>Get explanations for complex concepts</li>
+                    <li>Review massage therapy techniques</li>
+                </ul>
+                <p class="help-tip">💬 <strong>Tip:</strong> Be specific in your questions for the best responses!</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Google Translate Script -->
+    <script type="text/javascript">
+    // Timeout for Google Translate script loading
+    var googleTranslateTimeout = setTimeout(function() {
+        console.error('Google Translate script failed to load within 10 seconds');
+        if (typeof showTranslationError === 'function') {
+            showTranslationError('Translation service unavailable. Please refresh the page.');
+        }
+    }, 10000);
+    
+    function googleTranslateElementInit() {
+        console.log('Google Translate initializing...');
+        
+        // Clear the timeout since script loaded successfully
+        clearTimeout(googleTranslateTimeout);
+        
+        try {
+            // Check if google translate is properly loaded
+            if (!window.google || !window.google.translate) {
+                throw new Error('Google Translate API not available');
+            }
+            
+            new google.translate.TranslateElement({
+                pageLanguage: 'en',
+                includedLanguages: 'en,es',
+                layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+                autoDisplay: false,
+                multilanguagePage: true
+            }, 'google_translate_element');
+            
+            console.log('Google Translate initialized successfully');
+            
+            // Monitor widget creation with better error handling
+            let widgetCheckCount = 0;
+            const maxWidgetChecks = 15;
+            
+            // Temporarily show container for debugging (remove after 10 seconds)
+            const container = document.getElementById('google_translate_element');
+            if (container) {
+                const originalStyle = container.style.cssText;
+                container.style.cssText = 'position: fixed; bottom: 10px; left: 10px; z-index: 9999; background: white; border: 1px solid red; padding: 5px;';
+                console.log('Temporarily showing Google Translate container for debugging');
+                
+                setTimeout(() => {
+                    container.style.cssText = originalStyle;
+                    console.log('Restored original container styling');
+                }, 10000);
+            }
+            
+            const checkWidget = setInterval(function() {
+                widgetCheckCount++;
+                var container = document.getElementById('google_translate_element');
+                var select = document.querySelector('select.goog-te-combo');
+                var menuTrigger = document.querySelector('.goog-te-gadget-simple a');
+                var gadget = document.querySelector('.goog-te-gadget');
+                var widgetReady = !!(select || (menuTrigger && gadget));
+                
+                console.log(`Widget check ${widgetCheckCount}: Container: ${!!container}, Select: ${!!select}, Menu: ${!!menuTrigger}, Gadget: ${!!gadget}`);
+                console.log('Container HTML content:', container ? container.innerHTML.substring(0, 100) + '...' : 'No container');
+                
+                if (widgetReady) {
+                    console.log('Google Translate widget fully ready (select or menu-based)');
+                    clearInterval(checkWidget);
+                    
+                    // Fire a custom event to notify other scripts
+                    document.dispatchEvent(new CustomEvent('googleTranslateReady', {
+                        detail: { 
+                            select: select, 
+                            menuTrigger: menuTrigger, 
+                            gadget: gadget, 
+                            container: container,
+                            type: select ? 'select' : 'menu'
+                        }
+                    }));
+                    
+                } else if (widgetCheckCount >= maxWidgetChecks) {
+                    console.error('Google Translate widget failed to create functional elements');
+                    console.log('Final container state:', container ? container.innerHTML : 'No container');
+                    clearInterval(checkWidget);
+                }
+            }, 500);
+            
+        } catch (error) {
+            console.error('Google Translate initialization failed:', error);
+            clearTimeout(googleTranslateTimeout);
+            
+            // Notify user of the error
+            setTimeout(function() {
+                if (typeof showTranslationError === 'function') {
+                    showTranslationError('Translation initialization failed. Features may not work properly.');
+                }
+            }, 1000);
+        }
+    }
+    
+    // Handle script loading errors
+    window.addEventListener('error', function(e) {
+        if (e.filename && e.filename.includes('translate.google.com')) {
+            console.error('Failed to load Google Translate script:', e);
+            clearTimeout(googleTranslateTimeout);
+            setTimeout(function() {
+                if (typeof showTranslationError === 'function') {
+                    showTranslationError('Could not connect to translation service. Please check your internet connection.');
+                }
+            }, 1000);
+        }
+    });
+    </script>
+    <script type="text/javascript" 
+            src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"
+            onerror="console.error('Google Translate script failed to load'); clearTimeout(googleTranslateTimeout);">
+    </script>
+
+    <!-- Core JavaScript Files -->
+    <script src="js/secure-storage.js"></script>
+    <script src="js/language-manager.js"></script>
+    <script src="js/browser-translation.js"></script>
+    <script src="js/audio-manager.js"></script>
+    <script src="js/ui-manager.js"></script>
+    <script src="js/chatbot-manager.js"></script>
+    <script src="js/content-manager.js"></script>
+    <script src="js/simulation-scenarios.js"></script>
+    <script src="js/game-engine.js"></script>
+    <script src="js/simulation-ui-manager.js"></script>
+    <script src="js/study-system.js"></script>
+
+    <!-- New Quiz Generator -->
+    <script src="js/new-quiz-generator.js"></script>
+
+    <!-- Main App -->
+    <script src="js/app.js"></script>
+
+</body>
+</html>

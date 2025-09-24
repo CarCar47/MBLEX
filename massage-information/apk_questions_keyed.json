@@ -1,0 +1,2252 @@
+[
+  {
+    "id": "apk_q001",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Que musculos hacen giro medial de la articulacion coxal?",
+    "options": [
+      "Biceps femoris y sartorius.",
+      "Semitendinosus y semimembranosus.",
+      "Rectus femoris y piriforme.",
+      "Psoas major e iliacus."
+    ],
+    "correct": 1,
+    "feedback": "Semitendinoso y semimembranoso contribuyen a la rotación medial de cadera; los demás pares favorecen rotación lateral o flexión.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q002",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "El cuerpo posee musculos que se tensan rapido y musculos que se debilitan por falta de uso. Que musculo se debilita si el pectoral mayor esta tenso?",
+    "options": [
+      "Serrato anterior.",
+      "Romboides.",
+      "Rectus abdominus.",
+      "Iliopsoas."
+    ],
+    "correct": 1,
+    "feedback": "El pectoral mayor tenso protrae/rota internamente el hombro; los antagonistas (romboides) tienden a inhibirse/debilitarse.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q003",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Este no es un tejido del organismo humano:",
+    "options": [
+      "Epitelial",
+      "Nervioso",
+      "Muscular",
+      "Monocinas"
+    ],
+    "correct": 3,
+    "feedback": "Los tejidos básicos son epitelial, nervioso, muscular y conectivo; las monocinas son citocinas, no un tejido.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q004",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "De los siguientes grupos cual esta a cargo de la ABduccion y ADuccion de la articulacion radiocarpiana?",
+    "options": [
+      "ABduccion: Palmaris longus y ADuccion: Extensor carpi ulnaris y flexor carpi ulnaris.",
+      "ABduccion: Extensor carpi radialis longus / brevis y ADuccion: Extensor carpi ulnaris y biceps brachii.",
+      "ABduccion: Extensor carpi radialis longus / brevis y ADuccion: Extensor digitorum y Biceps brachii.",
+      "ABduccion: Extensor carpi radialis longus / brevis y ADuccion: Extensor carpi ulnaris y flexor carpi ulnaris."
+    ],
+    "correct": 3,
+    "feedback": "La desviación radial la hacen ECRL/ECRB; la cubital la hacen ECU y FCU.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q005",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "El musculo _____________ es inervado por las ramas de los nervios toracodorsales en C6 hasta la C8.",
+    "options": [
+      "Dorsal ancho.",
+      "Redondo mayor.",
+      "Deltoides.",
+      "Redondo menor."
+    ],
+    "correct": 0,
+    "feedback": "El nervio toracodorsal (C6–C8) inerva al dorsal ancho.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q006",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "El masetero trabaja con este musculo para elevar la mandibula:",
+    "options": [
+      "Genihioideo.",
+      "Temporal.",
+      "Digastrico.",
+      "Platisma."
+    ],
+    "correct": 1,
+    "feedback": "El temporal, junto con el masetero, eleva la mandíbula; el digástrico la deprime.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q007",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Los tendones son el tejido fibroso que conecta:",
+    "options": [
+      "Musculo con hueso",
+      "Hueso con hueso",
+      "Musculo con musculo",
+      "Tendones con fibras"
+    ],
+    "correct": 0,
+    "feedback": "Definición: el tendón une músculo con hueso.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q008",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "La estructura que se articula con el femur en su extremidad distal es:",
+    "options": [
+      "La rotula.",
+      "La ulna.",
+      "El acetabulo.",
+      "El sacro."
+    ],
+    "correct": 0,
+    "feedback": "La rótula articula con el fémur distal en la tróclea femoral.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q009",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Cual es el hueso relevante que esta distal de la cabeza de la ulna?",
+    "options": [
+      "Escotadura troclear.",
+      "Proceso estiloides.",
+      "Proceso coronoides.",
+      "Proceso olecranon."
+    ],
+    "correct": 1,
+    "feedback": "La cabeza del cúbito es distal y el proceso estiloides se localiza distal a ella.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q010",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "La capa de musculos que se encuentran enmedio de la apofisis espinal de la vertebra toracica y del borde medial de la escapula iniciando desde la superficie hacia lo profundo son:",
+    "options": [
+      "Romboides, el grupo de los erectores de la columna y el trapecio",
+      "Romboides, el trapecio y el grupo de los erectores de la columna",
+      "Trapecio, el grupo de los erectores de la columna y el romboides",
+      "Trapecio, romboides y el grupo de los erectores de la columna"
+    ],
+    "correct": 3,
+    "feedback": "De superficial a profundo entre apófisis espinosa y borde medial: trapecio → romboides → erectores espinales.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q011",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Las glandulas ________ se encuentran en toda la piel, excepto en las palmas de las manos y en las plantas de los pies:",
+    "options": [
+      "Salivales",
+      "Sustanciosas",
+      "Sebaceas",
+      "Apocrinas"
+    ],
+    "correct": 2,
+    "feedback": "Las glándulas sebáceas no se encuentran en palmas ni plantas.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q012",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Que musculo abdominal es el mas superficial en relacion a la cara lateral de los abdominales?",
+    "options": [
+      "Intercostales externos.",
+      "Oblicuos externos.",
+      "Oblicuos internos.",
+      "Intercostales internos."
+    ],
+    "correct": 1,
+    "feedback": "En la pared lateral del abdomen, el oblicuo externo es el más superficial.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q013",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "El musculo ___________ es el mas superficial en la zona del cuello, tambien es llamado musculo cutaneo del cuello.",
+    "options": [
+      "Escaleno.",
+      "Platisma.",
+      "Esternocleidomastoideo.",
+      "Omohioideo."
+    ],
+    "correct": 1,
+    "feedback": "El platisma es el músculo cutáneo superficial del cuello.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q014",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Cual es el grupo de musculos que giran de manera unilateral para el mismo lado a la columna cervical:",
+    "options": [
+      "Trapecio (superior), esternocleidomastoideo y escaleno anterior.",
+      "Trapecio (medio), escaleno medio y splenius cervicis.",
+      "Levator scapulae, splenius capitis y cervicis.",
+      "Levator scapulae, esternocleidomastoideo y el escaleno anterior."
+    ],
+    "correct": 2,
+    "feedback": "Esplenios y elevador de la escápula rotan la cervical hacia el mismo lado; el ECM rota al contrario.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q015",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Estos leucocitos son parte del sistema inmune y constituyen del 20 al 45% de los globulos blancos:",
+    "options": [
+      "Linfocitos.",
+      "Eritrocitos.",
+      "Plaquetas.",
+      "Neutrofilos."
+    ],
+    "correct": 0,
+    "feedback": "Los linfocitos representan ~20–45% de los leucocitos; los neutrófilos suelen ser 50–70%.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q016",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "La membrana que reviste la cavidad medular del hueso es:",
+    "options": [
+      "La trabecula",
+      "El endostio",
+      "El periostio",
+      "La diafisis"
+    ],
+    "correct": 1,
+    "feedback": "El endostio tapiza la cavidad medular.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q017",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "La doceava costilla y las vertebras lumbares son las inserciones para este musculo:",
+    "options": [
+      "Intercostales internos.",
+      "Transverso del abdomen.",
+      "Recto del abdomen.",
+      "Cuadrado lumbar."
+    ],
+    "correct": 3,
+    "feedback": "El cuadrado lumbar se inserta en la 12.ª costilla y procesos transversos lumbares.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q018",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Escoger cuales son los siete musculos extensores de la articulacion glenohumeral:",
+    "options": [
+      "Deltoides (anterior), coracobrachialis, teres major, infraspinatus, teres minor, pectoralis major (inferior) y triceps brachii (cabeza larga).",
+      "Deltoides (posterior), coracobrachialis, teres major, infraspinatus, teres minor, pectoralis major (inferior) y triceps brachii (cabeza larga).",
+      "Deltoides (anterior), latissimus dorsi, teres major, infraspinatus, teres minor, pectoralis major (inferior) y triceps brachii (cabeza larga).",
+      "Deltoides (posterior), latissimus dorsi, teres major, infraspinatus, teres minor, pectoralis major (inferior) y triceps brachii (cabeza larga)."
+    ],
+    "correct": 3,
+    "feedback": "Extienden GH: deltoides posterior, dorsal ancho, redondo mayor, infra/teres minor, pectoral (fibras costales) y tríceps (cabeza larga).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q019",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Cual es la palabra anatomica para el hueso transversal del hombro?",
+    "options": [
+      "Calcaneo",
+      "Esternon",
+      "Escapula",
+      "Clavicula"
+    ],
+    "correct": 3,
+    "feedback": "La clavícula es el ‘hueso transversal’ del hombro.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q020",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Seleccionar los musculos que trabajan como equipo en la ADuccion de la cadera:",
+    "options": [
+      "Tensor fasciae latae, sartorius y piriformis.",
+      "Gracil, psoas major e iliacus.",
+      "ADuctor magnus, sartorius y piriformis.",
+      "Gluteus minimus, aductor magnus y longus."
+    ],
+    "correct": 3,
+    "feedback": "Los aductores principales incluyen aductor magnus/longus; es la opción con ambos presentes.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q021",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Que tipo de movimiento articulatorio describe el acto de mover un miembro hacia la linea media del cuerpo?",
+    "options": [
+      "ABduccion",
+      "ADuccion",
+      "Flexion",
+      "Extension"
+    ],
+    "correct": 1,
+    "feedback": "Aducción = acercar un segmento a la línea media.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q022",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "La arteria carotida comun, la vena yugular interna y el plexo cervical son estructuras que estan dentro de este triangulo:",
+    "options": [
+      "Triangulo deltopectoral.",
+      "Triangulo anterior.",
+      "Triangulo inguinal.",
+      "Triangulo posterior."
+    ],
+    "correct": 1,
+    "feedback": "Carótida común y yugular interna discurren en el triángulo anterior del cuello.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q023",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Cual es el musculo que se origina en las fibras aponeurosis del ligamento iliolumbar y en las regiones adyacentes de la cresta iliaca?",
+    "options": [
+      "Gracilis.",
+      "Sartorio.",
+      "Cuadrado lumbar.",
+      "Psoas mayor."
+    ],
+    "correct": 2,
+    "feedback": "El cuadrado lumbar se origina en la cresta ilíaca/ligamento iliolumbar.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q024",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Que parte del femur se articula con el perone?",
+    "options": [
+      "Condilo lateral.",
+      "Condilo medial.",
+      "Trocanter menor.",
+      "Ninguna respuesta es correcta"
+    ],
+    "correct": 3,
+    "feedback": "El peroné articula con la tibia, no con el fémur; por tanto, ninguna es correcta.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q025",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Cuantos huesos hay en la mano?",
+    "options": [
+      "32",
+      "24",
+      "27",
+      "26"
+    ],
+    "correct": 2,
+    "feedback": "La mano tiene 27 huesos (carpos, metacarpos y falanges).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q026",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Cuales son los dos musculos que trabajan de modo bilateral para que la mandibula se extienda?",
+    "options": [
+      "Temporalis y digastrico.",
+      "Geniohioideo y milohioideo.",
+      "Pterigoideo lateral y medial.",
+      "Geniohioideo y pterigoideo lateral."
+    ],
+    "correct": 1,
+    "feedback": "Genihioideo y milohioideo deprimen la mandíbula bilateralmente.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q027",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Cual de las siguientes es una accion del musculo trapecio?",
+    "options": [
+      "La rotacion de la escapula hacia arriba.",
+      "Descenso de la escapula.",
+      "Aducir la escapula.",
+      "Todas las respuestas son correctas"
+    ],
+    "correct": 3,
+    "feedback": "El trapecio puede elevar, deprimir, aducir y rotar superiormente la escápula.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q028",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Si tuviera que seguir la doceava costilla hacia la espina, con cual vertebra se une?",
+    "options": [
+      "L-12.",
+      "L-5.",
+      "T-12.",
+      "T-5."
+    ],
+    "correct": 2,
+    "feedback": "La 12.ª costilla articula con la vértebra T12.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q029",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "En la piel se encuentra la capa interna mas profunda de tejido compuesta de grasa y tejido blando y es:",
+    "options": [
+      "La epidermis",
+      "La bidermis",
+      "Hipodermis",
+      "Extermis"
+    ],
+    "correct": 2,
+    "feedback": "La hipodermis (tejido subcutáneo) es la capa más profunda con grasa y TC.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q030",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "El esofago es:",
+    "options": [
+      "Un tubo plegable de aproximadamente 10 pulgadas",
+      "Una estructura rigida de cartilago en toda su longitud",
+      "El camino hacia los pulmones",
+      "Una estructura circular y rigida"
+    ],
+    "correct": 0,
+    "feedback": "El esófago es un tubo colapsable de ~25 cm (~10 pulgadas).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q031",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "El cartilago __________ esta conectado al hueso hioides por la membrana tirohioidea. Este cartilago es el mas grande de los 9 cartilagos que forman la laringe.",
+    "options": [
+      "cricoides",
+      "tiroides",
+      "mastoideo",
+      "epiglotis"
+    ],
+    "correct": 1,
+    "feedback": "El cartílago tiroides es el mayor de la laringe y se une al hioides por la membrana tirohioidea.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q032",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Que musculo se inserta en el tuberculo mayor del humero?",
+    "options": [
+      "Coracobraquial.",
+      "Subescapular.",
+      "Biceps braquial.",
+      "Infraespinoso."
+    ],
+    "correct": 3,
+    "feedback": "El infraespinoso se inserta en el tubérculo mayor; el subescapular lo hace en el menor.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q033",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "En los huesos de la mano las falanges ________ son las mas cercanas a los metacarpos:",
+    "options": [
+      "Medianas",
+      "Aproximadas",
+      "Distales",
+      "Proximales"
+    ],
+    "correct": 3,
+    "feedback": "Falanges proximales = las más cercanas a los metacarpos.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q034",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Todos estos musculos se estiran durante una flexion dorsal pasiva, excepto el:",
+    "options": [
+      "Gastrocnemio",
+      "Tibial anterior",
+      "Soleo",
+      "Tibia posterior"
+    ],
+    "correct": 1,
+    "feedback": "En dorsiflexión pasiva se estiran plantarflexores (gastrocnemio/sóleo/tibial posterior); el tibial anterior es dorsiflexor.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q035",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Un musculo que se opone a que otro musculo se mueva es un:",
+    "options": [
+      "Sinergista",
+      "Agonista",
+      "Agresor",
+      "Antagonista"
+    ],
+    "correct": 3,
+    "feedback": "Antagonista = músculo que se opone a la acción de otro.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q036",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "El pulmon izquierdo tiene ___ lobulos. El pulmon derecho tiene ___ lobulos.",
+    "options": [
+      "1 - 3",
+      "2 - 3",
+      "3 - 2",
+      "2 - 2"
+    ],
+    "correct": 1,
+    "feedback": "Pulmón izq. 2 lóbulos; pulmón der. 3 lóbulos.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q037",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Como se le llama a la accion de levantar el brazo hacia afuera del cuerpo?",
+    "options": [
+      "ABduccion",
+      "ADuccion",
+      "Flexion",
+      "Extension"
+    ],
+    "correct": 0,
+    "feedback": "Levantar el brazo alejándolo del cuerpo = abducción.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q038",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "El musculo __________ tiene su insercion en un surco de la clavicula.",
+    "options": [
+      "Pectoral mayor.",
+      "Pectoral menor.",
+      "Esternocleidomastoideo.",
+      "Subclavio."
+    ],
+    "correct": 3,
+    "feedback": "El subclavio se inserta en el surco subclavio de la clavícula.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q039",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "La articulacion __________ tiene movimiento multiaxial.",
+    "options": [
+      "Bisagra.",
+      "Esfera y cavidad.",
+      "Condiloide.",
+      "Plana."
+    ],
+    "correct": 1,
+    "feedback": "La enartrosis (esfera y cavidad) permite movimiento multiaxial (p. ej., hombro).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q040",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "En que area del cuerpo se localizan los ganglios linfaticos axilares?",
+    "options": [
+      "Cuello.",
+      "Parte anterior de la cadera..",
+      "Axila.",
+      "Parte posterior de la rodilla."
+    ],
+    "correct": 2,
+    "feedback": "Ganglios axilares = en la axila.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q041",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Todos los musculos en el grupo de los ADuctores realizan dos acciones, la primera es la ADuccion, cual es la segunda accion?",
+    "options": [
+      "Rotacion medial.",
+      "Extension.",
+      "Rotacion lateral.",
+      "Flexion."
+    ],
+    "correct": 0,
+    "feedback": "Además de aducir, la mayoría de aductores ayudan a la rotación medial de cadera.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q042",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Si el cuerpo humano se encuentra en homeostasis entonces significa:",
+    "options": [
+      "Que el cuerpo se encuentra en estado de quietud",
+      "Que todos los sistemas del cuerpo se estan esforzando por sostener la vida",
+      "El cuerpo se encuentra en estado de equilibrio",
+      "Que el ataque cardiaco se esta aminorando"
+    ],
+    "correct": 2,
+    "feedback": "Homeostasis = mantenimiento del equilibrio interno.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q043",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Cual es el nombre anatomico en latin para el pulgar?",
+    "options": [
+      "Hallucis.",
+      "Pollex.",
+      "Digitorum.",
+      "Popliteal."
+    ],
+    "correct": 1,
+    "feedback": "Pollex = pulgar en latín anatómico.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q044",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "El levantar las escapulas hacia los oidos se describe como:",
+    "options": [
+      "Eversion",
+      "Extension",
+      "Elevacion",
+      "Retraccion"
+    ],
+    "correct": 2,
+    "feedback": "Elevar las escápulas hacia las orejas = elevación.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q045",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "El plexo nervioso de la espina que sirve a la parte posterior proximal del brazo y a los musculos extensores del antebrazo es el:",
+    "options": [
+      "Plexo braquial.",
+      "Plexo cervical.",
+      "Plexo lumbar.",
+      "Plexo sacro."
+    ],
+    "correct": 0,
+    "feedback": "La inervación del brazo posterior/extensores antebrazo proviene del plexo braquial (cordón posterior).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q046",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Cual es el hueso distintivo que se encuentra en el borde superior de la escapula?",
+    "options": [
+      "Apofisis coracoides",
+      "Muesca escapular",
+      "Angulo superior",
+      "Todas las respuestas son correctas"
+    ],
+    "correct": 1,
+    "feedback": "La muesca (escotadura) escapular está en el borde superior de la escápula.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q047",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Las articulaciones sinartrosis se encuentran en:",
+    "options": [
+      "El craneo.",
+      "El codo.",
+      "La rodilla.",
+      "El hombro."
+    ],
+    "correct": 0,
+    "feedback": "Sinartrosis (suturas) = inmóviles del cráneo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q048",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Que musculos ayudan a las escapulas a retractarse para mantener los hombros rectos?",
+    "options": [
+      "Romboides mayor y menor.",
+      "Trapecio y serrato anterior.",
+      "Deltoides / dorsal ancho.",
+      "Supraespinoso / infraespinoso."
+    ],
+    "correct": 0,
+    "feedback": "Romboides retraen (aducción) y estabilizan la escápula.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q049",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Cual ejemplo de los siquientes es clasificacion especifica de las formas que tienen los huesos?",
+    "options": [
+      "Irregulares",
+      "Cortos",
+      "Planos",
+      "Todas las respuestas son correctas"
+    ],
+    "correct": 3,
+    "feedback": "Los huesos pueden ser planos, cortos, irregulares, largos, sesamoideos; todas aplican.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q050",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "La _________ es la capa mas profunda del sistema Integumentario.",
+    "options": [
+      "Hipodermis",
+      "Dermis",
+      "Epidermis",
+      "Papila dermica"
+    ],
+    "correct": 0,
+    "feedback": "La hipodermis (tejido subcutáneo) es la capa más profunda del sistema integumentario.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q051",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "La laringe esta________ a la traquea.",
+    "options": [
+      "Inferior",
+      "Superior",
+      "Lateral",
+      "Dorsal"
+    ],
+    "correct": 1,
+    "feedback": "La laringe se sitúa superior a la tráquea.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q052",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Cual musculo se inserta en el borde vertebral en la base de la espina de la escapula?",
+    "options": [
+      "Subescapular.",
+      "Romboides menor.",
+      "Supraespinoso.",
+      "Elevador de la escapula."
+    ],
+    "correct": 1,
+    "feedback": "El romboides menor se inserta en el borde medial a nivel de la espina de la escápula.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q053",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Cual es el plano anatomico que divide al cuerpo en partes superior e inferior?",
+    "options": [
+      "Frontal.",
+      "Sagital.",
+      "Sagital Medio.",
+      "Transversal."
+    ],
+    "correct": 3,
+    "feedback": "Plano transversal divide en superior/inferior.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q054",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Cual es el hueso de la pierna que no sostiene ninguna carga del cuerpo?",
+    "options": [
+      "Femur.",
+      "Tibia.",
+      "Ulnar.",
+      "Perone."
+    ],
+    "correct": 3,
+    "feedback": "El peroné (fíbula) no soporta carga significativa.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q055",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "El esofago es:",
+    "options": [
+      "Un tubo plegable de aproximadamente 10 pulgadas",
+      "Una estructura rigida de cartilago en toda su longitud",
+      "El camino hacia los pulmones",
+      "Una estructura circular y rigida"
+    ],
+    "correct": 0,
+    "feedback": "El esófago es un tubo colapsable de ~25 cm.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q056",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "El musculo  _________ es un poderoso flexor plantar y cruza las articulaciones de la rodilla y la del tobillo:",
+    "options": [
+      "Tibial anterior",
+      "Peroneo largo",
+      "Soleo",
+      "Gastrocnemio"
+    ],
+    "correct": 3,
+    "feedback": "El gastrocnemio cruza rodilla y tobillo y es potente flexor plantar.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q057",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "La diartrosis es una de las categorias de las articulaciones. Cual es el nombre comun para esta articulacion?",
+    "options": [
+      "Sinovial.",
+      "Condiloide.",
+      "Anfiartrosis.",
+      "Sinartrosis."
+    ],
+    "correct": 0,
+    "feedback": "Diartrosis = articulación sinovial (libre movimiento).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q058",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "La apofisis espinosa de C2 es el origen para este musculo (situado en la region suboccipital) que ayuda a que la cabeza se extienda:",
+    "options": [
+      "Recto mayor posterior de la cabeza.",
+      "Oblicuo superior de la cabeza.",
+      "Largo del cuello.",
+      "Recto posterior menor de la cabeza."
+    ],
+    "correct": 0,
+    "feedback": "El recto posterior mayor de la cabeza se origina en la apófisis espinosa de C2.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q059",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Cual musculo esta inervado por los nervios subescapulares inferiores C6 y C7?",
+    "options": [
+      "Redondo mayor.",
+      "Dorsal ancho.",
+      "Supraespinoso.",
+      "Redondo menor."
+    ],
+    "correct": 0,
+    "feedback": "El redondo mayor recibe ramos subescapulares inferiores (C6–C7).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q060",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Que es lo que regula la temperatura del cuerpo y es conocido (a) como el termostato del cuerpo?",
+    "options": [
+      "Piel",
+      "Higado",
+      "Hipotalamo",
+      "Corteza cerebral"
+    ],
+    "correct": 2,
+    "feedback": "El hipotálamo regula la temperatura corporal (‘termostato’).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q061",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Que es lo que fusiona al craneo?",
+    "options": [
+      "Musculos.",
+      "Tejido conectivo.",
+      "Hueso.",
+      "Fibrocartilago."
+    ],
+    "correct": 1,
+    "feedback": "Las suturas del cráneo son articulaciones fibrosas de tejido conectivo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q062",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "En que parte del corazon se encuentran las venas cava superior e inferior?",
+    "options": [
+      "Cuspide.",
+      "Auricula izquierda.",
+      "Valvula aortica semilunar.",
+      "Auricula derecha."
+    ],
+    "correct": 3,
+    "feedback": "Las venas cavas desembocan en la aurícula derecha.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q063",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Son cinco los musculos que hacen giro medial del humero. Cuales son?",
+    "options": [
+      "Deltoides (posterior), latissimus dorsi, teres minor, subscapularis y pectoralis minor (todas las fibras).",
+      "Deltoides (anterior), latissimus dorsi, teres major, subscapularis y pectoralis minor (todas las fibras).",
+      "Deltoides (posterior), latissimus dorsi, teres major, subscapularis y pectoralis major (todas las fibras).",
+      "Deltoides (anterior), latissimus dorsi, teres major, subscapularis y pectoralis major (todas las fibras)."
+    ],
+    "correct": 3,
+    "feedback": "Rotadores mediales del húmero: deltoides anterior, dorsal ancho, redondo mayor, subescapular y pectoral mayor.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q064",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Para poder palpar la fosa del olecranon a traves de cual tendon se presiona para poder palpar la hendidura de tal fosa?",
+    "options": [
+      "Biceps femoris",
+      "Biceps brachii",
+      "Triceps brachii",
+      "Brachioradialis"
+    ],
+    "correct": 2,
+    "feedback": "La fosa olecraniana se palpa a través del tendón del tríceps (posterior al codo).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q065",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Cuales articulaciones poseen movimiento libre y su rango de movimiento es el mas amplio?",
+    "options": [
+      "Sinartrosis.",
+      "Diartrosis.",
+      "Anfiartrosis.",
+      "Condiloide."
+    ],
+    "correct": 1,
+    "feedback": "Diartrosis = articulaciones con mayor rango de movimiento.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q066",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Cuantos huesos hay en la seccion toracica de la espina dorsal?",
+    "options": [
+      "5",
+      "6",
+      "12",
+      "10"
+    ],
+    "correct": 2,
+    "feedback": "La columna torácica tiene 12 vértebras.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q067",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "En una prueba de rango de movimiento pasivo cuales son los dos musculos que se evaluan cuando el pie esta invertido?",
+    "options": [
+      "Peroneo largo y tibial anterior",
+      "Tibial anterior y tibial posterior",
+      "Peroneo largo y extensor largo de los dedos",
+      "Extensor largo del dedo gordo y extensor largo de los dedos"
+    ],
+    "correct": 1,
+    "feedback": "La inversión la realizan tibial anterior y tibial posterior.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q068",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Que musculo ADuce y tambien flexiona el brazo?",
+    "options": [
+      "Pectoral mayor.",
+      "Deltoides.",
+      "Biceps brachii.",
+      "Todas las respuestas son correctas."
+    ],
+    "correct": 0,
+    "feedback": "El pectoral mayor aduce y flexiona el hombro; deltoides/bíceps no aducen el brazo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q069",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Con las fibras mediales del trapecio y siendo estas superficiales, que otras capas musculares corren por enmedio del proceso espinoso y del borde medial de la escapula?",
+    "options": [
+      "Grupo intermedio erector de la columna y profundo en el elevador de la escapula.",
+      "Elevador de la escapula intermedio y profundo en el romboides.",
+      "Grupo intermedio erector de la columna y profundo en el romboides.",
+      "Romboides intermedio y el grupo erector de la columna en lo profundo."
+    ],
+    "correct": 3,
+    "feedback": "De superficial a profundo: trapecio → romboides → erectores espinales entre apófisis y borde medial.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q070",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "La estructura situada entre los intestinos delgado y grueso es:",
+    "options": [
+      "El colon descendente.",
+      "La valvula ileocecal.",
+      "El colon sigmoide.",
+      "El esfinter."
+    ],
+    "correct": 1,
+    "feedback": "La válvula ileocecal separa intestino delgado y grueso.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q071",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Los acidos grasos y proteicos son de color lechoso o amarillento y se segregan a traves de las:",
+    "options": [
+      "Glandulas sebaceas.",
+      "Glandulas sudoriferas.",
+      "Glandulas sudoriparas.",
+      "Glandulas apocrinas."
+    ],
+    "correct": 3,
+    "feedback": "Las glándulas apocrinas secretan producto rico en lípidos y proteínas de aspecto lechoso.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q072",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "El proceso coracoides es el sitio de insercion para el siguiente musculo:",
+    "options": [
+      "Pectoral menor.",
+      "Dorsal ancho.",
+      "Coracobraquial.",
+      "Redondo mayor."
+    ],
+    "correct": 0,
+    "feedback": "El pectoral menor se inserta en el proceso coracoides.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q073",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Que musculo se involucra en la ADuccion de la pierna?",
+    "options": [
+      "Recto femoral.",
+      "Pectineo.",
+      "Tensor de la fascia lata.",
+      "Todas las respuestas son correctas."
+    ],
+    "correct": 1,
+    "feedback": "El pectíneo es aductor; recto femoral (flexor) y TFL (abductor) no aducen la pierna.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q074",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Una articulacion __________ se encuentra generalmente enmedio de dos superficies planas y permite solamente desplazamientos cortos.",
+    "options": [
+      "Deslizante",
+      "Eje",
+      "Elipsoide",
+      "Condiloide"
+    ],
+    "correct": 0,
+    "feedback": "Una articulación deslizante entre superficies planas permite cortos desplazamientos.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q075",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Aproximadamente que porcentaje de agua contiene el cuerpo humano?",
+    "options": [
+      "35%.",
+      "55%.",
+      "84%.",
+      "90%."
+    ],
+    "correct": 1,
+    "feedback": "El cuerpo humano adulto contiene ~55–60% de agua; opción más cercana 55%.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q076",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "El abdomen se puede separar en cuatro cuadrantes, cuales de los siguientes organos se encuentra en el cuadrante superior izquierdo?",
+    "options": [
+      "Ciego, apendice y ovario derecho/tubo.",
+      "Estomago, bazo, rinon izquierdo, pancreas y angulo esplenico.",
+      "Higado, la vesicula biliar, el duodeno, el pancreas, el rinon derecho y angulo hepatico.",
+      "Colon sigmoide y el ovario izquierdo/tubo."
+    ],
+    "correct": 1,
+    "feedback": "En el cuadrante superior izquierdo: estómago, bazo, riñón izq., páncreas, ángulo esplénico.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q077",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "La zona muscular de riesgo en esta imagen es el:",
+    "options": [
+      "Triangulo Anterior.",
+      "Triangulo Posterior.",
+      "Triangulo Inguinal.",
+      "Triangulo Deltopectoral."
+    ],
+    "correct": 1,
+    "feedback": "Zona de precaución típica en cuello por paquetes neurovasculares: triángulo posterior (supra/infra clavicular).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q078",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "La mecanica del _________ parte desde las piernas y _________.",
+    "options": [
+      "esqueleto - el talus",
+      "cerebro - la espina dorsal",
+      "cuerpo - caderas",
+      "cuerpo - la inteligencia"
+    ],
+    "correct": 2,
+    "feedback": "La mecánica del cuerpo se origina en las piernas y se transmite por las caderas.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q079",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Cuales dos musculos se tensan cuando el cliente efectua la prueba de exhalacion forzada?",
+    "options": [
+      "Intercostales externos e intercostales internos",
+      "Intercostales externos y abdominales",
+      "Esternoclaidomastoideo e intercostales internos",
+      "Intercostales internos y abdominales"
+    ],
+    "correct": 3,
+    "feedback": "La exhalación forzada involucra intercostales internos y músculos abdominales.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q080",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "El  musculo triceps brachii (triceps braquial) ejecuta una accion sobre el codo o articulacion humerocubital y dos acciones en el hombro o articulacion glenohumeral.  Cual es la accion que las tres cabezas ejecutan en el codo?",
+    "options": [
+      "Extension.",
+      "Flexion.",
+      "Rotacion lateral.",
+      "Rotacion medial."
+    ],
+    "correct": 0,
+    "feedback": "Las tres cabezas del tríceps extienden el codo (humerocubital).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q081",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Que musculo se encuentra en el angulo inferior de la cara lateral de la escapula?",
+    "options": [
+      "Romboides mayor.",
+      "Subclavio.",
+      "Redondo mayor.",
+      "Serrato anterior."
+    ],
+    "correct": 2,
+    "feedback": "En el ángulo inferior lateral de la escápula se ubica el redondo mayor.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q082",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Todos los musculos ADuctores exceptuando el gracilis tienen inserciones en:",
+    "options": [
+      "La cara anterior del femur.",
+      "La cara posterior del femur.",
+      "El pubis.",
+      "La tuberosidad isquiatica."
+    ],
+    "correct": 1,
+    "feedback": "Excepto el grácil, los aductores se insertan en la línea áspera posterior del fémur.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q083",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Cual de los siguientes grupos es el que trabaja de manera bilateral para flexionar y extender la columna vertebral?",
+    "options": [
+      "Flexion: esternocleidomastoideo y extension el spinalis, longissimus e iliocostal.",
+      "Flexion: oblicuos externos e internos y extension el spinalis, longissimus e iliocostal.",
+      "Flexion: rotadores y multifido y extension el spinalis, longissimus e iliocostal.",
+      "Flexion: intertransversarii y extension el spinalis, longissimus e iliocostal."
+    ],
+    "correct": 1,
+    "feedback": "Flexión: oblicuos externo/interno; extensión: erectores (espinalis, longissimus, iliocostalis).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q084",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Que es lo que sirve como punto de union para el ligamento rotuliano?",
+    "options": [
+      "Escotadura fibular.",
+      "Eminencia intercondilar.",
+      "Apice.",
+      "Tuberosidad tibial."
+    ],
+    "correct": 3,
+    "feedback": "El ligamento rotuliano se inserta en la tuberosidad tibial.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q085",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "La vena cefalica, arteria clavicular y los nervios pectorales son estructuras dentro de este triangulo:",
+    "options": [
+      "Triangulo Posterior.",
+      "Trangulo Deltopectoral.",
+      "Triangulo Anterior.",
+      "Triangulo Inguinal."
+    ],
+    "correct": 1,
+    "feedback": "El triángulo deltopectoral contiene la vena cefálica, ramos pectorales y vasos claviculares.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q086",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Porque son llamadas flotantes las costillas 11 y 12?",
+    "options": [
+      "Porque no tienen union con la espina dorsal",
+      "Porque no estan unidas al esternon ni conectadas con cartilago",
+      "Porque el cartilago que las une al esternon es muy delgado",
+      "Porque estan flotando dentro del cuerpo sin uniones"
+    ],
+    "correct": 1,
+    "feedback": "Costillas 11 y 12 ‘flotan’ porque no se unen al esternón ni a cartílago costal anterior.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q087",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "El musculo ___________se origina en el occipucio y el ligamento nucal de las vertebras cervicales.",
+    "options": [
+      "Romboides mayor.",
+      "Trapecio.",
+      "Elevador de la escapula.",
+      "Esplenio de la cabeza."
+    ],
+    "correct": 1,
+    "feedback": "El trapecio se origina en occipital y ligamento nucal (C).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q088",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Cual es la unica accion que todas las fibras del gluteus maximus, medius y minimus llevan a cabo en conjunto en la cadera?",
+    "options": [
+      "Extension.",
+      "Flexion.",
+      "ADuccion.",
+      "ABduccion."
+    ],
+    "correct": 3,
+    "feedback": "Los tres glúteos pueden abducir la cadera (fibras superiores del glúteo mayor + mediano/mínimo).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q089",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "La porcion liquida coloidal de la sangre se llama:",
+    "options": [
+      "Leucocitos",
+      "Eritrocito",
+      "Hemoglobina",
+      "Plasma"
+    ],
+    "correct": 3,
+    "feedback": "El plasma es la porción líquida coloidal de la sangre.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q090",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "El musculo ___________ no se inserta en el humero:",
+    "options": [
+      "Supraespinoso.",
+      "Infraespinoso.",
+      "Dorsal ancho.",
+      "Elevador de la escapula."
+    ],
+    "correct": 3,
+    "feedback": "El elevador de la escápula no se inserta en el húmero; los otros sí.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q091",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "La cavidad abdominal es o son:",
+    "options": [
+      "Varias cavidades grandes",
+      "Una cavidad grande",
+      "Los pulmones",
+      "Mediastino"
+    ],
+    "correct": 1,
+    "feedback": "La cavidad abdominal es una sola gran cavidad (con compartimentos).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q092",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "La columna cervical tiene cuatro musculos que trabajan juntos de manera bilateral en la flexion, cuales son?",
+    "options": [
+      "Trapecio, levator scapulae, splenius capitis y cervicis.",
+      "Trapecio, escaleno anterior, longus capitis y longus colli.",
+      "Esternocleidomastoideo, escaleno, anterior, longus capitis y longus colli.",
+      "Rectus capitis posterior mayor / menor, longissimus capitis y cervicis."
+    ],
+    "correct": 2,
+    "feedback": "Flexión cervical bilateral: ECM, escaleno anterior, longus capitis y longus colli.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q093",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "El acromion, el borde posterior del tercio lateral de la clavicula y la espina de la escapula son las inserciones para este musculo:",
+    "options": [
+      "Trapecio.",
+      "Elevador de la escapula.",
+      "Subclavio.",
+      "Subescapular."
+    ],
+    "correct": 0,
+    "feedback": "Estas inserciones corresponden al trapecio (acromion, tercio lateral de clavícula, espina escapular).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q094",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "El musculo superficial esternocleidomastoideo, comunmente abreviado ECOM, esta en la cara lateral anterior del cuello. En su origen tiene dos cabezas, una esternal y una clavicular y la insercion es la apofisis mastoides y la porcion lateral de la linea nucal superior en el occipucio. Unilateralmente tiene dos acciones, bilateralmente una. Cuales son la acciones unilaterales del ECOM?",
+    "options": [
+      "La extension y rotacion lateral hacia el lado opuesto.",
+      "La flexion y rotacion lateral hacia el mismo lado.",
+      "La flexion lateral de la cabeza y el cuello hacia el mismo lado. La rotacion de la cabeza y el cuello hacia el lado opuesto.",
+      "La flexion lateral de la cabeza y el cuello hacia el lado opuesto. La rotacion de la cabeza y el cuello para el mismo lado."
+    ],
+    "correct": 2,
+    "feedback": "Acción unilateral del ECM: flexión lateral ipsilateral y rotación contralateral.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q095",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Que musculo se inserta en el tuberculo mayor del humero?",
+    "options": [
+      "Coracobraquial.",
+      "Subescapular.",
+      "Biceps braquial.",
+      "Infraespinoso."
+    ],
+    "correct": 3,
+    "feedback": "El infraespinoso se inserta en el tubérculo mayor del húmero.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q096",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Este musculo se origina en el proceso espinoso de la septima vertebra cervical y llega hasta la cuarta vertebra toracica:",
+    "options": [
+      "Semispinalis cervicis.",
+      "Semispinalis thoracis.",
+      "Esplenio de la cabeza.",
+      "Occipital."
+    ],
+    "correct": 2,
+    "feedback": "El esplenio de la cabeza se origina en C7–T4 (aprox.).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q097",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "El musculo _________ aduce y hace rotacion medial del humero.",
+    "options": [
+      "Redondo mayor.",
+      "Dorsal ancho.",
+      "Pectoral mayor.",
+      "Todas las respuestas son correctas"
+    ],
+    "correct": 3,
+    "feedback": "Redondo mayor, dorsal ancho y pectoral mayor aducen y rotan medialmente el húmero.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q098",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Las arteriolas primero se conectan a los capilares y despues los capilares se conectan a:",
+    "options": [
+      "La pared de la celula",
+      "Venas",
+      "Vestibulos",
+      "Venulas"
+    ],
+    "correct": 3,
+    "feedback": "Los capilares drenan hacia las vénulas.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q099",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "__________ es el hueso mas largo de la parte baja de la pierna.",
+    "options": [
+      "La tibia",
+      "El perone",
+      "El femur",
+      "La ulna"
+    ],
+    "correct": 0,
+    "feedback": "La tibia es el hueso más largo/voluminoso de la pierna (región crural).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q100",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Se considera que los componentes principales del sistema nervioso son:",
+    "options": [
+      "Los fotones",
+      "Las neuronas",
+      "Los protones",
+      "Los axones"
+    ],
+    "correct": 1,
+    "feedback": "Las neuronas son las unidades funcionales del sistema nervioso.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q101",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "En que lado del epicondilo de la apofisis del codo se encuentra el sitio de conexion para los extensores de la munieca (wrist) y de la mano?",
+    "options": [
+      "Lateral.",
+      "Medial.",
+      "Proximal.",
+      "Distal."
+    ],
+    "correct": 0,
+    "feedback": "El origen común de extensores de muñeca/dedos está en el epicóndilo lateral.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q102",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "La funcion de la membrana pleural situada en la superficie de los pulmones es:",
+    "options": [
+      "Producir el liquido para que los pulmones se deslicen.",
+      "Adherirse firmemente a las paredes de la cavidad toracica.",
+      "Cubrir la serosa visceral de los pulmones.",
+      "Impedir el flujo del liquido seroso."
+    ],
+    "correct": 0,
+    "feedback": "La pleura produce líquido seroso para el deslizamiento pulmonar.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q103",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Que musculo se origina en la superficie anterior de la escapula y se inserta en la parte proximal anterior del humero?",
+    "options": [
+      "Pectoral menor.",
+      "Supraespinoso.",
+      "Infraespinoso.",
+      "Subescapular."
+    ],
+    "correct": 3,
+    "feedback": "El subescapular se origina en la fosa subescapular y se inserta en el tubérculo menor (anterior proximal).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q104",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Los acidos grasos y proteicos son de color lechoso o amarillento y se segregan a traves de las:",
+    "options": [
+      "Glandulas sebaceas.",
+      "Glandulas sudoriferas.",
+      "Glandulas sudoriparas.",
+      "Glandulas apocrinas."
+    ],
+    "correct": 3,
+    "feedback": "Las glándulas apocrinas segregan contenido rico en lípidos/proteínas.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q105",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "El musculo superficial pectoral mayor se divide en tres secciones, fibras claviculares, esternales y costales. Este musculo es tambien un antagonista para si mismo con sus fibras superiores e inferiores. Que accion tienen las fibras inferiores?",
+    "options": [
+      "La flexion de la articulacion glenohumeral.",
+      "ADuccion horizontal.",
+      "La extension de la articulacion glenohumeral.",
+      "ABduccion horizontal."
+    ],
+    "correct": 2,
+    "feedback": "Las fibras inferiores (costales) del pectoral mayor extienden GH desde flexión.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q106",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "De cuantos huesos fusionados consta el esternon?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "correct": 2,
+    "feedback": "El esternón consta de 3 partes fusionadas (manubrio, cuerpo, xifoides).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q107",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "__________ es el sistema de union para el tendon rotuliano.",
+    "options": [
+      "La escotadura peronea",
+      "La tuberosidad tibial",
+      "La eminencia condilar",
+      "El maleolo lateral"
+    ],
+    "correct": 1,
+    "feedback": "El tendón rotuliano se inserta en la tuberosidad tibial.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q108",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Cual es el hueso de la pierna que no sostiene ninguna carga del cuerpo?",
+    "options": [
+      "Femur.",
+      "Tibia.",
+      "Ulnar.",
+      "Perone."
+    ],
+    "correct": 3,
+    "feedback": "El peroné (fíbula) no soporta carga significativa.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q109",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Cuales son los dos musculos que ABducen a la escapula?",
+    "options": [
+      "Serratus anterior y pectoralis major.",
+      "Trapecio (medio) y serratus anterior.",
+      "Pectoralis major y minor.",
+      "Serrato anterior y pectoralis minor"
+    ],
+    "correct": 3,
+    "feedback": "Abducción (protracción) escapular: serrato anterior y pectoral menor.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q110",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "El pulmon izquierdo tiene ___ lobulos. El pulmon derecho tiene ___ lobulos.",
+    "options": [
+      "1 - 3",
+      "2 - 3",
+      "3 - 2",
+      "2 - 2"
+    ],
+    "correct": 1,
+    "feedback": "Pulmón izq. 2 lóbulos; derecho 3.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q111",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "El ligamento deltoideo esta compuesto de una serie de ligamentos que se conectan con estos huesos:",
+    "options": [
+      "Tibia, calcaneo, astragalo y navicular",
+      "Tibia, calcaneo, astragalo y pisiforme",
+      "Tibia, calcaneo, astragalo y cuboide",
+      "Tibia, fíbula, calcaneo y astragalo"
+    ],
+    "correct": 0,
+    "feedback": "El ligamento deltoideo conecta tibia con astrágalo, calcáneo y navicular.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q112",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Los nervios subescapulares C5 y C6 inervan al siguiente musculo:",
+    "options": [
+      "Infraespinoso.",
+      "Redondo menor.",
+      "Supraespinoso.",
+      "Subescapular."
+    ],
+    "correct": 3,
+    "feedback": "Nervios subescapulares (C5–C6) inervan el subescapular.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q113",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Cuales son los dos musculos que estan a cargo de la ABduccion del humero?",
+    "options": [
+      "Deltoides (todas las fibras) y el pectoral mayor (todas las fibras).",
+      "Deltoides (anterior) y el dorsal ancho.",
+      "Deltoides (todas las fibras) y el supraespinoso.",
+      "Deltoides (superior) y el supraespinoso."
+    ],
+    "correct": 2,
+    "feedback": "Abducción del húmero: deltoides (todas las fibras) y supraespinoso.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q114",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "La rama del plexo braquial de la columna que inerva a los musculos de la munieca (wrist en ingles) y a varios musculos de la mano es el siguiente nervio:",
+    "options": [
+      "Nervio radial.",
+      "Nervio mediano.",
+      "Nervio axilar.",
+      "Nervio cubital."
+    ],
+    "correct": 1,
+    "feedback": "El nervio mediano inerva flexores de muñeca y varios músculos de la mano (compartimentos laterales).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q115",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "La punta plana lateral de la clavicula que se articula con la escapula se llama:",
+    "options": [
+      "Fosa del supraespinoso",
+      "Proceso coracoides",
+      "Fosa glenoidea",
+      "Punta acromial"
+    ],
+    "correct": 3,
+    "feedback": "Extremo acromial = punta lateral plana de la clavícula que articula con la escápula.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q116",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Cual es el unico musculo que se inserta en la escapula y se origina en la apofisis transversa de C1-C4?",
+    "options": [
+      "Romboides mayor.",
+      "Romboides menor.",
+      "Elevador de la escapula.",
+      "Escalenos posteriores."
+    ],
+    "correct": 2,
+    "feedback": "El elevador de la escápula nace en C1–C4 y se inserta en borde medial de la escápula.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q117",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "El ligamento coracoclavicular se secciona en dos porciones mas chicas, cuales son los nombres de estas dos partes?",
+    "options": [
+      "Trapezoide y ligamentos conoideos.",
+      "Acromion y ligamentos coracoideos.",
+      "Ligamentos capsulares y acromioclaviculares.",
+      "Ligamentos conoideos y coracoacromiales."
+    ],
+    "correct": 0,
+    "feedback": "El ligamento coracoclavicular se compone de las porciones trapezoide y conoide.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q118",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Cual es el sitio de insercion para el grupo muscular que hace girar al manguito rotador?",
+    "options": [
+      "Borde lateral de la escapula.",
+      "Proceso coracoides.",
+      "El tuberculo mayor y menor del humero.",
+      "Acromion."
+    ],
+    "correct": 2,
+    "feedback": "Manguito rotador: insertan en tubérculos mayor (SSP/ISP/TM) y menor (SSC) del húmero.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q119",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Este musculo se origina en el proceso transverso de la vertebras toracicas y en el proceso articular de las cervicales inferiores:",
+    "options": [
+      "Semispinalis capitis.",
+      "Semispinalis thoracis.",
+      "Longissimus capitis.",
+      "Semispinalis cervicis."
+    ],
+    "correct": 0,
+    "feedback": "El semiespinoso de la cabeza nace en T1–T6 y C4–C7 (articulares).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q120",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Donde se encuentra la arteria femoral con respecto a la arteria humeral?",
+    "options": [
+      "Superior",
+      "Inferior",
+      "Anterior",
+      "Posterior"
+    ],
+    "correct": 1,
+    "feedback": "La arteria femoral está inferior respecto a la humeral (miembro inferior vs. superior).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q121",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "El abdomen se puede separar en cuatro cuadrantes, cuales de los siguientes organos se encuentra en el cuadrante superior izquierdo?",
+    "options": [
+      "Ciego, apendice y ovario derecho/tubo.",
+      "Estomago, bazo, rinon izquierdo, pancreas y angulo esplenico.",
+      "Higado, la vesicula biliar, el duodeno, el pancreas, el rinon derecho y angulo hepatico.",
+      "Colon sigmoide y el ovario izquierdo/tubo."
+    ],
+    "correct": 1,
+    "feedback": "En el cuadrante superior izquierdo: estómago, bazo, riñón izq., páncreas, ángulo esplénico.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q122",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "A los leucocitos tambien se les conoce como:",
+    "options": [
+      "Epiteliales.",
+      "Globulos blancos.",
+      "Globulos rojos (eritrocitos).",
+      "Neutrofilos."
+    ],
+    "correct": 1,
+    "feedback": "Leucocitos = glóbulos blancos.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q123",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Todos los rotadores de la columna vertebral trabajan juntos de manera unilateral, cuales son?",
+    "options": [
+      "Iliocostal, rotadores, oblicuos externos e internos.",
+      "Latissimus dorsi, rotadores, oblicuos externos e internos.",
+      "Rotadores y multifido, spinalis, longissimus e iliocostalis.",
+      "Multifido, rotadores, oblicuos externos e internos."
+    ],
+    "correct": 3,
+    "feedback": "Rotación unilateral de columna: multífido/rotadores y oblicuos externo/interno.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q124",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Las venas pulmonares regresan sangre a:",
+    "options": [
+      "La auricula izquierda",
+      "La auricula derecha",
+      "El ventriculo izquierdo",
+      "Los pulmones"
+    ],
+    "correct": 0,
+    "feedback": "Las venas pulmonares llevan sangre a la aurícula izquierda.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q125",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Cual hueso esta situado en la linea media anterior del cuerpo?",
+    "options": [
+      "La espina dorsal",
+      "La clavicula",
+      "El esternon",
+      "Las costillas"
+    ],
+    "correct": 2,
+    "feedback": "El esternón está en la línea media anterior.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q126",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "La doceava costilla y las vertebras lumbares son las inserciones para este musculo:",
+    "options": [
+      "Intercostales internos.",
+      "Transverso del abdomen.",
+      "Recto del abdomen.",
+      "Cuadrado lumbar."
+    ],
+    "correct": 3,
+    "feedback": "El cuadrado lumbar se inserta en la 12.ª costilla y vértebras lumbares.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q127",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "El pulmon izquierdo tiene ___ lobulos. El pulmon derecho tiene ___ lobulos.",
+    "options": [
+      "1 - 3",
+      "2 - 3",
+      "3 - 2",
+      "2 - 2"
+    ],
+    "correct": 1,
+    "feedback": "Pulmón izq. 2 lóbulos; derecho 3.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q128",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "El musculo ____________ tiene su origen en la clavicula y el manubrio del esternon.",
+    "options": [
+      "Platisma.",
+      "Pectoral mayor.",
+      "Esternocleidomastoideo.",
+      "Pectoral menor."
+    ],
+    "correct": 2,
+    "feedback": "El ECM tiene cabezas esternal (manubrio) y clavicular.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q129",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "El grupo erector de la columna vertebral consiste de los musculos Spinalis, Longissimus e Iliocostalis y trabajan juntos para mover la columna vertebral. Unilateralmente tienen una accion y bilateralmente tienen una accion. Cual es la accion unilateral de este grupo erector de la columna vertebral?",
+    "options": [
+      "Flexionar lateralmente hacia el lado opuesto.",
+      "Flexionar lateralmente hacia el mismo lado.",
+      "Extension.",
+      "Flexion."
+    ],
+    "correct": 1,
+    "feedback": "Acción unilateral de erectores: flexión lateral ipsilateral.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q130",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Elegir de las siguientes ramas de nervios los que enraman al gluteo menor:",
+    "options": [
+      "Nervios gluteos superiores L4 ,L5, S1.",
+      "Nervios obturadores L3, 4.",
+      "Nervios ciaticos L4, 5, S1.",
+      "Nervios obturadores L3-4."
+    ],
+    "correct": 0,
+    "feedback": "El glúteo menor recibe inervación del nervio glúteo superior (L4–S1).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q131",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Este es el ligamento en la columna cervical que limita la flexion lateral y rotacion:",
+    "options": [
+      "Ligamento nucal.",
+      "Ligamento transverso.",
+      "Ligamento apical.",
+      "Ligamento alar."
+    ],
+    "correct": 3,
+    "feedback": "Ligamento alar limita flexión lateral y rotación a nivel craneocervical.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q132",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Que parte del tracto digestivo se conecta con los ductos del pancreas y el higado?",
+    "options": [
+      "Ileon",
+      "Yeyuno",
+      "Colon descendente",
+      "Duodeno"
+    ],
+    "correct": 3,
+    "feedback": "El duodeno recibe los conductos del páncreas y el hígado (colédoco).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q133",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Cual es el hueso de la pierna que no sostiene ninguna carga del cuerpo?",
+    "options": [
+      "Femur.",
+      "Tibia.",
+      "Ulnar.",
+      "Perone."
+    ],
+    "correct": 3,
+    "feedback": "El peroné no soporta carga significativa.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q134",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Cual es el proceso durante el cual los cromosomas se redistribuyen en dos nucleos hijos?",
+    "options": [
+      "Macula",
+      "Menopausia",
+      "Meiosis",
+      "Mitosis"
+    ],
+    "correct": 3,
+    "feedback": "Mitosis = distribución de cromosomas en dos núcleos hijos.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q135",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "El nervio radial C7, 8 enrama al musculo:",
+    "options": [
+      "Triceps braquial.",
+      "Braquial.",
+      "Supinador.",
+      "Biceps braquial."
+    ],
+    "correct": 0,
+    "feedback": "El nervio radial (C7–C8) inerva el tríceps braquial.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q136",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "El oxigeno es transportado a traves de la sangre por:",
+    "options": [
+      "Las celulas rojas",
+      "Las celulas blancas",
+      "La hemoglobina",
+      "Todo lo anterior"
+    ],
+    "correct": 2,
+    "feedback": "La hemoglobina porta el O₂; los leucocitos no lo transportan.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q137",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Cual articulacion es ligeramente movible?",
+    "options": [
+      "Anfiartrosis.",
+      "Diartrosis.",
+      "Condiloide.",
+      "Sinartrosis."
+    ],
+    "correct": 0,
+    "feedback": "Anfiartrosis = articulación ligeramente móvil.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q138",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "En que zona del cuerpo puede el terapeuta palpar la escotadura ciatica?",
+    "options": [
+      "Zona del musculo aductor",
+      "Femoral",
+      "De los gluteos",
+      "Inguinal"
+    ],
+    "correct": 2,
+    "feedback": "La escotadura ciática se palpa en región glútea.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q139",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Una persona acostada sobre la superficie dorsal del cuerpo tambien se describe en esta posicion:",
+    "options": [
+      "En posicion prona",
+      "En posicion de decubito lateral",
+      "En posicion supina",
+      "En posicion ventral"
+    ],
+    "correct": 2,
+    "feedback": "Acostado sobre la cara dorsal = posición supina.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q140",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Cual de los siguientes musculos no se origina o se inserta en la clavicula?",
+    "options": [
+      "Pectoral mayor.",
+      "Pectoral menor.",
+      "Subclavio.",
+      "Esternocleidomastoideo."
+    ],
+    "correct": 1,
+    "feedback": "El pectoral menor se inserta en la apófisis coracoides, sin origen/inserción en clavícula.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q141",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Cuantos pares de costillas tiene un cuerpo humano normal?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "14"
+    ],
+    "correct": 2,
+    "feedback": "12 pares de costillas en un adulto normal.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q142",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "La disfuncion temporomandibular es el desacomodo de los musculos de masticacion en conjunto con sus articulaciones y sus partes. Las siglas en Ingles son:",
+    "options": [
+      "TNJD",
+      "TMJD",
+      "TMJS",
+      "TOMJ"
+    ],
+    "correct": 1,
+    "feedback": "Disfunción temporomandibular en inglés: TMJD.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q143",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Cuando la persona inhala, el diafragma se:",
+    "options": [
+      "Agranda",
+      "Expande",
+      "Contrae",
+      "Crece"
+    ],
+    "correct": 2,
+    "feedback": "Al inhalar, el diafragma se contrae y desciende.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q144",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "La articulacion coxal tiene cuatro ligamentos que sostienen la capsula de la articulacion, cual es el ligamento que refuerza la parte medial?",
+    "options": [
+      "Zona orbicular.",
+      "Ligamento iliofemoral.",
+      "Ligamento pubofemoral.",
+      "Ligamento isquiofemoral."
+    ],
+    "correct": 2,
+    "feedback": "El ligamento pubofemoral refuerza la cápsula en la parte medial/inferior de la cadera.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q145",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Cual de las siguientes clasificaciones de tejido se describe como el responsable de crear un marco fibroso y elastico a la vez?",
+    "options": [
+      "Tejido muscular",
+      "Tejido conectivo",
+      "Tejido nervioso",
+      "Tejido adiposo"
+    ],
+    "correct": 1,
+    "feedback": "El tejido conectivo forma armazones fibrosos y elásticos (matriz extracelular).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q146",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Este es el nervio que enrama al musculo psoas mayor:",
+    "options": [
+      "Nervio obturador L3, 4.",
+      "Nervio gluteo superior L4, 5, S1.",
+      "Nervio lumbar L2-4.",
+      "Nervio obturador L2-4."
+    ],
+    "correct": 2,
+    "feedback": "El psoas mayor recibe ramos del plexo lumbar L2–L4.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q147",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Que es lo que esta compuesto de bandas resistentes de tejido y une al hueso con otro hueso?",
+    "options": [
+      "Ligamentos",
+      "Tejido epitelial",
+      "Tendones",
+      "Tejidos musculares"
+    ],
+    "correct": 0,
+    "feedback": "Ligamentos unen hueso con hueso; tendones unen músculo con hueso.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q148",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Cual es el nombre para el fibrocartilago localizado entre las vertebras?",
+    "options": [
+      "Disco vertebral.",
+      "Disco intervertebral.",
+      "Cartilago articular.",
+      "Todas las respuestas son correctas"
+    ],
+    "correct": 1,
+    "feedback": "Entre vértebras hay discos intervertebrales (fibrocartílago).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q149",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "Que estructura se considera el principio fundamental de la vida?",
+    "options": [
+      "Las celulas",
+      "Los organulos",
+      "La homeostasis",
+      "El sistema organico"
+    ],
+    "correct": 0,
+    "feedback": "La célula es la unidad fundamental de la vida.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "apk_q150",
+    "category_id": "anatomy_physiology_kinesiology_massage",
+    "question": "El lobulo ___________ del Sistema Nervioso Central del cerebro se encarga de recibir la mayor parte de la informacion sensorial y de procesos perceptivos como el calor, el frio, el dolor, el tacto, el equilibrio, la presion o el recordar un momento feliz de nuestra vida:",
+    "options": [
+      "Frontal.",
+      "Parietal.",
+      "Occipital.",
+      "Temporal."
+    ],
+    "correct": 1,
+    "feedback": "El lóbulo parietal procesa la sensibilidad somática y percepción (tacto, temperatura, dolor, propiocepción).",
+    "difficulty": "medium",
+    "language": "es"
+  }
+]

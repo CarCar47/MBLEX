@@ -1,0 +1,499 @@
+/**
+ * Offline & PWA Styles
+ * Visual feedback for connectivity status, caching, and offline functionality
+ * Provides accessible indicators and notifications for PWA features
+ */
+
+/* Connectivity Indicator - HIDDEN FOR LOCAL DEVELOPMENT */
+.connectivity-indicator {
+    display: none !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
+    pointer-events: none !important;
+}
+
+.connectivity-indicator::before {
+    content: '';
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    transition: background-color 0.3s ease;
+}
+
+.connectivity-indicator.online {
+    background: rgba(16, 185, 129, 0.9);
+    color: white;
+}
+
+.connectivity-indicator.online::before {
+    background: #34d399;
+}
+
+.connectivity-indicator.offline {
+    background: rgba(239, 68, 68, 0.9);
+    color: white;
+}
+
+.connectivity-indicator.offline::before {
+    background: #f87171;
+}
+
+/* Hide connectivity indicator on small screens when not critical */
+@media (max-width: 640px) {
+    .connectivity-indicator.online {
+        opacity: 0;
+        pointer-events: none;
+    }
+
+    .connectivity-indicator.offline {
+        top: auto;
+        bottom: 1rem;
+        left: 1rem;
+        right: 1rem;
+        justify-content: center;
+        border-radius: 0.5rem;
+    }
+}
+
+/* Notification Container */
+.notification-container {
+    position: fixed;
+    top: 4rem;
+    right: 1rem;
+    z-index: 1001;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    max-width: 400px;
+    pointer-events: none;
+}
+
+@media (max-width: 640px) {
+    .notification-container {
+        top: auto;
+        bottom: 5rem;
+        left: 1rem;
+        right: 1rem;
+        max-width: none;
+    }
+}
+
+/* Notification Styles */
+.notification {
+    background: white;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    pointer-events: auto;
+    transform: translateX(100%);
+    opacity: 0;
+    animation: slideIn 0.3s ease forwards;
+}
+
+.notification.success {
+    border-left: 4px solid #10b981;
+}
+
+.notification.info {
+    border-left: 4px solid #3b82f6;
+}
+
+.notification.warning {
+    border-left: 4px solid #f59e0b;
+}
+
+.notification.error {
+    border-left: 4px solid #ef4444;
+}
+
+.notification-content {
+    padding: 1rem;
+}
+
+.notification-message {
+    display: block;
+    font-size: 0.875rem;
+    line-height: 1.5;
+    color: #374151;
+}
+
+.notification-actions {
+    margin-top: 0.75rem;
+    display: flex;
+    gap: 0.5rem;
+    justify-content: flex-end;
+}
+
+.notification-button {
+    padding: 0.375rem 0.75rem;
+    font-size: 0.75rem;
+    font-weight: 500;
+    border: 1px solid #d1d5db;
+    border-radius: 0.25rem;
+    background: white;
+    color: #374151;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.notification-button:hover {
+    background: #f9fafb;
+    border-color: #9ca3af;
+}
+
+.notification-button:focus {
+    outline: 2px solid #3b82f6;
+    outline-offset: 2px;
+}
+
+.notification-button.primary {
+    background: #3b82f6;
+    color: white;
+    border-color: #3b82f6;
+}
+
+.notification-button.primary:hover {
+    background: #2563eb;
+}
+
+/* Connectivity Notification Specific */
+.connectivity-notification {
+    backdrop-filter: blur(8px);
+    background: rgba(255, 255, 255, 0.95);
+}
+
+/* Offline Indicator in Content */
+.offline-indicator {
+    display: none;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.75rem 1rem;
+    background: rgba(239, 68, 68, 0.1);
+    border: 1px solid rgba(239, 68, 68, 0.2);
+    border-radius: 0.5rem;
+    color: #dc2626;
+    font-size: 0.875rem;
+    margin-bottom: 1rem;
+}
+
+.offline-indicator::before {
+    content: '📱';
+    font-size: 1.25rem;
+}
+
+body.offline .offline-indicator {
+    display: flex;
+}
+
+/* Cache Status Indicator */
+.cache-status {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem;
+    background: rgba(59, 130, 246, 0.1);
+    border: 1px solid rgba(59, 130, 246, 0.2);
+    border-radius: 0.25rem;
+    font-size: 0.75rem;
+    color: #1e40af;
+}
+
+.cache-status.loading::before {
+    content: '';
+    width: 12px;
+    height: 12px;
+    border: 2px solid #3b82f6;
+    border-top: 2px solid transparent;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+.cache-status.ready::before {
+    content: '✓';
+    color: #059669;
+}
+
+.cache-status.error::before {
+    content: '⚠';
+    color: #dc2626;
+}
+
+/* PWA Install Banner */
+.pwa-install-banner {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 1rem;
+    transform: translateY(100%);
+    transition: transform 0.3s ease;
+    z-index: 1002;
+}
+
+.pwa-install-banner.visible {
+    transform: translateY(0);
+}
+
+.pwa-install-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.pwa-install-text {
+    flex: 1;
+    margin-right: 1rem;
+}
+
+.pwa-install-title {
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+}
+
+.pwa-install-description {
+    font-size: 0.875rem;
+    opacity: 0.9;
+}
+
+.pwa-install-actions {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.pwa-install-button {
+    padding: 0.5rem 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 0.25rem;
+    background: rgba(255, 255, 255, 0.1);
+    color: white;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    backdrop-filter: blur(8px);
+}
+
+.pwa-install-button:hover {
+    background: rgba(255, 255, 255, 0.2);
+}
+
+.pwa-install-button.primary {
+    background: rgba(255, 255, 255, 0.2);
+    border-color: rgba(255, 255, 255, 0.5);
+}
+
+.pwa-install-button.primary:hover {
+    background: rgba(255, 255, 255, 0.3);
+}
+
+/* Offline Content Styling */
+.offline-content {
+    opacity: 0.7;
+    position: relative;
+}
+
+.offline-content::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: repeating-linear-gradient(
+        90deg,
+        #f59e0b 0px,
+        #f59e0b 10px,
+        transparent 10px,
+        transparent 20px
+    );
+}
+
+/* Loading States for Offline */
+.offline-loading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    padding: 2rem;
+    color: #6b7280;
+}
+
+.offline-loading::before {
+    content: '';
+    width: 16px;
+    height: 16px;
+    border: 2px solid #d1d5db;
+    border-top: 2px solid #3b82f6;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+/* Sync Status */
+.sync-status {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    background: rgba(16, 185, 129, 0.1);
+    border: 1px solid rgba(16, 185, 129, 0.2);
+    border-radius: 0.5rem;
+    color: #059669;
+    font-size: 0.875rem;
+}
+
+.sync-status.syncing {
+    background: rgba(59, 130, 246, 0.1);
+    border-color: rgba(59, 130, 246, 0.2);
+    color: #2563eb;
+}
+
+.sync-status.error {
+    background: rgba(239, 68, 68, 0.1);
+    border-color: rgba(239, 68, 68, 0.2);
+    color: #dc2626;
+}
+
+.sync-status::before {
+    content: '✓';
+}
+
+.sync-status.syncing::before {
+    content: '';
+    width: 12px;
+    height: 12px;
+    border: 2px solid currentColor;
+    border-top: 2px solid transparent;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+.sync-status.error::before {
+    content: '⚠';
+}
+
+/* Offline Queue Status */
+.offline-queue-status {
+    position: fixed;
+    bottom: 1rem;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 2rem;
+    font-size: 0.75rem;
+    z-index: 1000;
+    display: none;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.offline-queue-status.visible {
+    display: flex;
+}
+
+.offline-queue-count {
+    background: rgba(255, 255, 255, 0.2);
+    padding: 0.25rem 0.5rem;
+    border-radius: 1rem;
+    font-weight: 600;
+}
+
+/* Reduced Motion Preferences */
+@media (prefers-reduced-motion: reduce) {
+    .notification {
+        animation: none;
+        transform: none;
+        opacity: 1;
+    }
+
+    .connectivity-indicator,
+    .pwa-install-banner,
+    .notification-button,
+    .cache-status.loading::before,
+    .offline-loading::before,
+    .sync-status.syncing::before {
+        transition: none;
+        animation: none;
+    }
+}
+
+/* Animations */
+@keyframes slideIn {
+    from {
+        transform: translateX(100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+/* High Contrast Mode */
+@media (prefers-contrast: high) {
+    .connectivity-indicator,
+    .notification,
+    .offline-indicator,
+    .cache-status {
+        border-width: 2px;
+    }
+
+    .connectivity-indicator.online {
+        background: #16a34a;
+        border-color: #15803d;
+    }
+
+    .connectivity-indicator.offline {
+        background: #dc2626;
+        border-color: #b91c1c;
+    }
+}
+
+/* Dark Mode Support */
+@media (prefers-color-scheme: dark) {
+    .notification {
+        background: #1f2937;
+        border-color: #374151;
+        color: #f9fafb;
+    }
+
+    .notification-message {
+        color: #f9fafb;
+    }
+
+    .notification-button {
+        background: #374151;
+        color: #f9fafb;
+        border-color: #4b5563;
+    }
+
+    .notification-button:hover {
+        background: #4b5563;
+    }
+
+    .offline-indicator {
+        background: rgba(239, 68, 68, 0.2);
+        border-color: rgba(239, 68, 68, 0.3);
+        color: #fca5a5;
+    }
+
+    .cache-status {
+        background: rgba(59, 130, 246, 0.2);
+        border-color: rgba(59, 130, 246, 0.3);
+        color: #93c5fd;
+    }
+}

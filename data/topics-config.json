@@ -1,0 +1,137 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2025-01-17T00:00:00Z",
+  "topicCount": 6,
+  "topics": {
+    "topic-1": {
+      "id": "topic-1",
+      "title": "Valoración para diagnóstico de la Terapia del Masaje",
+      "description": "Assessment and diagnostic techniques for massage therapy practice",
+      "questionCount": 120,
+      "isActive": true,
+      "dataFile": "topic-1.json",
+      "categories": ["assessment", "diagnosis", "clinical-evaluation"],
+      "language": "es",
+      "difficulty": "mixed",
+      "createdAt": "2025-01-17T00:00:00Z",
+      "lastModified": "2025-01-17T00:00:00Z",
+      "version": "1.0",
+      "author": "system",
+      "metadata": {
+        "estimatedStudyTime": 180,
+        "prerequisites": [],
+        "learningObjectives": [
+          "Master client assessment techniques",
+          "Understand diagnostic reasoning",
+          "Apply clinical evaluation skills"
+        ],
+        "tags": ["mblex", "assessment", "spanish"]
+      }
+    },
+    "topic-2": {
+      "id": "topic-2",
+      "title": "Anatomy, Physiology, and Kinesiology",
+      "description": "Body systems, structures, and movement analysis",
+      "questionCount": 0,
+      "isActive": false,
+      "dataFile": "topic-2.json",
+      "categories": ["anatomy", "physiology", "kinesiology"],
+      "language": "en",
+      "difficulty": "mixed",
+      "createdAt": "2025-01-17T00:00:00Z",
+      "lastModified": "2025-01-17T00:00:00Z",
+      "version": "1.0",
+      "author": "system",
+      "metadata": {
+        "estimatedStudyTime": 0,
+        "prerequisites": [],
+        "learningObjectives": [],
+        "tags": ["mblex", "anatomy", "coming-soon"]
+      }
+    },
+    "topic-3": {
+      "id": "topic-3",
+      "title": "Pathology and Contraindications",
+      "description": "Medical conditions and safety considerations",
+      "questionCount": 0,
+      "isActive": false,
+      "dataFile": "topic-3.json",
+      "categories": ["pathology", "contraindications", "safety"],
+      "language": "en",
+      "difficulty": "mixed",
+      "createdAt": "2025-01-17T00:00:00Z",
+      "lastModified": "2025-01-17T00:00:00Z",
+      "version": "1.0",
+      "author": "system",
+      "metadata": {
+        "estimatedStudyTime": 0,
+        "prerequisites": [],
+        "learningObjectives": [],
+        "tags": ["mblex", "pathology", "coming-soon"]
+      }
+    },
+    "topic-4": {
+      "id": "topic-4",
+      "title": "Application of Massage Therapy",
+      "description": "Massage techniques and practical application",
+      "questionCount": 0,
+      "isActive": false,
+      "dataFile": "topic-4.json",
+      "categories": ["techniques", "application", "hands-on"],
+      "language": "en",
+      "difficulty": "mixed",
+      "createdAt": "2025-01-17T00:00:00Z",
+      "lastModified": "2025-01-17T00:00:00Z",
+      "version": "1.0",
+      "author": "system",
+      "metadata": {
+        "estimatedStudyTime": 0,
+        "prerequisites": [],
+        "learningObjectives": [],
+        "tags": ["mblex", "techniques", "coming-soon"]
+      }
+    },
+    "topic-5": {
+      "id": "topic-5",
+      "title": "Ethics and Professional Practice",
+      "description": "Professional standards, ethics, and legal considerations",
+      "questionCount": 0,
+      "isActive": false,
+      "dataFile": "topic-5.json",
+      "categories": ["ethics", "professional", "legal"],
+      "language": "en",
+      "difficulty": "mixed",
+      "createdAt": "2025-01-17T00:00:00Z",
+      "lastModified": "2025-01-17T00:00:00Z",
+      "version": "1.0",
+      "author": "system",
+      "metadata": {
+        "estimatedStudyTime": 0,
+        "prerequisites": [],
+        "learningObjectives": [],
+        "tags": ["mblex", "ethics", "coming-soon"]
+      }
+    },
+    "topic-6": {
+      "id": "topic-6",
+      "title": "Client Assessment and Treatment Planning",
+      "description": "Evaluation techniques and treatment strategy development",
+      "questionCount": 0,
+      "isActive": false,
+      "dataFile": "topic-6.json",
+      "categories": ["assessment", "treatment-planning", "evaluation"],
+      "language": "en",
+      "difficulty": "mixed",
+      "createdAt": "2025-01-17T00:00:00Z",
+      "lastModified": "2025-01-17T00:00:00Z",
+      "version": "1.0",
+      "author": "system",
+      "metadata": {
+        "estimatedStudyTime": 0,
+        "prerequisites": [],
+        "learningObjectives": [],
+        "tags": ["mblex", "assessment", "coming-soon"]
+      }
+    }
+  }
+}

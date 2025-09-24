@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "pebl_q001",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "La manera correcta y profesional de programar la proxima cita de masaje para el cliente Alejandro es la siguiente:",
+    "options": [
+      "Muestrarle la agenda de citas (con nombres de los clientes) a Alejandro y pedirle que elija la fecha que le agrade.",
+      "Preguntarle a Alejandro dia y hora de su preferencia sin que Alejandro vea la agenda con nombres de clientes.",
+      "El terapeuta le envia por E-mail la agenda completa con todos los nombres de los clientes a Alejandro y asi elije la fecha.",
+      "Preguntarle a Alejandro si desea ver la agenda con nombres de clientes y horarios ya apartados en la agenda actual para que asi elija la hora conveniente."
+    ],
+    "correct": 1,
+    "feedback": "Confidencialidad: no se muestran datos de otros clientes; se solicita día y hora de preferencia.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q002",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "El reglamento para la prevencion de la mala conducta sexual en los ambitos de trabajo profesional establece que los terapeutas:",
+    "options": [
+      "Reconocen sus limites personales pero pueden hacer excepciones cuando el cliente es atractivo.",
+      "Deben abstenerse de cualquier conducta que sexualize la relacion cliente - terapeuta.",
+      "Respetar la libertad de eleccion del cliente si llega a la sesion algo ebrio.",
+      "Provee terapias extras si se le paga por adelantado."
+    ],
+    "correct": 1,
+    "feedback": "Código ético: abstenerse de cualquier conducta que sexualice la relación terapeuta‑cliente.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q003",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "De las siguientes opciones cual es la que define mejor el toque profesional?",
+    "options": [
+      "Un grupo de elementos interactuantes que funcionan como un todo complejo.",
+      "La habilidad especial, unica y peculiar que tiene como fin lograr un resultado especifico de alto nivel.",
+      "El apego al estatus profesional, los metodos, normas y personalidad estandar.",
+      "Una coleccion de sensaciones tactiles que se derivan de la estimulacion sensorial para la piel y estructuras mas profundas del cuerpo."
+    ],
+    "correct": 3,
+    "feedback": "El toque profesional se fundamenta en la percepción táctil de piel y estructuras profundas.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q004",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Un cliente potencial le esta preguntando telefonicamente al terapeuta que ropa va a usar para dar el masaje, de que color se pinta los dedos de los pies, si lo va a cubrir con sabana o toalla de mano y si le va a pedir que llene los cuestionarios de admision y si tiene que pagar por anticipado por el servicio. Como debe responder el terapeuta?",
+    "options": [
+      "Contestarle respetuosamente todas sus dudas y luego preguntarle al prospecto que ropa va a usar.",
+      "Contestar respetuosamente que los lineamientos en la clinica de terapia es tener expedientes completos y la documentacion de cada cliente incluyendo el plan de tratamiento y el consentimiento informado y que si decide ingresar, se guarda el expediente con el registro obligatorio, copia de la licencia de conducir y si el pago por el masaje se cobra por anticipado.",
+      "Responder a todas sus preguntas informandole que el papeleo o el pago no es necesario antes de dar un masaje y usted tiene un espacio libre para un masaje en una hora y si el cliente lo desea puede utilizar ese espacio.",
+      "Hacerle varias preguntas para averiguar si se trata de un amigo que quiere jugarle bromas a usted y decirle que puede pagar cualquier dia."
+    ],
+    "correct": 1,
+    "feedback": "Respuesta profesional: explicar políticas de expediente y consentimiento; mantener límites.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q005",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "El masaje es una situacion en donde el cliente se encuentra con cierto grado de vulnerabilidad ante el masajista. Desde el punto de vista _________ el profesional del masaje debe actuar de manera que el cliente se sienta confiado y tranquilo.",
+    "options": [
+      "Constitucional.",
+      "Legal.",
+      "Etico.",
+      "Estricto."
+    ],
+    "correct": 2,
+    "feedback": "La vulnerabilidad del cliente exige conducta ética para generar confianza.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q006",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "El terapeuta de masaje puede entregarle la informacion privada (archivo) de algun cliente a:",
+    "options": [
+      "El conyugue.",
+      "Al medico familiar.",
+      "Al juez.",
+      "A los hijos mayores de edad."
+    ],
+    "correct": 2,
+    "feedback": "Solo por orden legal (juez) se comparte el expediente; de otro modo, se mantiene confidencial.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q007",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Para prevenir enfermedades infecciosas y transmisibles la manera mas simple y eficaz para minimizar el riesgo es a traves del lavado correcto de manos. La Asociacion CDC tiene cuatro pasos para lavarse las manos correctamente. Cual es el segundo paso?",
+    "options": [
+      "Enjuagar las manos con agua tibia.",
+      "Aplicar jabon para manos.",
+      "Secarse las manos con una toalla de papel.",
+      "Frotarse las manos durante al menos 20 segundos haciendo espuma."
+    ],
+    "correct": 1,
+    "feedback": "Lavado de manos CDC: 1) mojar, 2) aplicar jabón, 3) frotar ≥20 s, 4) enjuagar, 5) secar.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q008",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Desde el aspecto __________ el terapeuta de masaje debe trabajar con licencia vigente, se abstendra de realizar diagnosticos medicos o recetar medicamentos.",
+    "options": [
+      "Etico.",
+      "Moral.",
+      "Legal.",
+      "Escolar."
+    ],
+    "correct": 2,
+    "feedback": "Desde el marco legal: ejercer con licencia vigente y no diagnosticar ni prescribir.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q009",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Esta es una norma de practica basada en principios eticos:",
+    "options": [
+      "La confidencialidad es de suma importancia. La comunicacion con el cliente debe siempre ser privada.",
+      "Mantener la comunicacion objetiva, honesta y continua respecto al tratamiento y avances.",
+      "Cobrar un precio justo y razonable por cada sesion y aceptar propinas si estan dentro del rango adecuado.",
+      "Todas las respuestas son correctas."
+    ],
+    "correct": 3,
+    "feedback": "Confidencialidad, comunicación honesta y cobro justo son normas éticas; todas aplican.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q010",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Si el terapeuta es profesional independiente entonces, referente a los impuestos, esta obligado a:",
+    "options": [
+      "Hacer declaracion con un formulario K",
+      "Hacer declaracion de los ingresos cada trimestre",
+      "Declarar impuestos cada 12 meses",
+      "El profesional independiente no tiene que presentar declaraciones"
+    ],
+    "correct": 1,
+    "feedback": "Trabajador independiente: pagos estimados trimestrales (IRS).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q011",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "La suegra viene a cobrar un certificado de regalo que le obsequio tu conyugue. Como terapeuta de masaje lo ideal es no perjudicar una relacion de rol dual/multiple de la siguiente manera:",
+    "options": [
+      "Permitirle platicar durante toda la sesion acerca de todos lo acontecido en la familia hasta la fecha.",
+      "Comentarle cordialmente antes de iniciar que para obtener un masaje satisfactorio se enfocaran en la terapia...sugerir amablemente se relaje y disfrute la sesion.",
+      "Iniciar una conversacion interrogando a la suegra de todo un poco y continuar la platica para asi evitar el incomodo silencio.",
+      "Reforzar la estricta e inquebrantable regla de no hablar en absoluto durante la sesion para evitar conversaciones incomodas o inapropiadas."
+    ],
+    "correct": 1,
+    "feedback": "Para evitar rol dual: mantener límites y enfoque terapéutico, con comunicación amable.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q012",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "El consentimiento informado significa que:",
+    "options": [
+      "El cliente manifiesta su estado sentimental y es aceptable.",
+      "Es requisito que el terapeuta llene los formatos en cada sesion de masaje.",
+      "El formato legal dentro del reglamento del sistema de profesionales de la salud.",
+      "Un formato necesario o innecesario, depende del terapeuta."
+    ],
+    "correct": 2,
+    "feedback": "Consentimiento informado: documento legal del ámbito sanitario para autorizar el tratamiento.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q013",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "_________establece (n) normativas y reglamentos que deben obedecerse para evitar sanciones.",
+    "options": [
+      "Las leyes",
+      "La etica",
+      "Los planes de negocios",
+      "El AMTA"
+    ],
+    "correct": 0,
+    "feedback": "Las leyes establecen normativas obligatorias con consecuencias por incumplimiento.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q014",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "El reconocimiento juridico que el terapeuta de masaje obtiene con su licencia es muy importante porque, entre otras cosas, crea:",
+    "options": [
+      "Sensaciones de certeza y estados de comfort",
+      "Estandares de ejecucion empresarial y de generosidad ilimitada",
+      "Estandares de competencia y educacion necesaria para el continuo desarrollo",
+      "La necesidad de obtener ingresos y la certeza de que los obtendra"
+    ],
+    "correct": 2,
+    "feedback": "La licencia acredita estándares de competencia y educación continua.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q015",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "En los principios eticos del masaje, cual es el motivo por el cual los terapeutas de masaje deben mantener los mas altos niveles de integridad y honestidad?",
+    "options": [
+      "Porque es alentador obtener mas ingresos de este manera.",
+      "Porque es una obligacion de caracter nostalgico.",
+      "Porque tienen la responsabilidad ante la sociedad.",
+      "Porque tienen la responsabilidad exclusiva ante quienes fueron sus maestros."
+    ],
+    "correct": 2,
+    "feedback": "El compromiso ético es con la sociedad, no con intereses particulares.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q016",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Un aumento en la curva toracica normal con la cabeza inclinada hacia adelante es ________. Esta condicion se documenta en los datos ________ de la Valoracion inicial.",
+    "options": [
+      "Escoliosis - subjetivos.",
+      "Hiperlordosis - objetivos.",
+      "Hipercifosis - objetivos.",
+      "Espondilitis anquilosante -  empiricos."
+    ],
+    "correct": 2,
+    "feedback": "Aumento de curva torácica = hipercifosis; se documenta en datos objetivos.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q017",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Un terapeuta de masaje competente debe saber descubrir y detectar cuando un cliente presenta indicios o sintomas que podran __________ su labor e incluso casos clinicos frente a los cuales es preferible ________ el masaje antes de iniciar.",
+    "options": [
+      "suavizar - comentar.",
+      "ampliar - suspender.",
+      "facilitar - detectar.",
+      "restringir - suspender"
+    ],
+    "correct": 3,
+    "feedback": "Ante banderas rojas, se restringe y puede suspenderse el masaje.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q018",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Quien esta exento del acoso sexual?",
+    "options": [
+      "El colega de trabajo.",
+      "La mujer.",
+      "El cliente.",
+      "Ninguna respuesta es correcta."
+    ],
+    "correct": 3,
+    "feedback": "Nadie está exento; aplica a todas las personas.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q019",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Un esquema de los principios fundamentales que el terapeuta de masaje se compromete a realizar en su compromiso profesional incluyen la integridad, calidad moral, sentido comun, respeto por los otros, tener responsabilidad social, esto es _____________.",
+    "options": [
+      "Normas de Practica.",
+      "Etica profesional.",
+      "Codigo de Politicas.",
+      "Estandares obligatorios."
+    ],
+    "correct": 1,
+    "feedback": "Esos principios componen la ética profesional.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q020",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Al dar masajes o tratamiento corporal no tolerare ninguna insinuacion erotica por parte del cliente, esto esta establecido en el siguiente codigo de etica:",
+    "options": [
+      "Ambito de practica, relacion Cliente-Asesor.",
+      "Etica profesional, relacion Terapeuta-Cliente.",
+      "Tecnica resiliente, relacion Terapeuta-Mentor.",
+      "Titularidad publicitaria, relacion Mentor-Cliente."
+    ],
+    "correct": 1,
+    "feedback": "Código: Ética profesional en la relación terapeuta‑cliente.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q021",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Durante la sesion de masaje en su clinica es permisible entablar platica erotica o de indole sexual solamente en este caso especifico:",
+    "options": [
+      "De hecho esta estrictamente prohibido.",
+      "Cuando el terapeuta esta enamorado del cliente.",
+      "El cliente es su pareja o conyuge.",
+      "Cuando ambas partes estan de acuerdo."
+    ],
+    "correct": 0,
+    "feedback": "Plática erótica está prohibida en el contexto profesional.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q022",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Usted da masajes en un negocio en el que se suministran y abastecen todos los materiales y a usted le establecen los horarios de trabajo, que cargo ocupa usted en la empresa?",
+    "options": [
+      "Subcontratista.",
+      "Empleado.",
+      "Propietario del negocio.",
+      "Propietario unico."
+    ],
+    "correct": 1,
+    "feedback": "Control de horario y materiales indica relación de empleo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q023",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "__________ es un lazo adicional que comparten y que une al cliente y al terapeuta y que se suma a la relacion terapeuta-cliente.",
+    "options": [
+      "El Campo de trabajo.",
+      "La relacion dual/multiple.",
+      "La Transferencia.",
+      "La Contratransferencia."
+    ],
+    "correct": 1,
+    "feedback": "Relación dual/múltiple = vínculo adicional fuera del rol clínico.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q024",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "El (la) __________ es una declaracion de los principios generales de conducta aceptable, de calidad moral y profesional bajo la cual los terapeutas de masaje se rigen para llevar a cabo su labor.",
+    "options": [
+      "Codigo de Etica.",
+      "Campo de accion.",
+      "Promesa de Confidencialidad.",
+      "Revision veraz del historial clinico del cliente."
+    ],
+    "correct": 0,
+    "feedback": "El Código de Ética establece principios de conducta aceptable.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q025",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Cuando se le es permitido a un estudiante de masaje ser compensado monetariamente por dar un masaje a otra persona?",
+    "options": [
+      "Cuando asi lo establece el reglamento estatal.",
+      "El primer dia del ciclo escolar.",
+      "Cuando las clinicas de entrenamiento dan inicio.",
+      "Cuando el estudiante acaba de graduadarse del Instituto."
+    ],
+    "correct": 0,
+    "feedback": "Depende del reglamento/licencia estatal aplicable.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q026",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Que se debe hacer si el cliente expresa interes personal hacia el terapeuta?",
+    "options": [
+      "Terminar la relacion terapeuta-cliente el mismo dia y referirlo de inmediato con otro terapeuta.",
+      "Explicarle al cliente que se debe concluir la relacion terapeuta-cliente si se llegase a dar el interes por parte del terapeuta.",
+      "Iniciar una conversacion objetiva respecto a los gustos e intereses mutuos mientras toman un cafe.",
+      "Preguntarle acerca de su vida privada durante la sesion para ver si son compatibles y luego programas otra cita con mucho entusiasmo."
+    ],
+    "correct": 1,
+    "feedback": "Mantener límites; si existiera interés recíproco, primero se concluye la relación clínica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q027",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "El terapeuta ya tiene el historial clinico del cliente y ya le explico el plan de tratamiento. Despues de estos pasos el terapeuta debe tambien incluir:",
+    "options": [
+      "Las preferencias del cliente respecto a la aromaterapia.",
+      "El historial clinico de la familia mas cercana del cliente.",
+      "El historial clinico del cliente y nombres completos de sus recomendados .",
+      "La firma del consentimiento informado del plan de tratamiento."
+    ],
+    "correct": 3,
+    "feedback": "Selección basada en mejores prácticas éticas/legales estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q028",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Como se explica la Proyeccion cuando el terapeuta empieza a sentirse emocionalmente perturbado con el cliente e internamente empieza a criticarlo?",
+    "options": [
+      "Como un diagnostico que los terapeutas de masaje expiden y que es el reflejo de una situacion.",
+      "La manifestacion de los sentimientos actuales, las emociones y motivaciones por parte del terapeuta hacia un cliente.",
+      "Una maquina biologica del tiempo hacia el interior de las emociones infantiles que el cliente manifiesta.",
+      "Una reaccion de impulso nervioso estimulado por una manipulacion a la columna vertebral que el cliente percibe."
+    ],
+    "correct": 1,
+    "feedback": "Proyección: el terapeuta atribuye al cliente sus propios sentimientos/motivaciones.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q029",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Que se debe hacer si va a viajar a otro estado por largo tiempo y desea trabajar en la profesion de terapeuta de masaje en esa otra localidad?",
+    "options": [
+      "Contactar a la asociacion de masaje local encargada de permisos y licencias",
+      "Nada porque ya el terapeuta posee licencia activa del estado de donde proviene",
+      "Asume por logica que no se necesita permiso adicional porque ya la trae consigo de otro estado",
+      "Iniciar de inmediato a dar masajes sin previo aviso a nadie ya que la visita es temporal, no permanente"
+    ],
+    "correct": 0,
+    "feedback": "Debe contactar a la autoridad/local de licencias para requisitos estatales.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q030",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "El examen, diagnostico y tratamiento de las unias (nails) anormales y carnosidades superficiales se ejerce en el campo laboral de la siguiente profesion:",
+    "options": [
+      "Manicure.",
+      "Terapia fisica.",
+      "Medicina Osteopatica.",
+      "Podologia clinica."
+    ],
+    "correct": 3,
+    "feedback": "Uñas/callos = ámbito de la podología clínica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q031",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Cual de las siguientes opciones es considerada como acoso sexual?",
+    "options": [
+      "Masajear la zona pelvica del cliente con aceites esenciales caros.",
+      "Trabajo de punto gatillo en el psoas major.",
+      "Friccion de fibra cruzada en el musculo dorsal ancho.",
+      "Effleurage en los brazos con aceites esenciales muy exoticos."
+    ],
+    "correct": 3,
+    "feedback": "Tocar la zona pélvica/por debajo de la toalla constituye contacto sexual inapropiado.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q032",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "La primera regla del masaje es:",
+    "options": [
+      "El cliente siempre tiene la razon",
+      "No lastimar",
+      "Asegurar el pago antes de iniciar masaje",
+      "Nunca dar masaje gratis"
+    ],
+    "correct": 1,
+    "feedback": "Primero, no hacer daño.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q033",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Al colocar las sabanas o cubiertas en el cuerpo del cliente varon en una sesion de masaje el terapeuta siempre, siempre! debe cubrir esta parte del cuerpo:",
+    "options": [
+      "Pelvis",
+      "Pecho",
+      "Estomago",
+      "Pies"
+    ],
+    "correct": 0,
+    "feedback": "Siempre cubrir la pelvis para preservar límites y privacidad.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q034",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "El examen, diagnostico y tratamiento de las unias (nails) anormales y carnosidades superficiales se ejerce en el campo laboral de la siguiente profesion:",
+    "options": [
+      "Manicure.",
+      "Terapia fisica.",
+      "Medicina Osteopatica.",
+      "Podologia clinica."
+    ],
+    "correct": 3,
+    "feedback": "Uñas/callos = ámbito de la podología clínica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q035",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "El terapeuta recibe un regalo ostentoso por parte de un cliente y despues el cliente le pide al terapeuta le atienda de manera especial en casa. De acuerdo a las normas de practica basadas en principios eticos que es lo que el terapeuta debe hacer?",
+    "options": [
+      "Esperar una semana, platicar con el cliente y llegar a acuerdos con alguna propina especial.",
+      "Regresar el regalo de manera educada e inmediata.",
+      "Conservar el regalo ya que fue gratuito y visitar al cliente en casa.",
+      "Convencer al cliente que le haga un regalo menos ostentoso."
+    ],
+    "correct": 0,
+    "feedback": "Selección basada en mejores prácticas éticas/legales estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q036",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Como se define una relacion dual o multiple?",
+    "options": [
+      "La relacion profesional con un cliente que utiliza su cobertura de seguro para pagar por el masaje.",
+      "La relacion profesional entre una terapeuta de masaje y otro proveedor medico.",
+      "La relacion que involucra una conexion que puede ser compleja entre el terapeuta y el cliente.",
+      "Cuando el cliente recibe multiples sesiones."
+    ],
+    "correct": 2,
+    "feedback": "Relación dual/múltiple: vínculo adicional que complejiza la relación clínica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q037",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "De las siguientes opciones cual es la que define mejor el toque profesional?",
+    "options": [
+      "Un grupo de elementos interactuantes que funcionan como un todo complejo.",
+      "La habilidad especial, unica y peculiar que tiene como fin lograr un resultado especifico de alto nivel.",
+      "El apego al estatus profesional, los metodos, normas y personalidad estandar.",
+      "Una coleccion de sensaciones tactiles que se derivan de la estimulacion sensorial para la piel y estructuras mas profundas del cuerpo."
+    ],
+    "correct": 3,
+    "feedback": "El toque profesional se fundamenta en la percepción táctil de piel y estructuras profundas.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q038",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Como se explica la Proyeccion cuando el terapeuta empieza a sentirse emocionalmente perturbado con el cliente e internamente empieza a criticarlo?",
+    "options": [
+      "Como un diagnostico que los terapeutas de masaje expiden y que es el reflejo de una situacion.",
+      "La manifestacion de los sentimientos actuales, las emociones y motivaciones por parte del terapeuta hacia un cliente.",
+      "Una maquina biologica del tiempo hacia el interior de las emociones infantiles que el cliente manifiesta.",
+      "Una reaccion de impulso nervioso estimulado por una manipulacion a la columna vertebral que el cliente percibe."
+    ],
+    "correct": 1,
+    "feedback": "Proyección: el terapeuta atribuye al cliente sus propios sentimientos/motivaciones.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q039",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Que zonas del cuerpo del cliente es inapropiado tocar al dar un tratamiento de masaje terapeutico?",
+    "options": [
+      "Musculos aductores y cuello.",
+      "Cuello y espalda baja.",
+      "Genitales.",
+      "Musculos aductores y abdomen."
+    ],
+    "correct": 2,
+    "feedback": "Genitales: zona prohibida en masaje terapéutico.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q040",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Casos: El terapeuta se siente raro porque el cliente aun no le ha reconocido sus virtudes como masajista. El terapeuta se siente muy feliz, emocionado o se conmueve cada que ve a cierto cliente. El terapeuta instruye al cliente a obtener un seguro de vida. El terapeuta experimenta enojo cuando el cliente le dice que la espalda baja aun le duele. El terapeuta dice al cliente que sabe perfectamente que le han comparado con los masajes que da el terapeuta del otro turno. Estos casos describen:",
+    "options": [
+      "Reconocimiento al terapeuta.",
+      "Necesidades del cliente.",
+      "La retroalimentacion.",
+      "La contratransferencia."
+    ],
+    "correct": 3,
+    "feedback": "Emociones del terapeuta estimuladas por el cliente = contratransferencia.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q041",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "De las siguientes opciones cual es la que define mejor lo que es el profesionalismo?",
+    "options": [
+      "Una ocupacion que requiere de formacion y estudio especializado.",
+      "Un grupo de elementos interactuantes que funcionan como un todo complejo.",
+      "A la persona que se dedica a una profesion.",
+      "El apego al estatus profesional, a la etica, los metodos, las normativa y la jurisdiccion."
+    ],
+    "correct": 0,
+    "feedback": "Profesionalismo: disciplina que requiere formación y estándares éticos.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q042",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Cuando el terapeuta trabaja con compromiso e impecabilidad respetando los lineamientos de su labor y compromiso hacia el cliente con dignidad, respeto y esmero entonces se esta apegando a esta norma de trabajo:",
+    "options": [
+      "Roles y Limites.",
+      "Profesionalismo.",
+      "Ley de privacidad.",
+      "Confidencialidad."
+    ],
+    "correct": 1,
+    "feedback": "Describir dignidad y esmero corresponde a Profesionalismo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q043",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Cuando el terapeuta se abstiene de cualquier comportamiento que pueda resultar en acciones ilegales, inmorales o discriminatorias entonces se esta apegando a:",
+    "options": [
+      "La confidencialidad y privacidad personal.",
+      "Las relaciones duales.",
+      "Las relaciones multiples y eticas.",
+      "El compromiso profesional y de etica."
+    ],
+    "correct": 3,
+    "feedback": "Principio de ética profesional: evitar conductas ilegales o discriminatorias.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q044",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Un prospecto llama al a la clinica de masajes, dice que hoy temprano se lastimo fuertemente la espalda y le urge un masaje, su amigo le recomienda el masaje porque le ayudo en la misma situacion. Que debe hacer el terapeuta?",
+    "options": [
+      "Citarlo en ese preciso momento e iniciar con el plan de tratamiento empezando por el masaje.",
+      "Preguntarle al prospecto como se lesiono, diagnosticarle el tipo de la lesion para saber como aplicarle el masaje.",
+      "Explicarle detalladamente lo que el masaje puede hacer por las lesiones agudas y citarlo en el siguiente espacio disponible en su agenda.",
+      "Explicarle que en lesiones delicadas lo recomendable es visitar al doctor especialista primero y a partir de eso tomar decisiones."
+    ],
+    "correct": 0,
+    "feedback": "Selección basada en mejores prácticas éticas/legales estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q045",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Cuando un terapeuta exhibe en la pared de su area de trabajo el titulo profesional, cursos, diplomas, certificaciones obtenidos y afiliaciones entonces:",
+    "options": [
+      "Esta demostrando su informacion curricular y profesional.",
+      "Esta presumiendo de sus conocimientos,",
+      "Esta queriendo impresionar al publico para subir los costos del masaje.",
+      "Esta indicando que no quiere que le pregunten nada de su profesion."
+    ],
+    "correct": 0,
+    "feedback": "Mostrar credenciales informa al público sobre la formación profesional.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q046",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Que es lo que se incluye en la ley de privacidad del cliente?",
+    "options": [
+      "Las tecnicas de cubrimiento correctas, prudencia, respeto y discrecion respecto a sus documentos.",
+      "La confidencialidad del expediente con los archivos del cliente.",
+      "Cualquier informacion o historial clinico del cliente es secreta y no se comparte con terceros.",
+      "Todas las respuestas son correctas"
+    ],
+    "correct": 3,
+    "feedback": "Incluye drapeo y documentación segura: todas las anteriores.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q047",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Usted da masajes en un negocio en el que se suministran y abastecen todos los materiales y a usted le establecen los horarios de trabajo, que cargo ocupa usted en la empresa?",
+    "options": [
+      "Subcontratista.",
+      "Empleado.",
+      "Propietario del negocio.",
+      "Propietario unico."
+    ],
+    "correct": 1,
+    "feedback": "Control de horario y materiales indica relación de empleo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q048",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "El masajista decide ayudar y orientar al cliente a que obtenga un credito para comprar casa. Este es un caso de:",
+    "options": [
+      "La transferencia que el cliente experimenta.",
+      "Psicologia transpersonal.",
+      "El credito hipotecario necesario.",
+      "De contratransferencia."
+    ],
+    "correct": 3,
+    "feedback": "Asesoría financiera excede el rol; sugiere contratransferencia/rol inapropiado.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q049",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Es correcto darle masaje a un cliente con trastorno disociativo?",
+    "options": [
+      "No, el terapeuta lo refiere con el doctor",
+      "Si pero se debe analizar y adaptar el masaje de acuerdo a la condicion",
+      "No, pero el terapeuta puede iniciar sesion de terapia psicologica para dar buenos consejos al cliente",
+      "Si, pero el terapeuta debe reprogramar la cita para una fecha lejana cuando considere que el cliente ha sanado"
+    ],
+    "correct": 1,
+    "feedback": "Con adaptación y límites, el masaje puede ser apropiado salvo contraindicaciones.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q050",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "El terapeuta debe contar con la autorizacion por escrito del medico para darle masaje al cliente porque el cliente padece de:",
+    "options": [
+      "Insuficiencia cardiaca congestiva.",
+      "Enfermedad renal cronica.",
+      "Asma.",
+      "Todas las respuestas son correctas."
+    ],
+    "correct": 3,
+    "feedback": "ICC, ERC y asma pueden requerir autorización clínica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q051",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Durante la sesion de masaje en su clinica es permisible entablar platica erotica o de indole sexual solamente en este caso especifico:",
+    "options": [
+      "De hecho esta estrictamente prohibido.",
+      "Cuando el terapeuta esta enamorado del cliente.",
+      "El cliente es su pareja o conyuge.",
+      "Cuando ambas partes estan de acuerdo."
+    ],
+    "correct": 0,
+    "feedback": "Plática erótica está prohibida en el contexto profesional.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q052",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Un cliente nuevo le pide a usted que le de una hora completa de masaje en la espalda, que debe usted hacer como terapeuta?",
+    "options": [
+      "Accede a la peticion, pero tambien le masajea otras partes que el teraputa decide porque lo considera necesario",
+      "Informarle que usted siempre da masajes de cuerpo completo y sugerirle que busque a otro terapeuta",
+      "Hacer precisamente lo que el cliente le esta pidiendo",
+      "Convencerlo hasta el cansancio de los beneficios de un masaje de cuerpo completo"
+    ],
+    "correct": 2,
+    "feedback": "Respeto de preferencias informadas: se puede focalizar en la espalda si no hay contraindicaciones.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q053",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Caso: el terapeuta platica con el cliente durante la sesion respecto al trato amoroso y comprensivo que uno debe tener con los hermanos y con los parientes y le sigue platicando del respeto mutuo en la humanidad actual. El terapeuta:",
+    "options": [
+      "Esta imaginando que es psicologo",
+      "Esta realizando servicios para los que no esta calificado",
+      "Necesita recordar su campo laboral correspondiente y enfocarse en lo propio",
+      "Todas las respuestas son correctas"
+    ],
+    "correct": 3,
+    "feedback": "Debe recordar su campo laboral: todas las afirmaciones sobre extralimitarse son correctas.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q054",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "El terapeuta de masaje puede entregarle la informacion privada (archivo) de algun cliente a:",
+    "options": [
+      "El conyugue.",
+      "Al medico familiar.",
+      "Al juez.",
+      "A los hijos mayores de edad."
+    ],
+    "correct": 2,
+    "feedback": "Solo por orden legal (juez) se comparte el expediente; de otro modo, se mantiene confidencial.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q055",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "El profesional debe reportar el ____ de sus ingresos al IRS,",
+    "options": [
+      "el 60%",
+      "el 50%",
+      "el 90%",
+      "el 100%"
+    ],
+    "correct": 3,
+    "feedback": "Se reporta el 100% de los ingresos.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q056",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Cuando el terapeuta se percata de una manifestacion de Transferencia por parte del cliente la mejor manera de actuar es:",
+    "options": [
+      "El terapeuta comenta alegremente que disfrute del presente y prefiere escuchar de asuntos sentimentales actuales.",
+      "El terapeuta le platica tambien de las varias emociones intensas de su infancia.",
+      "El terapeuta finaliza la sesion de inmediato y envia al cliente con un psicologo a la de ya.",
+      "El terapeuta comenta tranquilamente que el momento presente es ahorita y sugiere gentilmente que disfrute del masaje."
+    ],
+    "correct": 3,
+    "feedback": "Se redirige con límites y atención al presente terapéutico.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q057",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Mediante  _____________ el terapeuta tiene la capacidad con su conocimiento profesional de ir mas alla que unicamente tratar el dolor local. Los tratamientos terapeuticos los aplica para aliviar la causa subyacente, disminuir el estres, aliviar tension muscular y procurarle al cliente el bienestar y relajacion.",
+    "options": [
+      "La prueba ortopedica.",
+      "La valoracion y evaluacion.",
+      "La receta de un doctor.",
+      "La observacion de la postura del cliente."
+    ],
+    "correct": 0,
+    "feedback": "Selección basada en mejores prácticas éticas/legales estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q058",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "La suegra viene a cobrar un certificado de regalo que le obsequio tu conyugue. Como terapeuta de masaje lo ideal es no perjudicar una relacion de rol dual/multiple de la siguiente manera:",
+    "options": [
+      "Permitirle platicar durante toda la sesion acerca de todos lo acontecido en la familia hasta la fecha.",
+      "Comentarle cordialmente antes de iniciar que para obtener un masaje satisfactorio se enfocaran en la terapia...sugerir amablemente se relaje y disfrute la sesion.",
+      "Iniciar una conversacion interrogando a la suegra de todo un poco y continuar la platica para asi evitar el incomodo silencio.",
+      "Reforzar la estricta e inquebrantable regla de no hablar en absoluto durante la sesion para evitar conversaciones incomodas o inapropiadas."
+    ],
+    "correct": 1,
+    "feedback": "Para evitar rol dual: mantener límites y enfoque terapéutico, con comunicación amable.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q059",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Cual es la definicion de un Profesional?",
+    "options": [
+      "La persona que tiene actividades creativas y que son para su esparcimiento personal.",
+      "La persona que se dedica y ejerce una profesion habiendo estudiado formalmente los temas especializados.",
+      "El apego al estatus social, los metodos, normas y personalidad.",
+      "Una ocupacion sin fines de lucro que requiere de formacion y estudio especializado."
+    ],
+    "correct": 1,
+    "feedback": "Profesional: quien ejerce una profesión tras formación formal.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q060",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "La caracteristica profesional tiene organizacion y sigue sistemas y modelos, cual es la definicion de una pauta?",
+    "options": [
+      "La base de conocimientos y los parametros de ejercicio de una profesion.",
+      "Replicas de estructuras o funciones que se entrelazan y que se influyen mutuamente.",
+      "Una coleccion de sensaciones tactiles que se derivan de la estimulacion sensorial para la piel y estructuras mas profundas del cuerpo.",
+      "Un grupo de elementos interactuantes que funcionan como un todo complejo."
+    ],
+    "correct": 3,
+    "feedback": "Pauta como patrón/sistema: elementos que funcionan como un todo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q061",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Un esquema de los principios fundamentales que el terapeuta de masaje se compromete a realizar en su compromiso profesional incluyen la integridad, calidad moral, sentido comun, respeto por los otros, tener responsabilidad social, esto es _____________.",
+    "options": [
+      "Normas de Practica.",
+      "Etica profesional.",
+      "Codigo de Politicas.",
+      "Estandares obligatorios."
+    ],
+    "correct": 1,
+    "feedback": "Esos principios componen la ética profesional.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q062",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Cual de las siguientes opciones es la mejor definicion de campo laboral?",
+    "options": [
+      "Un grupo de elementos interactuantes que funcionan como un todo complejo.",
+      "Una coleccion de sensaciones tactiles que se derivan de la estimulacion sensorial para la piel y para las estructuras mas profundas del cuerpo.",
+      "El conocimiento base y los parametros de practica de una profesion.",
+      "El apego al estatus profesional, los metodos, normas y personalidad."
+    ],
+    "correct": 0,
+    "feedback": "Selección basada en mejores prácticas éticas/legales estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q063",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "El terapeuta profesional licenciado en masaje ___________ responsabilidades profesionales a otra persona que aun es un aprendiz, estudiante o cualquier otra persona que aun esta por obtener la licencia.",
+    "options": [
+      "no debe delegar",
+      "puede delegar",
+      "permite ejercer",
+      "da indicaciones precisas de"
+    ],
+    "correct": 0,
+    "feedback": "Selección basada en mejores prácticas éticas/legales estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q064",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Este es un ejemplo de una norma de Practica basada en principio etico:",
+    "options": [
+      "Cobrar el precio justo por el masaje y no aceptar regalos, propinas o cualquier beneficio cuya intencion es influenciar en una referencia, tratamiento o decision.",
+      "Cobrar el precio justo por el masaje y aceptar algunos o pocos regalos, propinas o ciertos beneficios cuya intencion son influenciar en una referencia, tratamiento o decision.",
+      "Cobrar el precio justo por el masaje y aceptar solamente cierto beneficio o propina cuya intencion es influenciar en una referencia o decision.",
+      "Cobrar el precio justo por el masaje y ser discreto al aceptar solamente algun beneficio cuya intencion es influenciar en una referencia o decision en algun tratamiento."
+    ],
+    "correct": 0,
+    "feedback": "Selección basada en mejores prácticas éticas/legales estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q065",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Este es un ejemplo de una Norma de Practica basada en principios eticos:",
+    "options": [
+      "El terapeuta reconoce el momento cuando ya es necesario referir al cliente con otro profesional calificado pero continua aplicando el tratamiento porque asi lo decide el terapeuta.",
+      "El terapeuta sabe detectar el momento preciso cuando ya es necesario referir al cliente con otro profesional de la salud.",
+      "El terapeuta tiene la habilidad de conversar con el cliente durante toda la sesion hasta lograr que el cliente le confiese su estado emocional y mental.",
+      "El terapeuta sabe reconocer cuando ya es necesario referir al cliente con otro profesional pero tambien reconoce que aunque se trate de un caso clinico decide continuar aplicando el masaje ya que el terapeuta sabe que tambien es un experto."
+    ],
+    "correct": 0,
+    "feedback": "Selección basada en mejores prácticas éticas/legales estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q066",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Uno de tus clientes frecuentes te confiesa que le gustaria salir contigo algun dia. Cual es el procedimiento adecuado para cambiar la relacion de Cliente-Terapeuta?",
+    "options": [
+      "Seguir con el plan de tratamiento en la fecha prevista y comenzar la relacion intima a la brevedad posible.",
+      "El cliente debe encontrar otro terapeuta para su tratamiento y esperar tres meses antes de comenzar otra clase de relacion contigo.",
+      "Decirle al cliente que se necesita finalizar de manera clara la relacion de terapeuta-cliente, referirlo a otro terapeuta y empezar a frecuentarse ya la semana entrante.",
+      "Empezar a tantear la situacion para ver si son compatibles platicando sobre relaciones intimas del pasado."
+    ],
+    "correct": 0,
+    "feedback": "Selección basada en mejores prácticas éticas/legales estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q067",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "El terapeuta se dispone a dar masaje en la la pierna del cliente. El cliente esta acostado de lado, el terapeuta debe destaparle hasta esta region:",
+    "options": [
+      "Hasta la rodilla.",
+      "Hasta la columna iliaca posterior superior.",
+      "Hasta la zona anterior y superior de la columna.",
+      "Hasta la extremidad superior del femur o trocanter."
+    ],
+    "correct": 3,
+    "feedback": "Drapeado lateral de pierna: exponer hasta el trocánter (o PSIS) según técnica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q068",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "En que situaciones es urgente comunicarse con el personal de emergencias del numero 911?",
+    "options": [
+      "Cuando hay alguien con leve cortada en la mano",
+      "Cuando hay una persona con dolor estomacal y decide beber una soda",
+      "Cuando una persona esta teniendo problemas para respirar",
+      "Todas las respuestas son correctas"
+    ],
+    "correct": 2,
+    "feedback": "Dificultad respiratoria = activar 911.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q069",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Como se define la relacion Terapeuta - Cliente?",
+    "options": [
+      "La relacion que hay entre el jefe y los empleados en una clinica de masaje profesional.",
+      "Una relacion profesional entre una persona certificada y la persona que utiliza los servicios del profesional.",
+      "Una relacion que se da cuando una persona entra visita la clinica y le hace una entrevista a nivel profesional sobre el tema del masaje corporal.",
+      "La relacion que hay entre colegas de trabajo y organizaciones profesionales del masaje que se refieren clientes mutuamente."
+    ],
+    "correct": 1,
+    "feedback": "Relación profesional entre el licenciado y quien usa sus servicios.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q070",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "_________ define el entorno y actividad laboral especializada y correspondiente a la profesion.",
+    "options": [
+      "La camara de comercio",
+      "El ambito profesional",
+      "La ambientacion establecida",
+      "La asociacion de empresarios"
+    ],
+    "correct": 0,
+    "feedback": "Selección basada en mejores prácticas éticas/legales estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q071",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Cual de las siguientes son normas de conducta aceptables?",
+    "options": [
+      "Ser discreto",
+      "Ser participativo con otros profesionales de la salud",
+      "La publicidad objetiva del negocio",
+      "Todas las respuestas son correctas"
+    ],
+    "correct": 3,
+    "feedback": "Discreción, colaboración y publicidad objetiva son aceptables.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q072",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Los _________ son el dato que el IRS considera para determinar si se es empleado.",
+    "options": [
+      "Horarios de trabajo",
+      "Estandares para delegar",
+      "Ingresos",
+      "Dias de vacaciones anuales"
+    ],
+    "correct": 0,
+    "feedback": "Selección basada en mejores prácticas éticas/legales estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q073",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "En los principios eticos del masaje, cual es el motivo por el cual los terapeutas de masaje deben mantener los mas altos niveles de integridad y honestidad?",
+    "options": [
+      "Porque es alentador obtener mas ingresos de este manera.",
+      "Porque es una obligacion de caracter nostalgico.",
+      "Porque tienen la responsabilidad ante la sociedad.",
+      "Porque tienen la responsabilidad exclusiva ante quienes fueron sus maestros."
+    ],
+    "correct": 2,
+    "feedback": "El compromiso ético es con la sociedad, no con intereses particulares.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q074",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Que es lo que se incluye en la ley de privacidad del cliente?",
+    "options": [
+      "Las tecnicas de cubrimiento correctas, prudencia, respeto y discrecion respecto a sus documentos.",
+      "La confidencialidad del expediente con los archivos del cliente.",
+      "Cualquier informacion o historial clinico del cliente es secreta y no se comparte con terceros.",
+      "Todas las respuestas son correctas"
+    ],
+    "correct": 3,
+    "feedback": "Incluye drapeo y documentación segura: todas las anteriores.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q075",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "El (la) __________ es una declaracion de los principios generales de conducta aceptable, de calidad moral y profesional bajo la cual los terapeutas de masaje se rigen para llevar a cabo su labor.",
+    "options": [
+      "Codigo de Etica.",
+      "Campo de accion.",
+      "Promesa de Confidencialidad.",
+      "Revision veraz del historial clinico del cliente."
+    ],
+    "correct": 0,
+    "feedback": "El Código de Ética establece principios de conducta aceptable.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q076",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "De las siguientes opciones cual es la que define mejor lo que es el profesionalismo?",
+    "options": [
+      "Una ocupacion que requiere de formacion y estudio especializado.",
+      "Un grupo de elementos interactuantes que funcionan como un todo complejo.",
+      "A la persona que se dedica a una profesion.",
+      "El apego al estatus profesional, a la etica, los metodos, las normativa y la jurisdiccion."
+    ],
+    "correct": 0,
+    "feedback": "Profesionalismo: disciplina que requiere formación y estándares éticos.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q077",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Cuando el terapeuta trabaja con compromiso e impecabilidad respetando los lineamientos de su labor y compromiso hacia el cliente con dignidad, respeto y esmero entonces se esta apegando a esta norma de trabajo:",
+    "options": [
+      "Roles y Limites.",
+      "Profesionalismo.",
+      "Ley de privacidad.",
+      "Confidencialidad."
+    ],
+    "correct": 1,
+    "feedback": "Describir dignidad y esmero corresponde a Profesionalismo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q078",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "El terapeuta de masaje puede entregarle la informacion privada (archivo) de algun cliente a:",
+    "options": [
+      "El conyugue.",
+      "Al medico familiar.",
+      "Al juez.",
+      "A los hijos mayores de edad."
+    ],
+    "correct": 2,
+    "feedback": "Solo por orden legal (juez) se comparte el expediente; de otro modo, se mantiene confidencial.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q079",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Algunos de los beneficios del masaje es que los musculos esqueleticos reaccionan con _______________ y estos efectos favorecen o generan reacciones_________  que abarcan el sistema nervioso y sus respuestas quimicas naturales.",
+    "options": [
+      "Efectos quimicos - intrinsecas.",
+      "Efectos biomecanicos exactos - retardadas.",
+      "Efectos biomecanicos directos - reflejas.",
+      "Efectos mecanicos complejos - circundantes."
+    ],
+    "correct": 0,
+    "feedback": "Selección basada en mejores prácticas éticas/legales estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q080",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Usted es testigo de un accidente automovilistico y despues de evaluar todo el entorno del lugar, se acerca para revisar a las victimas, usted debe ayudar primero a:",
+    "options": [
+      "Al conductor que sale a examinar el coche.",
+      "A un pasajero del coche que no se mueve y parece estar inconsciente.",
+      "Al conductor que se queja de dolor y parece que sufrio una cortadura en la cara.",
+      "A otro testigo que le esta gritando al conductor que esta inspeccionando el auto."
+    ],
+    "correct": 1,
+    "feedback": "Prioridad al paciente inconsciente/no responde.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q081",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "El terapeuta deja el folder del historial clinico de salud del cliente sobre el mostrador mientras da una sesion de masaje, esta es una accion:",
+    "options": [
+      "Excelente, para que la recepcionista o cualquier persona del Spa lo guarde hoy mismo en el cajon.",
+      "Permitida si el terapeuta tiene prisa porque tiene demasiados asuntos que atender.",
+      "Que viola la ley de confidencialidad del cliente.",
+      "Comun y nada de que procuparse ya que nadie abrira el folder."
+    ],
+    "correct": 2,
+    "feedback": "Selección basada en mejores prácticas éticas/legales estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q082",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Que significa un protocolo verbal para terapia?",
+    "options": [
+      "Un esquema del tratamiento.",
+      "Asesoria, costo y duracion.",
+      "A y B.",
+      "Entendimiento psicologico aplicado a traves de comentarios objetivos."
+    ],
+    "correct": 2,
+    "feedback": "Protocolo verbal = esquema + asesoría/costo/duración.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q083",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Caso: durante la sesion el cliente insiste e insiste al terapeuta cuanto le admira y dice continuamente que lo aprecia porque le recuerda a alguien muy importante de su vida y se sentiria perdido sin esas sesiones que recibe... el cliente esta exageradamente emocionado!. El cliente esta ________ y a esta situacion se le llama __________.",
+    "options": [
+      "Imaginando - Transferencia.",
+      "Fantaseando - Cortesia.",
+      "Explicando - Fisiologia humana.",
+      "Describiendo - Contrareferencia."
+    ],
+    "correct": 0,
+    "feedback": "Selección basada en mejores prácticas éticas/legales estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q084",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "El diagnostico, tratamiento, prevencion, curacion o alivio de enfermedades humanas, dolencias, trastornos o cualquier otra enfermedad fisica o mental mediante la asistencia, asesoria, dispositivos, pruebas de diagnostico o de otros medios, se encuentra en el siguiente campo de accion profesional:",
+    "options": [
+      "Medicina.",
+      "Terapia Amma.",
+      "Psicologia.",
+      "Masaje tailandes."
+    ],
+    "correct": 0,
+    "feedback": "Selección basada en mejores prácticas éticas/legales estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q085",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Dentro del codigo de etica el profesional de masaje debe proporcionar al cliente un entorno limpio, __________ y comfortable. El terapeuta se abstendra de aceptar regalos o ________ que tengan un interes distinto al profesional.",
+    "options": [
+      "atractivo - distintivos.",
+      "fascinante - monedas.",
+      "seguro - beneficios.",
+      "alegorico - beneficios."
+    ],
+    "correct": 0,
+    "feedback": "Selección basada en mejores prácticas éticas/legales estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q086",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "El consentimiento informado significa que:",
+    "options": [
+      "El cliente manifiesta su estado sentimental y es aceptable.",
+      "Es requisito que el terapeuta llene los formatos en cada sesion de masaje.",
+      "El formato legal dentro del reglamento del sistema de profesionales de la salud.",
+      "Un formato necesario o innecesario, depende del terapeuta."
+    ],
+    "correct": 2,
+    "feedback": "Consentimiento informado: documento legal del ámbito sanitario para autorizar el tratamiento.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q087",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "La normativa de proteccion de datos privados del cliente abarca este aspecto:",
+    "options": [
+      "Toda la informacion del cliente.",
+      "La proteccion de datos personales del cliente con la unica excepcion del familiar cercano que necesita saber fechas de las sesiones.",
+      "Todos los campos de accion laboral y de economia global.",
+      "Las relaciones de rol dual o multiple."
+    ],
+    "correct": 0,
+    "feedback": "Selección basada en mejores prácticas éticas/legales estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q088",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "__________ es el estudio y desarrollo de una habilidad y aptitudes en particular o una base de conocimientos profesionales asociados y aplicados dentro de un campo de trabajo.",
+    "options": [
+      "La relacion dual/multiple.",
+      "La asertividad o limite laboral.",
+      "La competencia profesional.",
+      "La transferencia."
+    ],
+    "correct": 1,
+    "feedback": "Selección basada en mejores prácticas éticas/legales estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q089",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Un terapeuta de masaje competente debe saber descubrir y detectar cuando un cliente presenta indicios o sintomas que podran __________ su labor e incluso casos clinicos frente a los cuales es preferible ________ el masaje antes de iniciar.",
+    "options": [
+      "suavizar - comentar.",
+      "ampliar - suspender.",
+      "facilitar - detectar.",
+      "restringir - suspender"
+    ],
+    "correct": 3,
+    "feedback": "Ante banderas rojas, se restringe y puede suspenderse el masaje.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q090",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "El terapeuta ya tiene el historial clinico del cliente y ya le explico el plan de tratamiento. Despues de estos pasos el terapeuta debe tambien incluir:",
+    "options": [
+      "Las preferencias del cliente respecto a la aromaterapia.",
+      "El historial clinico de la familia mas cercana del cliente.",
+      "El historial clinico del cliente y nombres completos de sus recomendados .",
+      "La firma del consentimiento informado del plan de tratamiento."
+    ],
+    "correct": 3,
+    "feedback": "Selección basada en mejores prácticas éticas/legales estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q091",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Que se debe hacer si el cliente expresa interes personal hacia el terapeuta?",
+    "options": [
+      "Terminar la relacion terapeuta-cliente el mismo dia y referirlo de inmediato con otro terapeuta.",
+      "Explicarle al cliente que se debe concluir la relacion terapeuta-cliente si se llegase a dar el interes por parte del terapeuta.",
+      "Iniciar una conversacion objetiva respecto a los gustos e intereses mutuos mientras toman un cafe.",
+      "Preguntarle acerca de su vida privada durante la sesion para ver si son compatibles y luego programas otra cita con mucho entusiasmo."
+    ],
+    "correct": 1,
+    "feedback": "Mantener límites; si existiera interés recíproco, primero se concluye la relación clínica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q092",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Que haria usted terapeuta si un cliente le pide que le cobre a su empresa de seguros un servicio extra de masaje que nunca fue realizado?",
+    "options": [
+      "Llamar a la policia inmediatamente",
+      "Informarle a la empresa de seguros",
+      "Cobrarle discretarmente a la empresa de seguros",
+      "Explicarle al cliente que eso es un acto ilegal"
+    ],
+    "correct": 3,
+    "feedback": "Selección basada en mejores prácticas éticas/legales estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q093",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "La contratransferencia no conviente en la relacion Terapeuta-Cliente porque el mas afectado es el cliente cuando el terapeuta no __________ lo que el cliente verdaderamente necesita. La contratransferencia cuando el terapeuta siente \"algo\" por los estimulos que cliente le provocan y que resultan de la influencia del cliente actuando en los sentimientos inconscientes del terapeuta. El terapeuta debe estar:",
+    "options": [
+      "destina - fascinado",
+      "impone - determinado",
+      "propone - alerta",
+      "comprende - alerta"
+    ],
+    "correct": 0,
+    "feedback": "Selección basada en mejores prácticas éticas/legales estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q094",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "El terapeuta recibe un regalo ostentoso por parte de un cliente y despues el cliente le pide al terapeuta le atienda de manera especial en casa. De acuerdo a las normas de practica basadas en principios eticos que es lo que el terapeuta debe hacer?",
+    "options": [
+      "Esperar una semana, platicar con el cliente y llegar a acuerdos con alguna propina especial.",
+      "Regresar el regalo de manera educada e inmediata.",
+      "Conservar el regalo ya que fue gratuito y visitar al cliente en casa.",
+      "Convencer al cliente que le haga un regalo menos ostentoso."
+    ],
+    "correct": 0,
+    "feedback": "Selección basada en mejores prácticas éticas/legales estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q095",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Este es un ejemplo de una Norma de Practica basada en principios eticos:",
+    "options": [
+      "El terapeuta reconoce el momento cuando ya es necesario referir al cliente con otro profesional calificado pero continua aplicando el tratamiento porque asi lo decide el terapeuta.",
+      "El terapeuta sabe detectar el momento preciso cuando ya es necesario referir al cliente con otro profesional de la salud.",
+      "El terapeuta tiene la habilidad de conversar con el cliente durante toda la sesion hasta lograr que el cliente le confiese su estado emocional y mental.",
+      "El terapeuta sabe reconocer cuando ya es necesario referir al cliente con otro profesional pero tambien reconoce que aunque se trate de un caso clinico decide continuar aplicando el masaje ya que el terapeuta sabe que tambien es un experto."
+    ],
+    "correct": 0,
+    "feedback": "Selección basada en mejores prácticas éticas/legales estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q096",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Los _________ son el dato que el IRS considera para determinar si se es empleado.",
+    "options": [
+      "Horarios de trabajo",
+      "Estandares para delegar",
+      "Ingresos",
+      "Dias de vacaciones anuales"
+    ],
+    "correct": 0,
+    "feedback": "Selección basada en mejores prácticas éticas/legales estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q097",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Todas las siguientes ocupaciones se combinan conjuntamente con la terapia del masaje, elige la que se enfoca en limpiar y embellecer la piel:",
+    "options": [
+      "Enfermeria.",
+      "Esteticista.",
+      "Terapia fisica.",
+      "Medico osteopata."
+    ],
+    "correct": 0,
+    "feedback": "Selección basada en mejores prácticas éticas/legales estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q098",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Que protocolo debe seguir el terapeuta una vez terminada la sesion terapeutica y el cliente se haya retirardo?",
+    "options": [
+      "Limpiar los pomos de locion o aceite.",
+      "Lavarse las manos minuciosamente.",
+      "Desinfectar la silla y la camilla de masaje.",
+      "Todas las respuestas son correctas"
+    ],
+    "correct": 3,
+    "feedback": "Opción múltiple correcta: todas aplican.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q099",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Hasta donde debe exponerse la piel del cliente para recibir masaje en la espalda estando en decubito prono?",
+    "options": [
+      "Hasta el nivel de la vertebra T12.",
+      "Hasta el nivel del trocanter mayor.",
+      "Hasta la cresta iliaca o cintura.",
+      "Hasta el nivel del gluteo medio."
+    ],
+    "correct": 2,
+    "feedback": "Drapeado: exponer hasta la cresta ilíaca para trabajar la espalda.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q100",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Que se debe hacer si va a viajar a otro estado por largo tiempo y desea trabajar en la profesion de terapeuta de masaje en esa otra localidad?",
+    "options": [
+      "Contactar a la asociacion de masaje local encargada de permisos y licencias",
+      "Nada porque ya el terapeuta posee licencia activa del estado de donde proviene",
+      "Asume por logica que no se necesita permiso adicional porque ya la trae consigo de otro estado",
+      "Iniciar de inmediato a dar masajes sin previo aviso a nadie ya que la visita es temporal, no permanente"
+    ],
+    "correct": 0,
+    "feedback": "Debe contactar a la autoridad/local de licencias para requisitos estatales.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q101",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "A que se le considera el contacto sexual en el ambito de la terapia profesional del masaje?",
+    "options": [
+      "Masaje tapotement en el musculo vasto interno.",
+      "Masaje effleurage en la pantorrilla sumandole aromaterapia con aceites esenciales muy exoticos.",
+      "Masajear con friccion tranversa de fibra en el musculo deltoides.",
+      "Masajear por debajo de la toalla o sabanas cerca del gluteo."
+    ],
+    "correct": 3,
+    "feedback": "Tocar por debajo de la toalla cerca del glúteo es contacto sexual.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q102",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Para la efectividad de los masajes y adaptarlos de acuerdo a las necesidades de cada cliente, una comunicacion clara, objetiva y congruente entre el cliente y el terapeuta es:",
+    "options": [
+      "Una decision del terapeuta unicamente.",
+      "Crucial para ir conociendo los avances del tratamiento.",
+      "Una decision irrevelante para la situacion.",
+      "De relativa importancia ya que el terapeuta puede notar avances sin comentarlo con el cliente."
+    ],
+    "correct": 1,
+    "feedback": "Comunicación clara es crucial para adaptar el tratamiento.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q103",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "La contratransferencia en una sesion de masaje se detecta asi:",
+    "options": [
+      "El cliente se siente muy emocionado y actua algo irracional respecto al terapeuta.",
+      "Una reaccion emocional del cliente hacia tu tratamiento y te lo expresa verbalmente.",
+      "El terapeuta experimenta fantasias cuando ve al cliente.",
+      "Es la personalizacion de la relacion terapeutica por parte del cliente hacia el terapeuta."
+    ],
+    "correct": 2,
+    "feedback": "Contratransferencia: reacción emocional del terapeuta hacia el cliente.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q104",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "El terapeuta desea invitar al cliente a que se conozcan mejor. Que debe hacer el terapeuta?",
+    "options": [
+      "Coquetear con el cliente para que se entere pronto.",
+      "Hacer insinuaciones breves y chistosas durante el masaje.",
+      "Apegarse a la relacion legal Terapeuta-Cliente.",
+      "Pedirselo sin dudar, ambos son mayores de edad."
+    ],
+    "correct": 2,
+    "feedback": "Mantener la relación legal profesional; no invitar.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q105",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Que debe hacer el terapeuta cuando el cliente se muestra renuente a contestar los formatos de historial de consumo de medicamentos e historial clinico?",
+    "options": [
+      "Pedirle al cliente que regrese cuando este listo para contestar los formatos necesarios",
+      "Explicarle el procedimiento y la importancia de la informacion para darle el tratamiento adecuado a la vez que le va haciendo las preguntas oportunamente",
+      "Darle el masaje y despues se le entregan los formatos y cuestionarios para que los llene en casa y que se los entregue antes de su proxima cita",
+      "Preguntarle durante la sesion de su masaje sobre el consumo de medicamentos y el historial clinico poco a poco"
+    ],
+    "correct": 1,
+    "feedback": "Educar sobre la importancia de la historia clínica mientras se recaba información.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q106",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Este es un ejemplo de una norma de Practica basada en principio etico:",
+    "options": [
+      "Cobrar el precio justo por el masaje y no aceptar regalos, propinas o cualquier beneficio cuya intencion es influenciar en una referencia, tratamiento o decision.",
+      "Cobrar el precio justo por el masaje y aceptar algunos o pocos regalos, propinas o ciertos beneficios cuya intencion son influenciar en una referencia, tratamiento o decision.",
+      "Cobrar el precio justo por el masaje y aceptar solamente cierto beneficio o propina cuya intencion es influenciar en una referencia o decision.",
+      "Cobrar el precio justo por el masaje y ser discreto al aceptar solamente algun beneficio cuya intencion es influenciar en una referencia o decision en algun tratamiento."
+    ],
+    "correct": 0,
+    "feedback": "Selección basada en mejores prácticas éticas/legales estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q107",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Para dar prioridad a las victimas de un accidente en donde se cayeron de un edificio alto en obra de construccion y hubo varios heridos. A quien ayudaria usted primero?",
+    "options": [
+      "A la persona que se queja de un tobillo torcido.",
+      "A la persona que parece tener una pierna rota y le esta sangrando.",
+      "A la persona que se mueve lentamente para levantarse y se ve un poco aturdido.",
+      "A la persona que se levanta lentamente y tambaleandose se aleja del lugar."
+    ],
+    "correct": 1,
+    "feedback": "Prioridad al lesionado con hemorragia evidente.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q108",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "________________ define el sitio de trabajo u ocupacion donde desarrolla su actividad profesional.",
+    "options": [
+      "El campo de investigacion",
+      "La federacion del NCETMB",
+      "El reglamento de trabajo",
+      "El campo laboral"
+    ],
+    "correct": 0,
+    "feedback": "Selección basada en mejores prácticas éticas/legales estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q109",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Este es un protocolo a seguir al finalizar la sesion de masaje con el cliente:",
+    "options": [
+      "Salir de la habitacion dejando la puerta abierta y entrar a los 2 minutos.",
+      "Quedarse en silencio con el cliente hasta que se ponga la ropa.",
+      "Salir de la habitacion y cerrar la puerta.",
+      "Conversar tranquilamente con el cliente mientras este se viste."
+    ],
+    "correct": 0,
+    "feedback": "Selección basada en mejores prácticas éticas/legales estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q110",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Durante una sesion de masaje el cliente se excita sexualmente. Que accion inmediata debe hacer terapeuta?",
+    "options": [
+      "Continuar el masaje con las palmas de las manos en la zona del cuello y dejar al cliente que continue con su excitacion hasta finalizar la sesion.",
+      "Preguntarle si este masaje le agrada o desea un poco mas de aceite esencial de lavanda y continuar dando masaje mas lentamente.",
+      "Continuar el masaje con las manos mas vigorosamente para que el cliente se alerte y se percate de esa morbosidad.",
+      "Cambiar la tecnica y explicarle al cliente con terminologia profesional que el masaje puede generar efectos fisiologicos naturales."
+    ],
+    "correct": 0,
+    "feedback": "Selección basada en mejores prácticas éticas/legales estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q111",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "En los principios eticos el profesional del masaje debera comportarse siempre con integridad, honestidad y discrecion en sus relaciones con los demas. Esto se refiere a:",
+    "options": [
+      "Codigo legal.",
+      "Codigo de Etica.",
+      "Ley independiente.",
+      "Capacidad moral."
+    ],
+    "correct": 1,
+    "feedback": "Selección basada en mejores prácticas éticas/legales estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q112",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Para prevenir enfermedades infecciosas y transmisibles, la manera mas simple y eficaz de minimizar el riesgo es lavandose las manos correctamente. Cuanto es el tiempo recomendado por la Asociacion CDC para frotarse las manos con jabon antes de enjuagarse con agua tibia?",
+    "options": [
+      "Al menos 10 segundos.",
+      "Al menos 15 segundos.",
+      "Al menos 20 segundos.",
+      "Al menos 40 segundos."
+    ],
+    "correct": 2,
+    "feedback": "CDC: frotar con jabón al menos 20 segundos.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q113",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Un (a) __________ es una \"barrera invisible\" que se debe respetar con el fin de proteger la integridad de todas las personas involucradas en las relaciones profesionales y de servicio.",
+    "options": [
+      "Competencia.",
+      "Transferencia.",
+      "Limite.",
+      "Relacion dual o multidimensional."
+    ],
+    "correct": 2,
+    "feedback": "El límite protege la integridad en relaciones profesionales.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q114",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Cual es la forma mas sencilla de disminuir drasticamente el riesgo de enfermedades infecciosas y transmisibles?",
+    "options": [
+      "Usar tapabocas.",
+      "El uso de guantes.",
+      "Aumentar la ingesta de vitaminas.",
+      "Lavarse las manos correctamente."
+    ],
+    "correct": 3,
+    "feedback": "Lavado correcto de manos reduce drásticamente el riesgo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q115",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Cuando se le es permitido a un estudiante de masaje ser compensado monetariamente por dar un masaje a otra persona?",
+    "options": [
+      "Cuando asi lo establece el reglamento estatal.",
+      "El primer dia del ciclo escolar.",
+      "Cuando las clinicas de entrenamiento dan inicio.",
+      "Cuando el estudiante acaba de graduadarse del Instituto."
+    ],
+    "correct": 0,
+    "feedback": "Depende del reglamento/licencia estatal aplicable.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q116",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Usted es testigo de un accidente automovilistico y despues de evaluar todo el entorno del lugar, se acerca para revisar a las victimas, usted debe ayudar primero a:",
+    "options": [
+      "Al conductor que sale a examinar el coche.",
+      "A un pasajero del coche que no se mueve y parece estar inconsciente.",
+      "Al conductor que se queja de dolor y parece que sufrio una cortadura en la cara.",
+      "A otro testigo que le esta gritando al conductor que esta inspeccionando el auto."
+    ],
+    "correct": 1,
+    "feedback": "Prioridad al paciente inconsciente/no responde.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q117",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Como se explica la Proyeccion cuando el terapeuta empieza a sentirse emocionalmente perturbado con el cliente e internamente empieza a criticarlo?",
+    "options": [
+      "Como un diagnostico que los terapeutas de masaje expiden y que es el reflejo de una situacion.",
+      "La manifestacion de los sentimientos actuales, las emociones y motivaciones por parte del terapeuta hacia un cliente.",
+      "Una maquina biologica del tiempo hacia el interior de las emociones infantiles que el cliente manifiesta.",
+      "Una reaccion de impulso nervioso estimulado por una manipulacion a la columna vertebral que el cliente percibe."
+    ],
+    "correct": 1,
+    "feedback": "Proyección: el terapeuta atribuye al cliente sus propios sentimientos/motivaciones.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q118",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "El terapeuta profesional licenciado en masaje ___________ responsabilidades profesionales a otra persona que aun es un aprendiz, estudiante o cualquier otra persona que aun esta por obtener la licencia.",
+    "options": [
+      "no debe delegar",
+      "puede delegar",
+      "permite ejercer",
+      "da indicaciones precisas de"
+    ],
+    "correct": 0,
+    "feedback": "Selección basada en mejores prácticas éticas/legales estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q119",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Existe alguna circunstancia especial o aceptable para que durante el tratamiento los genitales del cliente esten al descubierto?",
+    "options": [
+      "Si, unicamente cuando el cliente lo solicita o cuando cambia de posicion.",
+      "No, esta prohibido.",
+      "Si, cuando el cliente se esta dando la vuelta sobre la camilla.",
+      "De vez en cuando mientras se estan acomodando la toalla o las sabanas."
+    ],
+    "correct": 1,
+    "feedback": "Nunca deben estar al descubierto durante tratamiento.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "pebl_q120",
+    "category_id": "professionalism_ethics_business_legal",
+    "question": "Cuando el terapeuta se abstiene de cualquier comportamiento que pueda resultar en acciones ilegales, inmorales o discriminatorias entonces se esta apegando a:",
+    "options": [
+      "La confidencialidad y privacidad personal.",
+      "Las relaciones duales.",
+      "Las relaciones multiples y eticas.",
+      "El compromiso profesional y de etica."
+    ],
+    "correct": 3,
+    "feedback": "Principio de ética profesional: evitar conductas ilegales o discriminatorias.",
+    "difficulty": "medium",
+    "language": "es"
+  }
+]

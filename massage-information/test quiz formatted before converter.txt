@@ -1,0 +1,109 @@
+multichoice
+What is the minimum passing grade required for all quizzes in this course?
+A. A) 70%
+B. B) 75%
+C. C) 80%
+D. D) 85%
+Answer: C
+
+
+truefalse
+This course provides 4 hours of continuing education credit upon successful completion.
+Answer: True
+
+
+multichoice
+Which Florida agency is responsible for licensing and regulating nonpublic postsecondary institutions?
+A. A) Florida Department of Education
+B. B) Commission for Independent Education (CIE)
+C. C) Florida Board of Governors
+D. D) Florida Association of Colleges
+Answer: B
+
+
+truefalse
+Participation in the course Forums is required to complete the course.
+Answer: False
+
+
+multichoice
+What is the approximate time needed to complete this course?
+A. A) 2 hours
+B. B) 3 hours
+C. C) 4 hours
+D. D) 6 hours
+Answer: C
+
+
+multichoice
+An enrollment agreement is best described as:
+A. A) A marketing brochure
+B. B) A binding contract between student and institution
+C. C) A financial aid application
+D. D) A course catalog
+Answer: B
+
+
+truefalse
+Admissions representatives are required to undergo annual training on fair consumer practices.
+Answer: True
+
+
+multichoice
+Which sections of Florida Statutes outline fair consumer practices standards?
+A. A) Sections 1003.02 and 1003.15
+B. B) Sections 1004.12 and 1004.25
+C. C) Sections 1005.04 and 1005.34
+D. D) Sections 1006.01 and 1006.18
+Answer: C
+
+
+truefalse
+Agents who recruit students off-campus must complete approved training and background checks.
+Answer: True
+
+
+multichoice
+The official institutional document that provides full disclosure on programs, policies, and costs is called:
+A. A) The enrollment agreement
+B. B) The marketing plan
+C. C) The catalog
+D. D) The resource notebook
+Answer: C
+
+
+multichoice
+What should admissions staff avoid using in Forum posts to preserve professional integrity?
+A. A) Technical terminology
+B. B) Individual or company/school names
+C. C) Course-related questions
+D. D) General compliance discussions
+Answer: B
+
+
+truefalse
+Programmatic accreditation is the same as institutional licensing.
+Answer: False
+
+
+multichoice
+A Resource Notebook is used by admissions staff to:
+A. A) Track student enrollment numbers
+B. B) Compile and reference rules, policies, and documents for quick access
+C. C) Store marketing materials
+D. D) Record continuing education hours
+Answer: B
+
+
+truefalse
+Students should be provided clear information about repayment obligations for financial aid during the admissions process.
+Answer: True
+
+
+multichoice
+Which format is NOT mentioned as a content delivery option in this course?
+A. A) Reading content online
+B. B) Printing and reading offline
+C. C) Listening to content
+D. D) Video conferencing with instructors
+Answer: D

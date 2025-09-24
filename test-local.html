@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Local Test - MBLEX Prep</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 2rem;
+            background: #f5f5f5;
+        }
+        .test-card {
+            background: white;
+            padding: 2rem;
+            border-radius: 8px;
+            margin-bottom: 1rem;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .btn {
+            display: inline-block;
+            background: #667eea;
+            color: white;
+            padding: 0.75rem 1.5rem;
+            text-decoration: none;
+            border-radius: 5px;
+            margin: 0.5rem;
+        }
+        .success { color: green; }
+        .error { color: red; }
+        .warning { color: orange; }
+    </style>
+</head>
+<body>
+    <div class="test-card">
+        <h1>🎓 MBLEX Prep - Local Testing</h1>
+        <p>Use this page to test your local setup before launching the main application.</p>
+        
+        <h2>Quick Tests:</h2>
+        
+        <div class="test-card">
+            <h3>1. File Structure Test</h3>
+            <p>Check if all required files exist:</p>
+            <ul>
+                <li>✅ index.html</li>
+                <li>✅ css/styles.css</li>
+                <li>✅ js/auth0.js</li>
+                <li>✅ js/audio-manager.js</li>
+                <li>✅ js/chatbot-manager.js</li>
+                <li>✅ js/ui-manager.js</li>
+                <li>✅ js/app.js</li>
+                <li>✅ auth_config.json</li>
+            </ul>
+        </div>
+
+        <div class="test-card">
+            <h3>2. Local Server Requirements</h3>
+            <p class="warning">⚠️ Important: This app requires a local server to work properly due to:</p>
+            <ul>
+                <li>JavaScript modules and CORS policies</li>
+                <li>Auth0 authentication requirements</li>
+                <li>File loading restrictions</li>
+            </ul>
+            
+            <h4>Recommended Local Server Options:</h4>
+            <ul>
+                <li><strong>Python:</strong> <code>python -m http.server 8000</code></li>
+                <li><strong>Node.js:</strong> <code>npx serve .</code> or <code>npx http-server</code></li>
+                <li><strong>VS Code:</strong> Live Server extension</li>
+                <li><strong>PHP:</strong> <code>php -S localhost:8000</code></li>
+            </ul>
+        </div>
+
+        <div class="test-card">
+            <h3>3. Auth0 Configuration</h3>
+            <p class="warning">⚠️ Before using authentication:</p>
+            <ol>
+                <li>Create an Auth0 account at <a href="https://auth0.com" target="_blank">auth0.com</a></li>
+                <li>Create a Single Page Application</li>
+                <li>Update <code>auth_config.json</code> with your domain and client ID</li>
+                <li>Configure allowed URLs in Auth0 dashboard</li>
+            </ol>
+            <p class="success">✅ The app will work in development mode without Auth0 for testing</p>
+        </div>
+
+        <div class="test-card">
+            <h3>4. Audio Files (Optional)</h3>
+            <p>Add MP3 files to <code>assets/sounds/Songs/</code> for background music:</p>
+            <ul>
+                <li>relaxing-study-1.mp3</li>
+                <li>relaxing-study-2.mp3</li>
+                <li>focus-music-1.mp3</li>
+                <li>etc...</li>
+            </ul>
+            <p class="success">✅ Audio will gracefully handle missing files</p>
+        </div>
+
+        <div class="test-card">
+            <h3>5. Chatbot Integration</h3>
+            <p class="success">✅ Chatbot URL is pre-configured:</p>
+            <code>https://www.chatbase.co/chatbot-iframe/JSnFdxR-Yqctl2QMqQZb0</code>
+            <p>The AI Tutor will load automatically when you navigate to it.</p>
+        </div>
+
+        <div class="test-card">
+            <h3>Ready to Launch?</h3>
+            <a href="index.html" class="btn">🚀 Launch MBLEX Prep App</a>
+        </div>
+    </div>
+
+    <div class="test-card">
+        <h2>Development Console Commands</h2>
+        <p>Once the app is running, open browser DevTools and try these commands:</p>
+        <ul>
+            <li><code>MBLEXApp.getDebugInfo()</code> - Get app status</li>
+            <li><code>MBLEXApp.navigateToStudy()</code> - Go to study area</li>
+            <li><code>MBLEXApp.navigateToTest()</code> - Go to test generator</li>
+            <li><code>MBLEXApp.navigateToSimulation()</code> - Go to simulations</li>
+            <li><code>MBLEXApp.navigateToChatbot()</code> - Go to AI tutor</li>
+        </ul>
+    </div>
+
+    <div class="test-card">
+        <h2>Keyboard Shortcuts</h2>
+        <ul>
+            <li><kbd>Ctrl+M</kbd> - Return to main menu</li>
+            <li><kbd>Ctrl+1</kbd> - Study area</li>
+            <li><kbd>Ctrl+2</kbd> - Test generator</li>
+            <li><kbd>Ctrl+3</kbd> - Simulations</li>
+            <li><kbd>Ctrl+4</kbd> - AI tutor</li>
+            <li><kbd>Escape</kbd> - Go back</li>
+            <li><kbd>1-4</kbd> - Quick navigation from main menu</li>
+        </ul>
+    </div>
+</body>
+</html>

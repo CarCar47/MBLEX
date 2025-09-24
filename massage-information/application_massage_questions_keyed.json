@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "app_q001",
+    "category_id": "application_of_massage",
+    "question": "Cual es la secuencia adecuada para dar masaje a un cliente que padece edema en los tobillos bilaterales?",
+    "options": [
+      "Cadera, tobillo, pie y dedos de los pies",
+      "Esternon, clavicula, cadera, pierna, tobillo y pie",
+      "Pie, tobillo, pierna y cadera",
+      "Dedos de los pies, tobillo, pierna y cadera"
+    ],
+    "correct": 1,
+    "feedback": "En edema distal se limpia primero proximal (clavículas/esternón) y luego se avanza hacia distal.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q002",
+    "category_id": "application_of_massage",
+    "question": "El cliente padece de insuficiencia cardiaca congestiva pero el terapeuta necesita tratarle el edema, que es lo que debe evitarse?",
+    "options": [
+      "EL drenaje linfatico local.",
+      "Masaje de relajacion sutil.",
+      "El masaje de drenaje linfatico de cuerpo completo.",
+      "El trabajo enfocado en las lesiones cronicas."
+    ],
+    "correct": 2,
+    "feedback": "En ICC se evita el drenaje linfático de cuerpo completo por sobrecarga hemodinámica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q003",
+    "category_id": "application_of_massage",
+    "question": "Cual opcion es un efecto reflejo del Tapotement?",
+    "options": [
+      "Se afloja la mucosidad en la cavidad toracica.",
+      "Disminucion de adherencias fasciales.",
+      "Hiperemia.",
+      "Isquemia momentanea."
+    ],
+    "correct": 0,
+    "feedback": "El tapotement/percusión ayuda a aflojar la mucosidad torácica por vibración mecánica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q004",
+    "category_id": "application_of_massage",
+    "question": "Cual de las cuatro pruebas de inhibicion activa aplica las contracciones maximas y tambien concentricas?",
+    "options": [
+      "Relajacion post isometrica.",
+      "Contraccion agonista.",
+      "Contraer-relajar.",
+      "Sostener-relajar"
+    ],
+    "correct": 2,
+    "feedback": "Contraer‑relajar usa contracciones máximas isotónicas (concéntricas) antes del estiramiento.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q005",
+    "category_id": "application_of_massage",
+    "question": "Cual opcion es un efecto reflejo del effleurage profundo?",
+    "options": [
+      "Liberacion de endorfinas.",
+      "Aumenta la eliminacion de residuos.",
+      "Aumenta el flujo venoso y linfatico.",
+      "Mueve nutrientes a traves de los vasos."
+    ],
+    "correct": 0,
+    "feedback": "El effleurage profundo puede inducir liberación de endorfinas (efecto reflejo).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q006",
+    "category_id": "application_of_massage",
+    "question": "En las tecnicas de inhibicion activa el cliente inhibe o relaja el musculo. Cual de las siguientes tecnicas utiliza la contraccion muscular maxima isometrica para facilitar la relajacion muscular antes del estiramiento?",
+    "options": [
+      "Contraccion agonista.",
+      "Contraer - relajar.",
+      "Sostener - relajar.",
+      "Relajacion post isometrica."
+    ],
+    "correct": 2,
+    "feedback": "Sostener‑relajar emplea contracción isométrica máxima previa para facilitar la elongación.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q007",
+    "category_id": "application_of_massage",
+    "question": "Cual de las siguientes opciones es un efecto mecanico del Effleurage profundo?",
+    "options": [
+      "Aumenta la eliminacion de desechos y toxinas.",
+      "Aumenta el metabolismo de la piel.",
+      "Libera endorfinas.",
+      "Aumenta la circulacion circundante."
+    ],
+    "correct": 0,
+    "feedback": "Efecto mecánico del effleurage profundo: facilita el retorno venoso/linfático y eliminación de desechos.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q008",
+    "category_id": "application_of_massage",
+    "question": "Cuando se presenta un incremento en la eliminacion de desechos de la linfa es un efecto mecanico de la siguiente terapia terapeutica:",
+    "options": [
+      "Effleurage profundo.",
+      "Vibracion sutil.",
+      "Effleurage ligero.",
+      "Friccion de presion directa."
+    ],
+    "correct": 0,
+    "feedback": "Mayor vaciamiento linfático es efecto mecánico del effleurage profundo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q009",
+    "category_id": "application_of_massage",
+    "question": "Cuando se trabaja con la termoterapia y se genera la analgesia significa:",
+    "options": [
+      "Ausencia del dolor.",
+      "Aumento en la formacion de la orina.",
+      "Mareo.",
+      "Sudoraciones profusas."
+    ],
+    "correct": 0,
+    "feedback": "Analgesia = ausencia de dolor.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q010",
+    "category_id": "application_of_massage",
+    "question": "El cliente dice que sufre de dolor de muelas y vera al dentista hasta la semana entrante, pero hoy por hoy nada le quita el dolor. Cual modalidad ayuda a sentir alivio mientras llega la cita con el dentista?",
+    "options": [
+      "Acupresion.",
+      "Patrones Aston.",
+      "Tecnica Alexander.",
+      "Estiramiento Aislado Activo."
+    ],
+    "correct": 0,
+    "feedback": "La acupresión puede modular el dolor dental temporalmente por vías reflejas.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q011",
+    "category_id": "application_of_massage",
+    "question": "Despues de aplicar compresiones isquemicas lentas en los puntos de dolor del cliente para aliviarle el dolor de cabeza tensional, usted debe hacer lo siguiente para que el tratamiento sea aun mas beneficioso:",
+    "options": [
+      "Caliente la zona tratada.",
+      "Aplique estiramiento pasivo lento.",
+      "Haga que su cliente realice rango de movimiento activo libre.",
+      "Todas las respuestas son correctas."
+    ],
+    "correct": 3,
+    "feedback": "Tras compresión isquémica: calor suave, estiramiento y ROM activo potencian el alivio.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q012",
+    "category_id": "application_of_massage",
+    "question": "Antes de dar inicio al tratamiento y como recomendacion de un programa de cuidado personal preguntar al cliente, en la previa entrevista, sobre todos los aspectos de su condicion actual y los resultados que espera. En las primeras etapas de una lesion muscular, cual de los siguientes ejercicios terapeuticos son apropiados?",
+    "options": [
+      "Movilizacion articular pasiva.",
+      "Rango de movimiento pasivo relajado.",
+      "Estiramiento pasivo y activo.",
+      "Isotonico activo con resistencia."
+    ],
+    "correct": 1,
+    "feedback": "En fase inicial conviene ROM pasivo relajado; evitar fuerza/resistencia.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q013",
+    "category_id": "application_of_massage",
+    "question": "Al aplicarse la tecnica de estimulacion cutanea se obtiene, entre otros efectos:",
+    "options": [
+      "Un decremento en la circulacion venosa y superficial.",
+      "Un incremento en la circulacion superficial.",
+      "Un aumento notorio en la tension muscular.",
+      "La disminucion de la descarga del sistema nervioso central."
+    ],
+    "correct": 1,
+    "feedback": "La estimulación cutánea aumenta la perfusión superficial.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q014",
+    "category_id": "application_of_massage",
+    "question": "La reduccion de ________________ es muy benevolo para el tejido conectivo:",
+    "options": [
+      "Adhesiones o restricciones en la fascia",
+      "Puntos reflejos en los pies y manos",
+      "El rodamiento a traves de aducciones",
+      "Ninguna respuesta es correcta"
+    ],
+    "correct": 0,
+    "feedback": "Reducir adherencias/fascia mejora movilidad del tejido conectivo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q015",
+    "category_id": "application_of_massage",
+    "question": "Un __________ se define como un punto doloroso en un tejido blando que presenta continuamente un patron de dolor referido.",
+    "options": [
+      "Espasmo",
+      "Esguince",
+      "Subluxacion",
+      "Punto gatillo"
+    ],
+    "correct": 3,
+    "feedback": "Punto gatillo: nódulo hiperirritable con patrón de dolor referido característico.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q016",
+    "category_id": "application_of_massage",
+    "question": "El masaje vibratorio intenso, asi como en el tapotement, tambien tiene casos en donde esta contraindicado aplicarlo, estos son los casos:",
+    "options": [
+      "Cuando existe presion arterial alta, enfermedades del corazon y lesiones agudas.",
+      "En casos de artritis reumatoide, osteoartritis y neuritis.",
+      "En musculos con paralisis espastica, paralisis flacida y atrofia.",
+      "En edema severamente picado, hiperestesia y lesion distal a la inflamacion o infeccion."
+    ],
+    "correct": 0,
+    "feedback": "Percusión/vibración intensa se evita en HTA, cardiopatías y lesiones agudas.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q017",
+    "category_id": "application_of_massage",
+    "question": "La hiperemia es un efecto reflejo de esta tecnica terapeutica:",
+    "options": [
+      "Golpeteo.",
+      "de Vibraciones.",
+      "Effleurage ligero.",
+      "Skin rolling."
+    ],
+    "correct": 0,
+    "feedback": "El golpeteo incrementa la circulación local (hiperemia) como efecto reflejo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q018",
+    "category_id": "application_of_massage",
+    "question": "Cual estructura en la region poplitea es una zona de riesgo?",
+    "options": [
+      "La arteria carotida comun",
+      "Nervio femoral",
+      "Nervio ciatico",
+      "Vena yugular"
+    ],
+    "correct": 2,
+    "feedback": "La fosa poplítea contiene estructuras neurovasculares; es zona de riesgo (n. tibial/ciático proximal).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q019",
+    "category_id": "application_of_massage",
+    "question": "Si el terapeuta se corta en un dedo, tiene una leve herida abierta o un padrastro debe ponerse  ___________ para dar el masaje.",
+    "options": [
+      "Un guante reciclable.",
+      "Un curita.",
+      "Un dedal.",
+      "Una tira de gasa enrollada."
+    ],
+    "correct": 2,
+    "feedback": "Un dedal/finger cot cubre una herida pequeña en el dedo y permite trabajar con higiene.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q020",
+    "category_id": "application_of_massage",
+    "question": "Los dedos (2 al 5) se componen de doce huesos de las falanges y doce articulaciones, unidos unicamente por ligamentos, tendones y tienen musculos diminutos, cual es su mejor funcion?",
+    "options": [
+      "Tecnicas repetitivas de carga con resistencia.",
+      "Para la palpacion.",
+      "Para darle al cliente a inhalar aromaterapia antes de iniciar la sesion.",
+      "B y C"
+    ],
+    "correct": 1,
+    "feedback": "Los dedos largos son ideales para palpación fina; no se cargan con resistencia.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q021",
+    "category_id": "application_of_massage",
+    "question": "La termoterapia con aplicaciones de vapor en los tejidos superficiales genera este efecto:",
+    "options": [
+      "Estimulante debido al vapor.",
+      "Espasmodico porque los musculos se estiran.",
+      "Reductor debido a que el tejido adiposo se congela.",
+      "Analgesico debido que los musculos se relajan."
+    ],
+    "correct": 3,
+    "feedback": "El calor húmedo relaja musculatura y alivia el dolor (efecto analgésico).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q022",
+    "category_id": "application_of_massage",
+    "question": "Cual es el mejor tratamiento de cuidados personales que puede dar al cliente que padece de periostitis tibial y sindrome compartimental?",
+    "options": [
+      "El descanso de toda actividad, hidroterapia fria 3 a 4 veces al dia.",
+      "Regresar de inmediato a las actividades cotidianas.",
+      "Hacer ejercicios con pesas para fortalecer los musculos de la pantorrilla.",
+      "Volver a sus actividades gradualmente sin esfuerzos de peso. Natacion o bicicletay frio local."
+    ],
+    "correct": 0,
+    "feedback": "En periostitis/síndrome compartimental agudo: reposo y frío local repetido.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q023",
+    "category_id": "application_of_massage",
+    "question": "Las _____________ ayudan a disminuir el dolor inicial y reducen la inflamacion en casos de bursitis.",
+    "options": [
+      "Compresas calientes.",
+      "Piedras redondas calientes.",
+      "fricciones profundas.",
+      "compresas frias."
+    ],
+    "correct": 3,
+    "feedback": "En bursitis aguda el frío reduce dolor e inflamación.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q024",
+    "category_id": "application_of_massage",
+    "question": "Cuales son dos motivos por los que un cliente dice que le duele al recibir el masaje?",
+    "options": [
+      "La tecnica debe ser corregida o el cliente siempre exagera.",
+      "La tecnica debe ser corregida o el cliente esta hipersensible.",
+      "La tecnica debe ser corregida o el cliente tiene prisa.",
+      "El cliente esta hipersensible y el cliente es una persona muy complicada."
+    ],
+    "correct": 1,
+    "feedback": "Puede doler por técnica inadecuada o hipersensibilidad del cliente.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q025",
+    "category_id": "application_of_massage",
+    "question": "Una compresion ____________ es presion estatica con las yemas de los dedos pulgares o con el codo del terapeuta en un punto gatillo en alguna parte del cuerpo del cliente.",
+    "options": [
+      "Inervada.",
+      "Valvular.",
+      "Intrinseca.",
+      "Isquemica."
+    ],
+    "correct": 3,
+    "feedback": "Compresión isquémica: presión estática sostenida en puntos gatillo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q026",
+    "category_id": "application_of_massage",
+    "question": "El effleurage se aplica comunmente con roces deslizantes prolongados y la direccion es ________ por lo tanto, se aplica sin presion y sosteniendo el contacto del roce ligero con las manos.",
+    "options": [
+      "Centrifuga.",
+      "Linear.",
+      "Centripeta.",
+      "Fibra transversa."
+    ],
+    "correct": 2,
+    "feedback": "Effleurage clásico se dirige de distal a proximal (centrípeto) hacia el corazón.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q027",
+    "category_id": "application_of_massage",
+    "question": "Que comportamiento se puede esperar de un cliente que ha informado al terapeuta que fue victima de abuso sexual cuando era menor de edad?",
+    "options": [
+      "Comportamiento sexual inapropiado",
+      "Incapaz de disfrutar un masaje relajante",
+      "Risa inapropiada",
+      "A y C"
+    ],
+    "correct": 3,
+    "feedback": "Ante historia de abuso pueden aparecer conductas sexuales inapropiadas o risa nerviosa.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q028",
+    "category_id": "application_of_massage",
+    "question": "El aumento de la presion arterial es un efecto reflejo que genera esta tecnica terapeutica:",
+    "options": [
+      "Effleurage.",
+      "Masaje sueco (clasico).",
+      "Vibracion.",
+      "Pettrisage."
+    ],
+    "correct": 2,
+    "feedback": "La vibración puede aumentar la PA por estimulación simpática.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q029",
+    "category_id": "application_of_massage",
+    "question": "El cliente se queja de dolor y no puede mover la espalda baja de modo normal. Hace 24 meses al caerse de unas escaleras se fracturo y hubo aplastamiento de la vertebra L4. El terapeuta anterior le aplico exitosamente la liberacion miofascial para aliviarle el dolor e incrementar su movilidad, el cliente desea continuar con ese mismo tratamientos, por ahora ya puede correr 5 millas 3 veces por semana y quiere volver a correr de 10 a 15 millas de 4 a 5 veces por semana. De las siguientes tecnicas disponibles cual es un ejemplo de liberacion miofascial que podria ayudarle al cliente?",
+    "options": [
+      "Tecnica Alexander.",
+      "Estiramiento Aislado Activo.",
+      "Acupresion.",
+      "Patrones Aston."
+    ],
+    "correct": 3,
+    "feedback": "Patrones Aston integra liberación miofascial dentro de su abordaje postural.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q030",
+    "category_id": "application_of_massage",
+    "question": "Con el cliente en decubito prono (boca abajo) cual es la mejor manera de localizar el musculo elevador de la escapula?",
+    "options": [
+      "Encontrar el angulo inferior de la escapula en la zona anterior del trapecio.",
+      "Encontrar el angulo superior de la escapula en la zona anterior del trapecio.",
+      "Encontrar el angulo superior de la escapula en la zona posterior del trapecio.",
+      "Seguir las fibras superficiales del trapecio hacia el origen de el elevador de la escapula y el trapecio."
+    ],
+    "correct": 2,
+    "feedback": "El vientre del elevador se ubica desde el ángulo superomedial por debajo del trapecio.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q031",
+    "category_id": "application_of_massage",
+    "question": "Cuando se utilice una silla para aplicar terapia manual el terapeuta debe:",
+    "options": [
+      "Alinear el cuerpo y tener buen equilibrio.",
+      "Platicar con el cliente durante toda la sesion de las bondades de la terapia en silla.",
+      "Cruzar las piernas ya que es muy habil.",
+      "Usar la silla profesional con ruedas."
+    ],
+    "correct": 0,
+    "feedback": "En silla se mantiene alineación y equilibrio; evitar cruzar piernas o ruedas.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q032",
+    "category_id": "application_of_massage",
+    "question": "Si tuviera que seguir la doceava costilla hacia la espina, con cual vertebra se une?",
+    "options": [
+      "L-12.",
+      "L-5.",
+      "T-12.",
+      "T-5."
+    ],
+    "correct": 2,
+    "feedback": "La 12.ª costilla articula con T12.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q033",
+    "category_id": "application_of_massage",
+    "question": "Cuales arterias importantes pasan en lo profundo e intermedio del musculo esternocleidomastoideo y son proveedoras principales de sangre para la cabeza y el cuello?",
+    "options": [
+      "Vena aorta",
+      "Arteria carotida",
+      "Arteria axilar",
+      "Venas axilar"
+    ],
+    "correct": 1,
+    "feedback": "Las carótidas comunes ascienden profundas al ECM y abastecen cabeza/cuello.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q034",
+    "category_id": "application_of_massage",
+    "question": "Estos son los cuatro componentes del contacto correcto con la piel del cliente que son considerados prudentes y objetivos en el masaje terapeutico profesional:",
+    "options": [
+      "Comunicacion, respeto, permiso y habilidad.",
+      "Frotamiento especifico, patologias, discrecion y ubicacion.",
+      "Mecanica, movimiento, intencion y descubrimiento.",
+      "Torceduras, comprension, acecho y habilidad."
+    ],
+    "correct": 0,
+    "feedback": "Contacto profesional prudente: comunicación, respeto, permiso y habilidad.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q035",
+    "category_id": "application_of_massage",
+    "question": "El aflojar la mucosidad en la cavidad toracica es un efecto mecanico de este tratamiento terapeutico:",
+    "options": [
+      "Vibracion sutil.",
+      "Tapotement.",
+      "Effleurage superficial.",
+      "Effleurage ligero."
+    ],
+    "correct": 1,
+    "feedback": "El tapotement moviliza secreciones bronquiales por percusión rítmica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q036",
+    "category_id": "application_of_massage",
+    "question": "El cliente es atleta y practica el jogging y se queja de un espasmo en la pantorrilla. El terapeuta le hace trabajo de estiramiento suave a este musculo:",
+    "options": [
+      "Cuadriceps.",
+      "Principal de la corva.",
+      "Gluteo mayor.",
+      "Tensor de la fascia lata."
+    ],
+    "correct": 1,
+    "feedback": "Para espasmo en pantorrilla se estira el grupo posterior (‘corva’ enunciado).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q037",
+    "category_id": "application_of_massage",
+    "question": "El incremento en el rango de movimiento y la flexibilidad en el cuerpo es un efecto mecanico que genera este tratamiento terapeutico:",
+    "options": [
+      "Golpeteo.",
+      "Effleurage.",
+      "Vibracion sutil.",
+      "Masaje sueco."
+    ],
+    "correct": 3,
+    "feedback": "El masaje sueco completo mejora ROM y flexibilidad (efecto mecánico).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q038",
+    "category_id": "application_of_massage",
+    "question": "De las siguientes opciones cuales son claras evidencis de que la persona tiene dificultades para respirar normal?",
+    "options": [
+      "Presenta notorios cambios de color en la piel.",
+      "La respiracion es corta poco profunda y esporadica.",
+      "Se le nota el dolor y su respiracion es ruidosa.",
+      "Todas las respuestas son correctas."
+    ],
+    "correct": 3,
+    "feedback": "Cianosis/cambios de color, respiración corta/ruidosa: todas indican dificultad respiratoria.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q039",
+    "category_id": "application_of_massage",
+    "question": "La estimulacion y la relajacion de los musculos es un efecto reflejo de esta tecnica:",
+    "options": [
+      "Vibracion.",
+      "Petrissage.",
+      "Friccion linear o circular.",
+      "Golpeteo."
+    ],
+    "correct": 0,
+    "feedback": "La vibración alterna excitación/relajación muscular como efecto reflejo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q040",
+    "category_id": "application_of_massage",
+    "question": "El incremento en la eliminacion de desechos es un efecto mecanico de la siguiente tecnica de tratamiento:",
+    "options": [
+      "Vibracion sutil.",
+      "Golpeteo.",
+      "Effleurage ligero.",
+      "Petrissage."
+    ],
+    "correct": 3,
+    "feedback": "El petrissage exprime/‘ordeña’ tejidos: favorece eliminación de desechos (mecánico).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q041",
+    "category_id": "application_of_massage",
+    "question": "La palpacion se realiza siempre _________ iniciando con la region del cuerpo en donde el tejido esta normal.",
+    "options": [
+      "Uniliateralmente.",
+      "Ipsilateralmente.",
+      "Bilateralmente.",
+      "Medialmente."
+    ],
+    "correct": 2,
+    "feedback": "Se compara bilateralmente iniciando por el lado asintomático/normal.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q042",
+    "category_id": "application_of_massage",
+    "question": "De los siguientes ejemplos, cual es un efecto reflejo del effleurage profundo?",
+    "options": [
+      "Estiramiento de las venas y vasos linfaticos.",
+      "Disminuye la respuesta del sistema nervioso simpatico.",
+      "Mueve nutrientes a traves de los vasos.",
+      "Aumenta la eliminacion de residuos."
+    ],
+    "correct": 1,
+    "feedback": "El effleurage profundo reduce la actividad simpática (reflejo).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q043",
+    "category_id": "application_of_massage",
+    "question": "Cuando se trabaja con la termoterapia y se genera la analgesia significa:",
+    "options": [
+      "Ausencia del dolor.",
+      "Aumento en la formacion de la orina.",
+      "Mareo.",
+      "Sudoraciones profusas."
+    ],
+    "correct": 0,
+    "feedback": "Analgesia = ausencia de dolor.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q044",
+    "category_id": "application_of_massage",
+    "question": "Cual es la mejor postura para palpar el vientre muscular del musculo supraespinoso?",
+    "options": [
+      "Supina.",
+      "Prona.",
+      "Sentado.",
+      "Decubito lateral."
+    ],
+    "correct": 1,
+    "feedback": "En prono se palpa fácil la fosa supraespinosa y su vientre muscular.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q045",
+    "category_id": "application_of_massage",
+    "question": "La _________ y la __________ son los indicadores del umbral del dolor y el limite de temperaturas aplicadas con fines terapeuticos.",
+    "options": [
+      "cordura - fortaleza.",
+      "subjetividad - intolerancia.",
+      "sensibilidad - tolerancia.",
+      "sensatez - antipatia."
+    ],
+    "correct": 2,
+    "feedback": "Umbral térmico: sensibilidad y tolerancia del cliente.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q046",
+    "category_id": "application_of_massage",
+    "question": "Este es el medio principal  para detener la propagacion de bacterias e infecciones:",
+    "options": [
+      "Usar desinfectante de manos",
+      "Usar ropa impecable",
+      "Lavarse las manos de modo correcto",
+      "Ducharse diariamente"
+    ],
+    "correct": 2,
+    "feedback": "Lavado correcto de manos es la barrera principal contra infecciones.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q047",
+    "category_id": "application_of_massage",
+    "question": "Para disminuir la presion en los musculos del hombro cuando se hace valoracion de la fuerza de los musculos esternocleidomastoideo, los escalenos anteriores, suprahioideo, los infrahioideo, el longus capitis, el longus colli y del rectus capitis anterior:",
+    "options": [
+      "El cliente debe estar en posicion supina.",
+      "El cliente debe estar en postura prona.",
+      "El cliente debe estar en postura de decubito lateral.",
+      "Mantener al cliente sentado o de pie."
+    ],
+    "correct": 0,
+    "feedback": "Probar flexores cervicales anteriores y suprahioideos con el paciente en supino descarga hombros.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q048",
+    "category_id": "application_of_massage",
+    "question": "De los siguientes efectos, cual es una efecto reflejo del masaje sueco clasico?",
+    "options": [
+      "Disminucion de adherencias.",
+      "Tiene efectos en la propiocepcion.",
+      "Incremento de la eliminacion de desechos.",
+      "Aumento de la circulacion y se nutren a las articulaciones."
+    ],
+    "correct": 1,
+    "feedback": "El sueco clásico mejora la propiocepción (efecto reflejo).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q049",
+    "category_id": "application_of_massage",
+    "question": "En la secuencia de sobrevivencia al Corazon, la resucitacion cardiopulmonar (RCP) INMEDIATA es importante porque:",
+    "options": [
+      "Ayuda a que circule sangre oxigenada a los organos vitales.",
+      "Impide un rotundo ataque al corazon.",
+      "Ayuda a que el corazon vuelva a latir.",
+      "Reemplaza al desfibrilador."
+    ],
+    "correct": 0,
+    "feedback": "RCP inmediata mantiene perfusión de órganos vitales.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q050",
+    "category_id": "application_of_massage",
+    "question": "Cual opcion es un efecto reflejo del Tapotement?",
+    "options": [
+      "Disminucion de adherencias en la fascia.",
+      "Se afloja la mucosidad en la cavidad toracica.",
+      "La isquemia momentanea.",
+      "Estimulacion del sistema nervioso provocando un efecto adormecedor si se aplica mas de 3 minutos."
+    ],
+    "correct": 3,
+    "feedback": "Percusión prolongada puede producir efecto adormecedor; es un efecto reflejo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q051",
+    "category_id": "application_of_massage",
+    "question": "La liberacion de endorfinas es un efecto automatico de la siguiente tecnica de tratamiento:",
+    "options": [
+      "La vibracion sutil.",
+      "Effleurage profundo.",
+      "Effleurage.",
+      "Petrissage."
+    ],
+    "correct": 1,
+    "feedback": "El effleurage profundo se asocia con liberación de endorfinas.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q052",
+    "category_id": "application_of_massage",
+    "question": "La isquemia momentanea (transitoria) es un efecto mecanico de este tratamiento terapeutico:",
+    "options": [
+      "Friccion linear o circular.",
+      "Effleurage ligero.",
+      "Aromaterapia.",
+      "Reiki."
+    ],
+    "correct": 0,
+    "feedback": "La fricción profunda genera isquemia transitoria local (mecánico).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q053",
+    "category_id": "application_of_massage",
+    "question": "Un masaje deportivo normal pre evento dura normalmente:",
+    "options": [
+      "de 30 a 45 min.",
+      "de 10 a 15 min.",
+      "de 15 a 25 min.",
+      "1 hora"
+    ],
+    "correct": 1,
+    "feedback": "Pre‑evento: 10–15 minutos, breve y estimulante.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q054",
+    "category_id": "application_of_massage",
+    "question": "Las dos respuestas que se producen como resultado de un masaje son:",
+    "options": [
+      "Respuesta psicologica y respuesta emotiva.",
+      "Respuesta mecanica y respuesta esperada.",
+      "Respuesta mecanica y respuesta refleja.",
+      "Respuesta inesperada y respuesta refleja."
+    ],
+    "correct": 2,
+    "feedback": "Toda sesión produce respuesta mecánica y refleja.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q055",
+    "category_id": "application_of_massage",
+    "question": "La disminucion de la defensa muscular y su tonicidad es un efecto reflejo de este tratamiento terapeutico:",
+    "options": [
+      "Effleurage superficial.",
+      "Effleurage ligero.",
+      "Golpeteo.",
+      "Gimnasia Sueca."
+    ],
+    "correct": 1,
+    "feedback": "Effleurage ligero disminuye defensa/tono muscular (reflejo).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q056",
+    "category_id": "application_of_massage",
+    "question": "De las cuatro tecnicas de inhibicion activa cuales son las dos que aplican contracciones isometricas?",
+    "options": [
+      "Estirar - relajar y relajacion post isometrica.",
+      "Sostener - relajar y relajacion post isometrica.",
+      "Contraccion agonista y contraer - relajar.",
+      "Sostener - relajar y contraer - apretar."
+    ],
+    "correct": 1,
+    "feedback": "Sostener‑relajar y post‑isométrica usan contracciones isométricas.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q057",
+    "category_id": "application_of_massage",
+    "question": "El _______  es la manipulacion terapeutica de tejidos blandos, de las capas superficiales y profundas aplicando diversas tecnicas especializadas.",
+    "options": [
+      "Tratamiento alopata",
+      "Masaje",
+      "Anatripsis",
+      "Reiki"
+    ],
+    "correct": 1,
+    "feedback": "Masaje = manipulación terapéutica de tejidos blandos.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q058",
+    "category_id": "application_of_massage",
+    "question": "Este es un efecto reflejo de la Tecnica de Vibraciones:",
+    "options": [
+      "Se afloja la mucosidad en la cavidad toracica.",
+      "Disminucion de adherencias fasciales.",
+      "La isquemia momentanea.",
+      "Estimulacion de los organos abdominales."
+    ],
+    "correct": 3,
+    "feedback": "Vibraciones pueden estimular órganos abdominales por reflejos viscerosomáticos.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q059",
+    "category_id": "application_of_massage",
+    "question": "El aumento de la circulacion y la nutricion a las articulaciones es un efecto mecanico que genera esta tecnica de masaje:",
+    "options": [
+      "Masaje sueco.",
+      "de Vibraciones.",
+      "Effleurage.",
+      "Golpeteo."
+    ],
+    "correct": 0,
+    "feedback": "El sueco global mejora irrigación y nutrición articular (mecánico).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q060",
+    "category_id": "application_of_massage",
+    "question": "Cual opcion es un efecto reflejo que genera el Petrissage?",
+    "options": [
+      "Aumenta la presion arterial (en el abdomen).",
+      "Estiramiento de las venas y vasos linfaticos.",
+      "Aumenta el flujo venoso.",
+      "Aumenta la eliminacion de residuos."
+    ],
+    "correct": 3,
+    "feedback": "Con el amasamiento se favorece la eliminación de residuos (respuesta global refleja).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q061",
+    "category_id": "application_of_massage",
+    "question": "Que siglas se usan para detectar los signos de una inflamacion?",
+    "options": [
+      "SHARP",
+      "SOAP",
+      "RICE",
+      "SITS"
+    ],
+    "correct": 0,
+    "feedback": "SHARP: Swelling, Heat, Altered function, Redness, Pain.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q062",
+    "category_id": "application_of_massage",
+    "question": "Los dedos (2 al 5) se componen de doce huesos de las falanges y doce articulaciones, unidos unicamente por ligamentos, tendones y tienen musculos diminutos, cual es su mejor funcion?",
+    "options": [
+      "Tecnicas repetitivas de carga con resistencia.",
+      "Para la palpacion.",
+      "Para darle al cliente a inhalar aromaterapia antes de iniciar la sesion.",
+      "B y C"
+    ],
+    "correct": 1,
+    "feedback": "La función más segura/útil es la palpación; no someterlos a cargas repetitivas.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q063",
+    "category_id": "application_of_massage",
+    "question": "Cuando se presenta un incremento en la eliminacion de desechos de la linfa es un efecto mecanico de la siguiente terapia terapeutica:",
+    "options": [
+      "Effleurage profundo.",
+      "Vibracion sutil.",
+      "Effleurage ligero.",
+      "Friccion de presion directa."
+    ],
+    "correct": 0,
+    "feedback": "El effleurage profundo aumenta el drenaje linfático.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q064",
+    "category_id": "application_of_massage",
+    "question": "El masaje de drenaje linfatico, entre otros tantos beneficios, sirve para reabsorber liquidos y:",
+    "options": [
+      "La descarga del sistema nervioso simpatico.",
+      "Aumentar las compresiones isquemicas.",
+      "Principalmente lograr estimular el sistema nervioso central.",
+      "Incrementar la circulacion del torrente sanguineo."
+    ],
+    "correct": 0,
+    "feedback": "El drenaje linfático reduce la carga simpática además de reabsorber líquidos.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q065",
+    "category_id": "application_of_massage",
+    "question": "Los clientes que estan tomando los siguientes medicamentos requeriran que su tratamiento de masaje sea modificado:",
+    "options": [
+      "Relajante muscular.",
+      "Antiinflamatorios.",
+      "Anti asmaticos.",
+      "Todas las respuestas son correctas."
+    ],
+    "correct": 3,
+    "feedback": "Relajantes, antiinflamatorios y antiasmáticos requieren adaptar presión/tiempos.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q066",
+    "category_id": "application_of_massage",
+    "question": "Este es un efecto fisiologico mecanico del Tapotement:",
+    "options": [
+      "Hiperemia.",
+      "Isquemia momentanea.",
+      "Estimulacion del sistema nervioso provocando adormecimiento.",
+      "Aumento del tono muscular."
+    ],
+    "correct": 0,
+    "feedback": "Tapotement produce hiperemia como efecto mecánico.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q067",
+    "category_id": "application_of_massage",
+    "question": "Entre otros propositos, el effleurage se aplica para:",
+    "options": [
+      "Eliminar de inmediato el desecho metabolico del tejido",
+      "Rodar a traves de las adhesiones tisulares",
+      "Distribuir lubricantes y preparar los musculos para tecnicas mas profundas",
+      "Estimular los nervios receptores con la presion profunda"
+    ],
+    "correct": 2,
+    "feedback": "El effleurage distribuye lubricante y prepara para técnicas profundas.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q068",
+    "category_id": "application_of_massage",
+    "question": "El cliente padece de rango de movimiento en el hombro, para evaluar la estabilidad de los musculos del manguito rotador, colocar el cliente sentado y que  ________ el brazo a 90 grados y sostenerle esta posicion.",
+    "options": [
+      "Extienda.",
+      "Flexione.",
+      "ADuzca.",
+      "ABduzca."
+    ],
+    "correct": 3,
+    "feedback": "Para estabilidad del manguito: que el cliente abduzca a 90° y sostenga.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q069",
+    "category_id": "application_of_massage",
+    "question": "El masaje  ___________ rompe fibrosis y ayuda a que los tejidos por alguna lesion se adhieran a tejido nuevo.",
+    "options": [
+      "Transverso profundo",
+      "Effleurage",
+      "Vibracion",
+      "Roce ligero"
+    ],
+    "correct": 0,
+    "feedback": "La fricción transversa profunda rompe fibrosis y reorganiza fibras.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q070",
+    "category_id": "application_of_massage",
+    "question": "Los factores que influyen en la movilidad de la persona son anatomicos, biomecanicos, bioquimicos, neurofisiologicos. Los siguientes son factores anatomicos y biomecanicos:",
+    "options": [
+      "Tipo de articulacion, propiocepcion, tipo de piel, flexibilidad y estructura osea.",
+      "Tipo de articulacion, espasticidad muscular, organo tendioso de Golgi, flexibilidad y tipo de sangre.",
+      "Tipo de tejido, organos internos, sentido de equilibrio, elasticidad y tipo de sangre.",
+      "Tipo de articulacion, las estructuras que dan soporte, sentido de equilibrio, flexibilidad y fuerza muscular."
+    ],
+    "correct": 3,
+    "feedback": "Movilidad depende de tipo articular, soportes, equilibrio, flexibilidad y fuerza.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q071",
+    "category_id": "application_of_massage",
+    "question": "Que musculos se trabajan para ayudar a sanar el trastorno del sindrome compartimental?",
+    "options": [
+      "Gastrocnemio y soleo.",
+      "Peroneo largo y corto.",
+      "Tibialis anterior, extensor digitorum y extensor hallucis longus.",
+      "Tibialis posterior, flexor digitorum longus y flexor hallucis longus."
+    ],
+    "correct": 2,
+    "feedback": "Síndrome compartimental (anterior): TA, EDL, EHL.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q072",
+    "category_id": "application_of_massage",
+    "question": "El incremento en el rango de movimiento y la flexibilidad en el cuerpo es un efecto mecanico que genera este tratamiento terapeutico:",
+    "options": [
+      "Golpeteo.",
+      "Effleurage.",
+      "Vibracion sutil.",
+      "Masaje sueco."
+    ],
+    "correct": 3,
+    "feedback": "Masaje sueco favorece ROM y flexibilidad.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q073",
+    "category_id": "application_of_massage",
+    "question": "Estos son dos grandes beneficios de la hidroterapia con agua caliente:",
+    "options": [
+      "Activa al sistema nervioso simpatico y genera recuerdos.",
+      "Incrementa notablemente las reaccione del SN simpatico.",
+      "Relaja los musculos y aumenta la circulacion sanguinea.",
+      "Disminuye la circulacion sanguinea y genera hipertonia muscular."
+    ],
+    "correct": 2,
+    "feedback": "Agua caliente: relaja músculos y aumenta circulación.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q074",
+    "category_id": "application_of_massage",
+    "question": "El metodo ____________ es un tratamiento que promueve el uso mas eficiente de los musculos con un gasto menor de energia, se hace levantando la cabeza y el pecho y estirando el tronco del cuerpo.",
+    "options": [
+      "Lomi lomi.",
+      "Rolfing.",
+      "Tragger.",
+      "Holistico."
+    ],
+    "correct": 2,
+    "feedback": "Tragger busca eficiencia neuromuscular con menor gasto; postura erguida/relajada.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q075",
+    "category_id": "application_of_massage",
+    "question": "El cliente tiene problemas de amplitud de movimiento del hombro. La prueba llamada caida del brazo resulta positiva y la prueba de la lata vacia para el supraespinoso resulta negativa. Para evaluar la fuerza del musculo infraespinoso el cliente debe estar sentado o en decubito prono abduciendo el humero a 90 grados y el codo flexionado a 90 grados. Ahora aplique resistencia activa a la  _____________ del cliente.",
+    "options": [
+      "Rotacion interna.",
+      "Rotacion externa.",
+      "ABduccion.",
+      "ADuccion."
+    ],
+    "correct": 1,
+    "feedback": "Infraespinoso: se prueba con resistencia a la rotación externa.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q076",
+    "category_id": "application_of_massage",
+    "question": "Al aplicarse la tecnica de estimulacion cutanea se obtiene, entre otros efectos:",
+    "options": [
+      "Un decremento en la circulacion venosa y superficial.",
+      "Un incremento en la circulacion superficial.",
+      "Un aumento notorio en la tension muscular.",
+      "La disminucion de la descarga del sistema nervioso central."
+    ],
+    "correct": 1,
+    "feedback": "La estimulación cutánea aumenta la perfusión superficial.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q077",
+    "category_id": "application_of_massage",
+    "question": "Cual es el hueso relevante mas cercano al punto de dolor de una persona que padece del trastorno codo de tenista y que terapia aplicarias?",
+    "options": [
+      "Apofisis olecranon - Skin rolling y aromaterapia.",
+      "Epicondilo medial - Linfatico a los extensores del antebrazo y despues calor.",
+      "Epicondilo lateral - Friccion a los extensores del antebrazo y despues hielo.",
+      "Epicondilo radial - Friccion a los extensores del antebrazo."
+    ],
+    "correct": 2,
+    "feedback": "Codo de tenista: epicóndilo lateral; fricción a extensores + hielo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q078",
+    "category_id": "application_of_massage",
+    "question": "Un ejercicio de resistencia es cualquier forma de ejercicio activo en donde el cliente esta:",
+    "options": [
+      "Moviendose pasivamente a traves de todo el rango de movimiento.",
+      "Moviendose activamente a traves de todo el rango de movimiento.",
+      "Efectuando una contraccion muscular en donde le resiste alguna fuerza externa.",
+      "Efectuando una contraccion muscular que se mueve libremente sin dolor o fuerzas externas."
+    ],
+    "correct": 2,
+    "feedback": "Ejercicio contra resistencia = contracción frente a fuerza externa.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q079",
+    "category_id": "application_of_massage",
+    "question": "Para traer al ligamento coracoacromial hacia la superficie, que mecanismo hace que la cabeza del humero ruede en hacia adelante presionando el ligamento al frente?",
+    "options": [
+      "Flexion.",
+      "ADuccion.",
+      "Extension.",
+      "ABduccion."
+    ],
+    "correct": 0,
+    "feedback": "La flexión hace rodar la cabeza humeral anteriormente bajo el arco coracoacromial.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q080",
+    "category_id": "application_of_massage",
+    "question": "Cual es la mejor posicion para dar inicio al masaje a un cliente que tiene dolor agudo porque padece de hombro congelado?",
+    "options": [
+      "Supina.",
+      "Silla de masaje.",
+      "Decubito lateral con el hombro afectado sobre la mesa.",
+      "Prona con almohadas debajo del vientre y los pies."
+    ],
+    "correct": 1,
+    "feedback": "Dolor agudo en hombro congelado: iniciar en silla para control y confort.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q081",
+    "category_id": "application_of_massage",
+    "question": "Cual es el ritmo y la frecuencia de la RCP?",
+    "options": [
+      "30 compresiones y 2 ventilaciones.",
+      "15 compresiones y 2 ventilaciones.",
+      "30 compresiones y 4 ventilaciones.",
+      "15 compresiones y 4 ventilaciones."
+    ],
+    "correct": 0,
+    "feedback": "Ritmo RCP adulto: 30 compresiones / 2 ventilaciones.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q082",
+    "category_id": "application_of_massage",
+    "question": "Cuando se trabaja con la termoterapia y se genera la analgesia significa:",
+    "options": [
+      "Ausencia del dolor.",
+      "Aumento en la formacion de la orina.",
+      "Mareo.",
+      "Sudoraciones profusas."
+    ],
+    "correct": 0,
+    "feedback": "Analgesia = ausencia de dolor.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q083",
+    "category_id": "application_of_massage",
+    "question": "De los siguientes efectos, cual es una efecto reflejo del masaje sueco clasico?",
+    "options": [
+      "Disminucion de adherencias.",
+      "Tiene efectos en la propiocepcion.",
+      "Incremento de la eliminacion de desechos.",
+      "Aumento de la circulacion y se nutren a las articulaciones."
+    ],
+    "correct": 1,
+    "feedback": "Efecto reflejo del sueco: mejora la propiocepción.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q084",
+    "category_id": "application_of_massage",
+    "question": "El cliente presenta inflamaciones y le comenta que ha hecho muy poco ejercicio fisico, entonces el motivo de los edemas es el siguiente:",
+    "options": [
+      "Porque practica el jogging solamente 5 dias a la semana y descansa. dos dias",
+      "Porque la caminata de una hora diaria lo ha fatigado.",
+      "Porque pasa horas sentado frente al televisor y casi no camina.",
+      "Porque ha estado comiendo muchas frituras aunque ha estado practicando jogging y spinning diariamente."
+    ],
+    "correct": 2,
+    "feedback": "Inactividad prolongada favorece edema por estasis venosa.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q085",
+    "category_id": "application_of_massage",
+    "question": "El apretar y comprimir el musculo, jalar y levantar el musculo, dar movimiento de torcion, enroscar la piel y amasarla se refiere a las manipulaciones del:",
+    "options": [
+      "Aromaterapia.",
+      "Effleurage ligero.",
+      "Vibracion.",
+      "Petrissage superficial y profundo."
+    ],
+    "correct": 3,
+    "feedback": "Amasamiento: comprimir, levantar, torcer y amasar = petrissage.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q086",
+    "category_id": "application_of_massage",
+    "question": "Si el cliente presenta un calambre en el musculo gastrocnemio entonces cual es el musculo que le pide el terapeuta al cliente que contraccione?",
+    "options": [
+      "Cuadriceps",
+      "Gastrocnemio",
+      "Tibial anterior",
+      "Tibial posterior"
+    ],
+    "correct": 2,
+    "feedback": "Para calambre de gastrocnemio: contracción del antagonista (tibial anterior) por inhibición recíproca.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q087",
+    "category_id": "application_of_massage",
+    "question": "El estres presenta sintomas comunes, como lo es la tension muscular en la region de la columna y esto conduce a:",
+    "options": [
+      "La disfuncion de la articulacion temporomandibular (TMJ).",
+      "Los dolores de cabeza.",
+      "El dolor en la espalda baja.",
+      "Subir o bajar de peso."
+    ],
+    "correct": 2,
+    "feedback": "Estrés y tensión paravertebral se asocian a lumbalgia frecuente.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q088",
+    "category_id": "application_of_massage",
+    "question": "Cual es la postura apropiada del terapetua para dar el masaje?",
+    "options": [
+      "Los pies paralelos a la camilla con el peso del cuerpo en una de las piernas",
+      "Los pies paralelos a la camilla con el peso del cuerpo en el pie derecho",
+      "Con las rodillas y codos rigidos, los brazos estirados y moviendo el cuerpo al ritmo suave de la musica ambiental",
+      "Con el cuerpo alineado, las rodillas dobladas y moviendo el cuerpo a ritmo del masaje"
+    ],
+    "correct": 3,
+    "feedback": "Ergonomía: alineado, rodillas flexionadas, moverse con el cuerpo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q089",
+    "category_id": "application_of_massage",
+    "question": "El abdomen se puede separar en cuatro cuadrantes, cuales de los siguientes organos se encuentra en el cuadrante superior izquierdo?",
+    "options": [
+      "Ciego, apendice y ovario derecho/tubo.",
+      "Estomago, bazo, rinon izquierdo, pancreas y angulo esplenico.",
+      "Higado, la vesicula biliar, el duodeno, el pancreas, el rinon derecho y angulo hepatico.",
+      "Colon sigmoide y el ovario izquierdo/tubo."
+    ],
+    "correct": 1,
+    "feedback": "CUQ: estómago, bazo, riñón izq., páncreas, ángulo esplénico.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q090",
+    "category_id": "application_of_massage",
+    "question": "Cual es la mejor accion de resistencia para el cliente y para encontrarle el borde lateral del musculo dorsal ancho, cuando el cliente esta en postura de decubito prono (boca abajo) con el brazo a un lado de la camilla?",
+    "options": [
+      "Flexion.",
+      "ABduccion.",
+      "Giro medial.",
+      "Giro lateral."
+    ],
+    "correct": 2,
+    "feedback": "El dorsal ancho se palpa mejor resistiendo rotación medial/aducción/extensión.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q091",
+    "category_id": "application_of_massage",
+    "question": "En la reanimacion cardiopulmonar (RCP), cuales son las tres C?",
+    "options": [
+      "Care-Call-Check (Atender-Llamar-Revisar).",
+      "Call-Check-Care (Llamar-Revisar-Atender).",
+      "Check-Care-Call (Revisar-Atender-Llamar).",
+      "Check-Call-Care (Revisar-Llamar-Atender)."
+    ],
+    "correct": 3,
+    "feedback": "Cadena de supervivencia básica: Check‑Call‑Care (revisar‑llamar‑atender).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q092",
+    "category_id": "application_of_massage",
+    "question": "Al aplicar esta terapia se activan los meridianos en el cuerpo, esto es un efecto reflejo que genera esta tecnica:",
+    "options": [
+      "Vibracion sutil.",
+      "Vibracion aspera.",
+      "Effleurage ligero.",
+      "Friccion de presion directa."
+    ],
+    "correct": 3,
+    "feedback": "La fricción con presión directa (acupresión) activa meridianos según MTC.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q093",
+    "category_id": "application_of_massage",
+    "question": "Como puede la hidroterapia actuar como estimulante?",
+    "options": [
+      "Aumentando el tono muscular.",
+      "Aminorando el dolor.",
+      "Aumentando la activacion del Sistema Simpatico.",
+      "Reduciendo la sensibilidad."
+    ],
+    "correct": 2,
+    "feedback": "Hidroterapia fría/caliente puede estimular incrementando el tono simpático.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q094",
+    "category_id": "application_of_massage",
+    "question": "Que es lo que hace la respiracion diafragmatica o abdominal (respiracion relajante) para el sistema nervioso al interrumpirle el ciclo de dolor-calambre?",
+    "options": [
+      "Elimina cualquier descarga de los sistemas nerviosos simpatico y parasimpatico.",
+      "Se promueve la relajacion incrementando las descargas del sistema nervioso simpatico.",
+      "Se promueve la relajacion disminuyendo las descargas del sistema nervioso parasimpatico.",
+      "Se promueve la relajacion disminuyendo las descargas del sistema nervioso simpatico."
+    ],
+    "correct": 3,
+    "feedback": "Respiración diafragmática reduce descarga simpática y rompe el ciclo dolor‑espasmo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q095",
+    "category_id": "application_of_massage",
+    "question": "El aumento en la presion arterial es un efecto reflejo de este masaje terapeutico:",
+    "options": [
+      "Petrissage.",
+      "Effleurage ligero.",
+      "Effleurage profundo.",
+      "Vibracion aspera."
+    ],
+    "correct": 3,
+    "feedback": "Vibración áspera incrementa PA por estímulo simpático (reflejo).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q096",
+    "category_id": "application_of_massage",
+    "question": "La palpacion de la temperatura de la piel, del tono muscular, la sensibilidad y la textura, el familiarizarse y explorar el area a tratar, se incorporan con la siguiente tecnica de masaje sueco:",
+    "options": [
+      "Tapotement.",
+      "Effleurage.",
+      "Vibracion.",
+      "Petrissage."
+    ],
+    "correct": 1,
+    "feedback": "Effleurage integra palpación de temperatura, tono, sensibilidad y textura.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q097",
+    "category_id": "application_of_massage",
+    "question": "La vasoconstriccion breve seguida de la vasodilatacion es un efecto reflejo de esta tecnica de tratamiento:",
+    "options": [
+      "Vibracion sutil.",
+      "Tapotement.",
+      "Aromaterapia.",
+      "Effleurage ligero."
+    ],
+    "correct": 1,
+    "feedback": "El tapotement provoca vasoconstricción breve seguida de vasodilatación reactiva.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q098",
+    "category_id": "application_of_massage",
+    "question": "La hiperemia arterial o venosa es un aumento en la irrigacion a un tejido u organo. La hiperemia es un efecto reflejo que genera esta tecnica terapeutica:",
+    "options": [
+      "Friccion de presion directa.",
+      "Effleurage profundo.",
+      "Petrissage.",
+      "Vibracion."
+    ],
+    "correct": 0,
+    "feedback": "La fricción genera hiperemia por aumento de flujo local.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q099",
+    "category_id": "application_of_massage",
+    "question": "El cliente tiene problemas con la amplitud y movilidad en el hombro. La prueba de caida del brazo resulta positiva, la prueba de la lata vacia para el supraespinoso resulta negativa y la prueba del infraespinoso y del musculo redondo menor tambien resulta negativa. Para probar la fuerza del musculo subescapular, el cliente debe estar sentado o en decubito supino, mantener el humero a su lado y haga que el cliente flexione el codo a 90 grados y ahora el terapeuta resiste activamente la _________ del cliente.",
+    "options": [
+      "ABduccion.",
+      "ADuccion.",
+      "Rotacion interna.",
+      "Rotacion externa."
+    ],
+    "correct": 2,
+    "feedback": "Subescapular: probar con resistencia a la rotación interna.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q100",
+    "category_id": "application_of_massage",
+    "question": "El _______  es la manipulacion terapeutica de tejidos blandos, de las capas superficiales y profundas aplicando diversas tecnicas especializadas.",
+    "options": [
+      "Tratamiento alopata",
+      "Masaje",
+      "Anatripsis",
+      "Reiki"
+    ],
+    "correct": 1,
+    "feedback": "Masaje = manipulación terapéutica de tejidos blandos.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q101",
+    "category_id": "application_of_massage",
+    "question": "Este es un efecto reflejo de la Tecnica de Vibraciones:",
+    "options": [
+      "Isquemia momentanea.",
+      "Disminucion del dolor.",
+      "Disminucion de adherencias fasciales.",
+      "Se afloja la mucosidad en la cavidad toracica."
+    ],
+    "correct": 1,
+    "feedback": "Vibraciones pueden disminuir el dolor por efecto reflejo (analgesia).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q102",
+    "category_id": "application_of_massage",
+    "question": "Esta es la mejor definicion de la tecnica de aproximacion Origen-Insercion:",
+    "options": [
+      "El cliente acorta energicamente el musculo en la union musculotendinosa.",
+      "Una contraccion resistida que acorta el musculo en la union musculotendinosa.",
+      "Un acortamiento pasivo del musculo en la union musculotendinosa.",
+      "Un estiramiento pasivo del musculo en la union musculotendinosa."
+    ],
+    "correct": 2,
+    "feedback": "Aproximación O‑I: posicionar en acortamiento pasivo para relajar el músculo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q103",
+    "category_id": "application_of_massage",
+    "question": "Cuando un cliente padece diabetes, lo mejor es evitar el:",
+    "options": [
+      "Aceite esencial de eucalipto.",
+      "Cambiar de posiciones frecuentemente.",
+      "Tratamiento de relajacion effleurage.",
+      "Ninguna respuesta es correcta."
+    ],
+    "correct": 3,
+    "feedback": "En diabetes se adaptan maniobras pero no hay prohibición específica aquí.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q104",
+    "category_id": "application_of_massage",
+    "question": "La _________ y la __________ son los indicadores del umbral del dolor y el limite de temperaturas aplicadas con fines terapeuticos.",
+    "options": [
+      "cordura - fortaleza.",
+      "subjetividad - intolerancia.",
+      "sensibilidad - tolerancia.",
+      "sensatez - antipatia."
+    ],
+    "correct": 2,
+    "feedback": "Indicadores de límites: sensibilidad y tolerancia del cliente.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q105",
+    "category_id": "application_of_massage",
+    "question": "Aplicando el frotamiento linear o circular, cual es un efecto reflejo?",
+    "options": [
+      "Isquemia momentanea.",
+      "Disminucion de adherencias de fascia.",
+      "Hiperemia.",
+      "Expansion y estiramiento del tejido muscular."
+    ],
+    "correct": 2,
+    "feedback": "La fricción induce hiperemia como respuesta refleja local.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q106",
+    "category_id": "application_of_massage",
+    "question": "El masaje sueco esta contraindicado en este caso:",
+    "options": [
+      "En musculos con paralisis espastica, paralisis flacida y con atrofia.",
+      "Cuando hay ruptura de ligamento, tendon o musculo.",
+      "Edema severamente picado, hiperestesia y lesion distal a la inflamacion o infeccion.",
+      "La artritis reumatoide, osteoartritis y neuritis."
+    ],
+    "correct": 2,
+    "feedback": "Contraindicado: edema picado, hiperestesia y lesión distal a inflamación/infección.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q107",
+    "category_id": "application_of_massage",
+    "question": "Cual de las siguientes tecnicas son ejemplos de inhibicion activa?",
+    "options": [
+      "Traccion y retraccion.",
+      "La liberacion miofascial y movilizacion ritmica.",
+      "La terapia craneosacral y la aproximacion del musculo.",
+      "Contraer - relajar y relajacion post isometrica."
+    ],
+    "correct": 3,
+    "feedback": "Inhibición activa: contraer‑relajar y relajación post‑isométrica.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q108",
+    "category_id": "application_of_massage",
+    "question": "Cual de las siguientes tecnicas es la IDEAL para iniciar y finalizar un masaje sueco?",
+    "options": [
+      "Percusion",
+      "Petrissage",
+      "Friccion",
+      "Effleurage"
+    ],
+    "correct": 3,
+    "feedback": "Effleurage es ideal para iniciar y cerrar; conecta y calma.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q109",
+    "category_id": "application_of_massage",
+    "question": "Que es lo que el masaje tapotement genera en la zona toracica?",
+    "options": [
+      "Disminuye la circulacion local.",
+      "Ajuste de costillas dislocadas.",
+      "Fortalece los musculos intercostales.",
+      "Aumenta la circulacion local."
+    ],
+    "correct": 3,
+    "feedback": "Tapotement en tórax aumenta la circulación local (y puede ayudar a secreciones).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q110",
+    "category_id": "application_of_massage",
+    "question": "En cual de las siguientes condiciones generales esta rotundamente contraindicado el masaje?",
+    "options": [
+      "Cuando el cliente tiene sensacion de tristeza o esta muy agobiado.",
+      "En casos de coma diabetico o descargas repentinas de insulina.",
+      "En un embarazo ectopico.",
+      "Todas las respuestas son correctas."
+    ],
+    "correct": 3,
+    "feedback": "Coma diabético, embarazo ectópico y descargas de insulina ⇒ contraindicación absoluta.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q111",
+    "category_id": "application_of_massage",
+    "question": "La tecnica que se aplica para movilizar las fibras (para evitar formacion de adherencias) y movilizar las fibras en orientacion correcta es:",
+    "options": [
+      "Masaje Effleurage",
+      "Masaje transverso profundo",
+      "Tapotement sobre los ligamentos y tendones",
+      "Tapotement"
+    ],
+    "correct": 1,
+    "feedback": "Fricción transversa moviliza fibras y previene adherencias.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q112",
+    "category_id": "application_of_massage",
+    "question": "Para la efectividad de los masajes y adaptarlos de acuerdo a las necesidades de cada cliente, una comunicacion clara, objetiva y congruente entre el cliente y el terapeuta es:",
+    "options": [
+      "Una decision del terapeuta unicamente.",
+      "Crucial para ir conociendo los avances del tratamiento.",
+      "Una decision irrevelante para la situacion.",
+      "De relativa importancia ya que el terapeuta puede notar avances sin comentarlo con el cliente."
+    ],
+    "correct": 1,
+    "feedback": "La comunicación clara y congruente es crucial para adaptar el plan.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q113",
+    "category_id": "application_of_massage",
+    "question": "Cual es el proposito de un masaje post competencia deportiva?",
+    "options": [
+      "Reemplazar el estiramiento normal y enfriamiento",
+      "Estimular y dar calentamiento muscular",
+      "Obtener el vigoroso y vibrante masaje",
+      "Disminuir la tension muscular de aparicion retardada"
+    ],
+    "correct": 3,
+    "feedback": "Tras competencia: reducir tensión/DOMS y facilitar recuperación.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q114",
+    "category_id": "application_of_massage",
+    "question": "Las manipulaciones del masaje de Friccion se distinguen por ser:",
+    "options": [
+      "Lentas, muy suaves, espaciadas y verticales",
+      "Breves, precisas, circulares y elipticas",
+      "Prolongadas, suaves, gentiles y espaciosas",
+      "Breves, precisas, verticales y longitudinales"
+    ],
+    "correct": 1,
+    "feedback": "Fricciones: breves, localizadas, circulares/ovaladas (transversales/longitudinales según caso).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q115",
+    "category_id": "application_of_massage",
+    "question": "De los siguientes ejemplos, cual es un efecto reflejo del effleurage profundo?",
+    "options": [
+      "Mueve nutrientes a traves de los vasos.",
+      "Aumenta la eliminacion de residuos.",
+      "Estiramiento de las venas y vasos linfaticos.",
+      "Disminuye el ritmo de la respiracion."
+    ],
+    "correct": 3,
+    "feedback": "Effleurage profundo puede disminuir ritmo respiratorio (efecto parasimpático).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q116",
+    "category_id": "application_of_massage",
+    "question": "Existen diversos usos terapeuticos en las aplicaciones de la hidroterapia y en este sentido la diuresis significa:",
+    "options": [
+      "Que provoca mareo.",
+      "Se afloja la mucosidad.",
+      "Aumenta la produccion de globulos blancos.",
+      "Aumento en la formacion de la orina."
+    ],
+    "correct": 3,
+    "feedback": "Diuresis = aumento de formación de orina.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q117",
+    "category_id": "application_of_massage",
+    "question": "Cuando se presentan los puntos gatillo (puntos hiperirritables) en este musculo posiblemente son porque el cliente tiene sindrome del hombro congelado:",
+    "options": [
+      "Subescapular.",
+      "Biceps femoral.",
+      "Sartorio.",
+      "Pectoral menor."
+    ],
+    "correct": 0,
+    "feedback": "Adhesive capsulitis: subescapular frecuentemente hipertrófico/hiperirritable.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q118",
+    "category_id": "application_of_massage",
+    "question": "Cual de las siguientes opciones son dos de los resultados beneficos del masaje de descarga que el atleta recibe?",
+    "options": [
+      "Elimina procesos bioelectricos - detiene la posibilidad de que los musculos acumulen energia muscular",
+      "Notable incremento de procesos bioelectricos - aumento de la hipertonia muscular",
+      "Elimina la hipertonia muscular - ayuda al retorno venoso",
+      "Aumenta levemente la hipertonia muscular - incrementa las microrroturas"
+    ],
+    "correct": 2,
+    "feedback": "Descarga: reduce hipertono y favorece retorno venoso.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q119",
+    "category_id": "application_of_massage",
+    "question": "Que hacer para tratar adecuadamente un repentino calambre muscular agudo en un cliente?",
+    "options": [
+      "Termoterapia.",
+      "Crioterapia.",
+      "El estiramiento del musculo agonista.",
+      "La compresion de los musculos antagonistas."
+    ],
+    "correct": 2,
+    "feedback": "Calambre agudo: estirar gentilmente el músculo afectado (agonista).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "app_q120",
+    "category_id": "application_of_massage",
+    "question": "El dolor de los espasmos musculares tambien se puede disminuir aplicando tecnicas que pueden influenciar a la propiocepcion, tales como:",
+    "options": [
+      "Movimiento de las extremidades, estiramiento y la presion directa al tejido.",
+      "El effleurage ligero e inhalar aceite de lavanda.",
+      "La Crioterapia alternando con tapotement.",
+      "Estirando pasivamente el tejido superficial."
+    ],
+    "correct": 0,
+    "feedback": "Movilizaciones, estiramiento y presión directa modulan la propiocepción y reducen espasmo.",
+    "difficulty": "medium",
+    "language": "es"
+  }
+]

@@ -1,0 +1,226 @@
+Question 1: What is the minimum passing grade required for all quizzes in this course?
+Type: multichoice
+Answers:
+  A. 70%
+  B. 75%
+  C. 80% ✓ (CORRECT)
+  D. 85%
+
+==================================================
+
+Question 2: This course provides 4 hours of continuing education credit upon successful completion.
+Type: truefalse
+Answers:
+  A. True
+  B. False ✓ (CORRECT)
+
+==================================================
+
+Question 3: Which Florida agency is responsible for licensing and regulating nonpublic postsecondary institutions?
+Type: multichoice
+Answers:
+  A. Florida Department of Education
+  B. Commission for Independent Education (CIE) ✓ (CORRECT)
+  C. Florida Board of Governors
+  D. Florida Association of Colleges
+
+==================================================
+
+Question 4: Participation in the course Forums is required to complete the course.
+Type: truefalse
+Answers:
+  A. True
+  B. False ✓ (CORRECT)
+
+==================================================
+
+Question 5: What is the approximate time needed to complete this course?
+Type: multichoice
+Answers:
+  A. 2 hours
+  B. 3 hours
+  C. 4 hours ✓ (CORRECT)
+  D. 6 hours
+
+==================================================
+
+Question 6: An enrollment agreement is best described as:
+Type: multichoice
+Answers:
+  A. A marketing brochure
+  B. A binding contract between student and institution ✓ (CORRECT)
+  C. A financial aid application
+  D. A course catalog
+
+==================================================
+
+Question 7: Admissions representatives are required to undergo annual training on fair consumer practices.
+Type: truefalse
+Answers:
+  A. True
+  B. False ✓ (CORRECT)
+
+==================================================
+
+Question 8: Which sections of Florida Statutes outline fair consumer practices standards?
+Type: multichoice
+Answers:
+  A. Sections 1003.02 and 1003.15
+  B. Sections 1004.12 and 1004.25
+  C. Sections 1005.04 and 1005.34 ✓ (CORRECT)
+  D. Sections 1006.01 and 1006.18
+
+==================================================
+
+Question 9: Agents who recruit students off-campus must complete approved training and background checks.
+Type: truefalse
+Answers:
+  A. True
+  B. False ✓ (CORRECT)
+
+==================================================
+
+Question 10: The official institutional document that provides full disclosure on programs, policies, and costs is called:
+Type: multichoice
+Answers:
+  A. The enrollment agreement
+  B. The marketing plan
+  C. The catalog ✓ (CORRECT)
+  D. The resource notebook
+
+==================================================
+
+Question 11: What should admissions staff avoid using in Forum posts to preserve professional integrity?
+Type: multichoice
+Answers:
+  A. Technical terminology
+  B. Individual or company/school names ✓ (CORRECT)
+  C. Course-related questions
+  D. General compliance discussions
+
+==================================================
+
+Question 12: Programmatic accreditation is the same as institutional licensing.
+Type: truefalse
+Answers:
+  A. True
+  B. False ✓ (CORRECT)
+
+==================================================
+
+Question 13: A Resource Notebook is used by admissions staff to:
+Type: multichoice
+Answers:
+  A. Track student enrollment numbers
+  B. Compile and reference rules, policies, and documents for quick access ✓ (CORRECT)
+  C. Store marketing materials
+  D. Record continuing education hours
+
+==================================================
+
+Question 14: Students should be provided clear information about repayment obligations for financial aid during the admissions process.
+Type: truefalse
+Answers:
+  A. True
+  B. False ✓ (CORRECT)
+
+==================================================
+
+Question 15: Which format is NOT mentioned as a content delivery option in this course?
+Type: multichoice
+Answers:
+  A. Reading content online
+  B. Printing and reading offline
+  C. Listening to content
+  D. Video conferencing with instructors ✓ (CORRECT)
+
+
+
+
+
+
+
+ABove is the copy questions version, 
+below is what i see in the preview window itself, where it say output
+
+"multichoice#1
+What is the minimum passing grade required for all quizzes in this course?
+
+A. 70%
+B. 75%
+C. 80% ✓
+D. 85%
+truefalse#2
+This course provides 4 hours of continuing education credit upon successful completion.
+
+multichoice#3
+Which Florida agency is responsible for licensing and regulating nonpublic postsecondary institutions?
+
+A. Florida Department of Education
+B. Commission for Independent Education (CIE) ✓
+C. Florida Board of Governors
+D. Florida Association of Colleges
+truefalse#4
+Participation in the course Forums is required to complete the course.
+
+multichoice#5
+What is the approximate time needed to complete this course?
+
+A. 2 hours
+B. 3 hours
+C. 4 hours ✓
+D. 6 hours
+multichoice#6
+An enrollment agreement is best described as:
+
+A. A marketing brochure
+B. A binding contract between student and institution ✓
+C. A financial aid application
+D. A course catalog
+truefalse#7
+Admissions representatives are required to undergo annual training on fair consumer practices.
+
+multichoice#8
+Which sections of Florida Statutes outline fair consumer practices standards?
+
+A. Sections 1003.02 and 1003.15
+B. Sections 1004.12 and 1004.25
+C. Sections 1005.04 and 1005.34 ✓
+D. Sections 1006.01 and 1006.18
+truefalse#9
+Agents who recruit students off-campus must complete approved training and background checks.
+
+multichoice#10
+The official institutional document that provides full disclosure on programs, policies, and costs is called:
+
+A. The enrollment agreement
+B. The marketing plan
+C. The catalog ✓
+D. The resource notebook
+multichoice#11
+What should admissions staff avoid using in Forum posts to preserve professional integrity?
+
+A. Technical terminology
+B. Individual or company/school names ✓
+C. Course-related questions
+D. General compliance discussions
+truefalse#12
+Programmatic accreditation is the same as institutional licensing.
+
+multichoice#13
+A Resource Notebook is used by admissions staff to:
+
+A. Track student enrollment numbers
+B. Compile and reference rules, policies, and documents for quick access ✓
+C. Store marketing materials
+D. Record continuing education hours
+truefalse#14
+Students should be provided clear information about repayment obligations for financial aid during the admissions process.
+
+multichoice#15
+Which format is NOT mentioned as a content delivery option in this course?
+
+A. Reading content online
+B. Printing and reading offline
+C. Listening to content
+D. Video conferencing with instructors ✓"

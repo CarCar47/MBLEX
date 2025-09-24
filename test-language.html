@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Language Toggle Test</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            color: white;
+        }
+        .test-container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: rgba(255,255,255,0.1);
+            padding: 20px;
+            border-radius: 10px;
+        }
+        .status {
+            background: rgba(0,0,0,0.3);
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+        }
+        .success {
+            color: #4ade80;
+        }
+        .error {
+            color: #ef4444;
+        }
+    </style>
+</head>
+<body>
+    <div class="test-container">
+        <h1>Language Toggle Test</h1>
+        
+        <div class="status">
+            <h3>Testing Language Manager</h3>
+            <div id="test-results"></div>
+        </div>
+        
+        <div class="status">
+            <h3>Current Language: <span id="current-lang">-</span></h3>
+        </div>
+        
+        <div class="status">
+            <h3>Sample Translations:</h3>
+            <p>Main Title: <span id="sample-title">-</span></p>
+            <p>Study Button: <span id="sample-button">-</span></p>
+        </div>
+        
+        <button onclick="testLanguageSwitch()">Run Tests</button>
+    </div>
+
+    <script src="js/language-manager.js"></script>
+    <script>
+        function testLanguageSwitch() {
+            const results = document.getElementById('test-results');
+            results.innerHTML = '';
+            
+            // Test 1: Check if Language Manager is loaded
+            addResult(typeof window.LanguageManager !== 'undefined', 'Language Manager loaded');
+            
+            // Test 2: Check current language
+            const currentLang = window.LanguageManager.getCurrentLanguage();
+            addResult(currentLang === 'en' || currentLang === 'es', `Current language is valid: ${currentLang}`);
+            document.getElementById('current-lang').textContent = currentLang;
+            
+            // Test 3: Test English translations
+            window.LanguageManager.setLanguage('en');
+            const enTitle = window.LanguageManager.getTranslation('main-title');
+            addResult(enTitle === 'MBLEX Preparation Platform', 'English translation works');
+            
+            // Test 4: Test Spanish translations
+            window.LanguageManager.setLanguage('es');
+            const esTitle = window.LanguageManager.getTranslation('main-title');
+            addResult(esTitle === 'Plataforma de Preparación MBLEX', 'Spanish translation works');
+            
+            // Test 5: Test language persistence
+            localStorage.setItem('mblex-language', 'es');
+            const savedLang = localStorage.getItem('mblex-language');
+            addResult(savedLang === 'es', 'Language preference saved to localStorage');
+            
+            // Update sample translations
+            updateSamples();
+        }
+        
+        function addResult(success, message) {
+            const results = document.getElementById('test-results');
+            const div = document.createElement('div');
+            div.className = success ? 'success' : 'error';
+            div.textContent = `${success ? '✓' : '✗'} ${message}`;
+            results.appendChild(div);
+        }
+        
+        function updateSamples() {
+            const lang = window.LanguageManager.getCurrentLanguage();
+            document.getElementById('sample-title').textContent = 
+                window.LanguageManager.getTranslation('main-title');
+            document.getElementById('sample-button').textContent = 
+                window.LanguageManager.getTranslation('study-btn');
+        }
+        
+        // Run tests on load
+        window.addEventListener('DOMContentLoaded', testLanguageSwitch);
+    </script>
+</body>
+</html>

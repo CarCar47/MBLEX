@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "rand_q001",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Cual opcion es un efecto reflejo del Tapotement?",
+    "options": [
+      "Se afloja la mucosidad en la cavidad toracica.",
+      "Disminucion de adherencias fasciales.",
+      "Hiperemia.",
+      "Isquemia momentanea."
+    ],
+    "correct": 0,
+    "feedback": "Percusión torácica (tapotement) puede ayudar a movilizar la mucosidad (reflejo/neumático).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q002",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Al efectuar la valoracion del ritmo escapulo toracico, cuales son los dos musculos que le impiden a la escapula que haga el giro cuando debiera?",
+    "options": [
+      "El romboides y pectoral menor",
+      "El romboides y elevador de la escapula",
+      "El pectoral menor y elevador de la escapula",
+      "El serrato anterior  y el romboides"
+    ],
+    "correct": 1,
+    "feedback": "Romboides y elevador de la escápula favorecen rotación inferior y retraen, impidiendo la rotación superior adecuada.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q003",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Cuando el cliente esta llenando los cuestionarios del historial clinico, es requisito que el terapeuta obtenga por parte del cliente:",
+    "options": [
+      "Su fecha de nacimiento, hobbies y preferencias alimenticias.",
+      "Listado de todos los medicamentos.",
+      "Toda la historia laboral del cliente.",
+      "El seguro que el cliente posee."
+    ],
+    "correct": 1,
+    "feedback": "Medicamentos/posología afectan seguridad del masaje; deben registrarse siempre.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q004",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "El presionar contra la pared abdominal interior puede separar el recto mayor del abdomen en la linea alba, a esto se le llama:",
+    "options": [
+      "Diastacis del recto",
+      "Diastacis del intestino grueso",
+      "Dolor amniotico",
+      "Ninguna respuesta es correcta"
+    ],
+    "correct": 0,
+    "feedback": "Separación del recto abdominal en la línea alba = diástasis del recto.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q005",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Aplicando la tecnica de Presion directa, cual es un efecto reflejo?",
+    "options": [
+      "Se comprime y se extiende el tejido.",
+      "Isquemia momentanea.",
+      "Neuritis.",
+      "Aumenta el peristalismo (en el abdomen)."
+    ],
+    "correct": 3,
+    "feedback": "La presión sostenida en abdomen puede aumentar peristaltismo por reflejos viscerales.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q006",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Cual musculo es el flexor mas potente de la zona anterior del codo?",
+    "options": [
+      "Braquial",
+      "Triceps braquial",
+      "Coracobraquial",
+      "Pectoral mayor"
+    ],
+    "correct": 0,
+    "feedback": "El braquial es el flexor más potente del codo (por palanca y sección fisiológica).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q007",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Cual musculo abdominal se origina en el tercio lateral del ligamento inguinal, la cresta iliaca y las seis costillas inferiores?",
+    "options": [
+      "Transverso del abdomen.",
+      "Recto del abdomen.",
+      "Oblicuo interno.",
+      "Intercostales internos."
+    ],
+    "correct": 0,
+    "feedback": "El transverso del abdomen se origina en las 6 costillas inferiores, fascia toracolumbar, cresta ilíaca y ligamento inguinal.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q008",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "El mover la mandibula hacia adelante se le llama:",
+    "options": [
+      "Extension",
+      "Retraccion",
+      "Protrusion",
+      "Eversion"
+    ],
+    "correct": 2,
+    "feedback": "Traslación anterior de la mandíbula = protrusión.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q009",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Un esquema de los principios fundamentales que el terapeuta de masaje se compromete a realizar en su compromiso profesional incluyen la integridad, calidad moral, sentido comun, respeto por los otros, tener responsabilidad social, esto es _____________.",
+    "options": [
+      "Normas de Practica.",
+      "Etica profesional.",
+      "Codigo de Politicas.",
+      "Estandares obligatorios."
+    ],
+    "correct": 1,
+    "feedback": "Esos principios pertenecen a la ética profesional.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q010",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Cuantos huesos hay en la mano?",
+    "options": [
+      "32",
+      "24",
+      "27",
+      "26"
+    ],
+    "correct": 2,
+    "feedback": "La mano humana tiene 27 huesos (8 carpos, 5 metacarpos, 14 falanges).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q011",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "El cordon umbilical esta unido a:",
+    "options": [
+      "La placenta",
+      "El utero",
+      "El cuello uterino",
+      "Los ovarios"
+    ],
+    "correct": 0,
+    "feedback": "El cordón umbilical conecta el feto con la placenta.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q012",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "El ciclo que se repite  __________ es: en cada latido el corazon envia sangre a todo el organismo _________ a todas las celulas. Una vez distribuido el oxigeno la sangre venosa regresa al corazon y desde ahi la sangre se bombea hacia __________ para recargarse de oxigeno otra vez.",
+    "options": [
+      "Paulatinamente - oxigenando - los capilares.",
+      "Constantemente - oxigenando - los pulmones.",
+      "Continuamente - movilizando - los alveolos.",
+      "Probablemente - nutriendo - las extremidades."
+    ],
+    "correct": 1,
+    "feedback": "Ciclo cardiopulmonar: la sangre oxigenada circula a los tejidos y retorna al corazón para bombearse a los pulmones.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q013",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Aplicando el frotamiento linear o circular, cual es un efecto mecanico?",
+    "options": [
+      "Aumento de la circulacion.",
+      "Isquemia momentanea.",
+      "Hiperemia.",
+      "Relaja los musculos y disminuye la hipertonia."
+    ],
+    "correct": 2,
+    "feedback": "La fricción (roce) genera hiperemia y aumenta la circulación local (efecto mecánico).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q014",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "El (la) ________ es un tejido conectivo flexible que conecta cualquier hueco o espacio en los musculos.",
+    "options": [
+      "Mesotelioma",
+      "Pericondrio",
+      "Tejido areolar",
+      "Tejido reticular"
+    ],
+    "correct": 2,
+    "feedback": "El tejido conectivo areolar rellena espacios y envuelve estructuras.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q015",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Al evaluar los factores que activan los puntos gatillo, que rol tiene la tension postural constante o persistente?",
+    "options": [
+      "Ningun rol porque los puntos gatillo no se activan por malas posturas.",
+      "Ningun rol porque los puntos gatillo solamente se activan cuando la persona duerme.",
+      "La vitamina C, B o la deficiencia de acido folico.",
+      "Cuando la persona esta mal sentada durante horas entonces se activan los puntos gatillo."
+    ],
+    "correct": 3,
+    "feedback": "Posturas sostenidas y ergonomía deficiente pueden activar puntos gatillo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q016",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "La hiperemia es un efecto reflejo que se genera por esta tecnica de tratamiento terapeutico:",
+    "options": [
+      "Aromaterapia.",
+      "Effleurage ligero.",
+      "Masaje sueco.",
+      "Friccion linear o circular."
+    ],
+    "correct": 3,
+    "feedback": "La fricción provoca hiperemia local.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q017",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "La esclerosis multiple es un trastorno del sistema nervioso central que se define como:",
+    "options": [
+      "La disminucion progresiva de la funcion de los ganglios basales.",
+      "Trastorno en la funcion motora debido a una lesion del cerebro inmaduro.",
+      "Un trastorno en donde ocurre una desmielinizacion de los nervios.",
+      "Un trastorno a la columna vertebral, medula espinal o a ambas, debido a un trauma directo o indirecto."
+    ],
+    "correct": 2,
+    "feedback": "EM: desmielinización en el SNC con brotes y secuelas.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q018",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Existen tres casos basicos en donde esta contraindicado aplicar tratamiento de effleurage ligero o profundo:",
+    "options": [
+      "En tejido cicatrizal nuevo, cuando existe presion arterial alta o en enfermedades del corazon o venas varicosas.",
+      "En casos de paralisis flacida, paralisis reumatoide y musculos atrofiados.",
+      "En casos de edema severo por piquete, hiperestesia y tratamientos distales a la inflamacion.",
+      "En casos de artritis reumatoide, osteoartritis o neuritis."
+    ],
+    "correct": 2,
+    "feedback": "Evitar effleurage en edema severo por picadura, hiperestesia o distal a áreas inflamadas.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q019",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "El medicamento (Rx) Clorhidrato de Oxicodona (OxyContin) es un analgesico opioide normalmente usado para tratar el siguiente trastorno(s):",
+    "options": [
+      "Post infarto o despues de un accidente cardiaco",
+      "Enfermedad degenerativa de disco y otros trastornos degenerativos",
+      "Paralisis cerebral y enfermedad de Parkinson",
+      "Paralisis de Bell"
+    ],
+    "correct": 1,
+    "feedback": "Oxycodona: analgésico opioide para dolor moderado-severo (p. ej., degeneración discal).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q020",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "La accion llamada EVERSION es realmente una combinacion de estos dos movimientos:",
+    "options": [
+      "Pronacion y ADuccion",
+      "Pronacion y ABduccion",
+      "Pronacion y Supinacion",
+      "Supinacion y ABduccion"
+    ],
+    "correct": 1,
+    "feedback": "La eversión del pie combina pronación y abducción (componente subtalar).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q021",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "El musculo _________se inserta en el acromion, la espina de la escapula y en el borde lateral a 1/3 de la clavicula. El masaje descontracturante se recomienda para esta area, cual es el objetivo principal de este masaje?",
+    "options": [
+      "Elevador de la escapula - devolver a los musculos su estado natural.",
+      "Esternocleidomastoideo - devolver a los musculos su estado natural.",
+      "Subclavio - aliviar la tension por los nudos creados en el musculo.",
+      "Trapecio - devolver a los musculos su estado natural."
+    ],
+    "correct": 3,
+    "feedback": "El trapecio se inserta en espina, acromion y tercio lateral de la clavícula.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q022",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "La prueba de __________  se realiza en un cliente que padece el latigazo cervical (whiplash) para determinar si el dolor al tragar se debe a un dolor referido de un punto gatillo en el musculo esternocleidomastoideo o debido a otras patologias cervicales.",
+    "options": [
+      "Deglucion.",
+      "Flexion del dedo.",
+      "Tres nudillos.",
+      "Liberacion del escaleno."
+    ],
+    "correct": 0,
+    "feedback": "Prueba de deglución para discriminar dolor referido del ECM.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q023",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Cuantos pares de nervios se ramifican de la medula espinal?",
+    "options": [
+      "31",
+      "36",
+      "32",
+      "26"
+    ],
+    "correct": 0,
+    "feedback": "Hay 31 pares de nervios espinales.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q024",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "El higado elimina el siguiente elemento de la sangre para regular el metabolismo:",
+    "options": [
+      "Vitamin D.",
+      "Calcio.",
+      "Vitamin C.",
+      "Acido lactico."
+    ],
+    "correct": 3,
+    "feedback": "El hígado recicla lactato (ciclo de Cori).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q025",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "El terapeuta le recomienda al cliente  ___________ como continuidad de los tratamientos y cuidado personal que efectue estiramientos, ejercicios de resistencia, diversos movimientos corporales, con la intencion del buen mantenimiento,  mejorar la funcion musculoesqueletica e incrementar el bienestar y la salud.",
+    "options": [
+      "El drenaje linfatico manual.",
+      "Ejercicios de terapia fisica.",
+      "La respiracion diafragmatica.",
+      "Alimentacion a base de vegetales y frutas."
+    ],
+    "correct": 1,
+    "feedback": "Ejercicios/estiramientos complementan el plan y mejoran función.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q026",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Cual musculo ha perdido elasticidad si el cliente presenta cierta limitacion moderada en la ABduccion de la articulacion glenohumeral?",
+    "options": [
+      "Latissimus dorsi.",
+      "Redondo mayor.",
+      "Pectoral mayor.",
+      "Supraespinoso."
+    ],
+    "correct": 2,
+    "feedback": "Acortamientos de aductores/rotadores mediales (lat/pectorales) restringen abducción.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q027",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Durante un evento terapeuta observa que uno de los competidores tiene la piel seca y rojiza, se ve que tiene dificultad para respirar, tambien se le ve desorientado, es muy probable que tenga:",
+    "options": [
+      "Agotamiento por calor",
+      "Golpe de calor",
+      "Hipotermia",
+      "Calambres por calor"
+    ],
+    "correct": 1,
+    "feedback": "Piel caliente/seca y alteración del sensorio = golpe de calor (emergencia).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q028",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Esta opcion no forma parte de las funciones que le corresponden al sistema linfatico:",
+    "options": [
+      "Devolver plasma filtrado a la sangre.",
+      "Controlar las funciones del metabolismo.",
+      "Limpiar el plasma filtrado de la bacteria y de otras sustancias ajenas al organismo.",
+      "Es el centro de vigilancia de las celulas del sistema inmunologico."
+    ],
+    "correct": 1,
+    "feedback": "El metabolismo es regulado por sistemas endocrino/nervioso, no por el linfático.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q029",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "El medicamento (Rx) Abatacept (Orencia) es un inmunosupresor utilizado normalmente para tratar la siguiente patologia:",
+    "options": [
+      "Enfermedad de Parkinson",
+      "Post infarto o despues de un accidente cardiovascular",
+      "Artritis reumatoide",
+      "Paralisis cerebral y Enfermedad de Parkinson"
+    ],
+    "correct": 2,
+    "feedback": "Abatacept (Orencia) es un biológico para AR.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q030",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Usted terapeuta hace el analisis postural al cliente y observa que la cabeza esta levemente flexionada, cual musculo esta estirado y debilitado?",
+    "options": [
+      "Elevadores bilaterales de la escapula.",
+      "El esternocleidomastoideo bilateral.",
+      "El escaleno anterior bilateral.",
+      "Todas las opciones son correctas."
+    ],
+    "correct": 1,
+    "feedback": "La postura cefálica flexionada altera la longitud de flexores/extensores cervicales; se documenta para planificar corrección.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q031",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Que parte del tracto digestivo se conecta con los ductos del pancreas y el higado?",
+    "options": [
+      "Ileon",
+      "Yeyuno",
+      "Colon descendente",
+      "Duodeno"
+    ],
+    "correct": 3,
+    "feedback": "Conducto pancreático y colédoco desembocan en el duodeno.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q032",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "A la vez que el terapeuta le esta haciendo la valoracion al cliente existen tres clases de preguntas obligatorias con el fin de recabar informacion relevante para el plan de tratamiento, estas son las preguntas generales, las especificas y las enfocadas al dolor. Esta es una pregunta enfocada al dolor:",
+    "options": [
+      "Le dieron tratamiento medico o terapia antes de venir a recibir el masaje?.",
+      "Con que frecuencia le duele con esta misma intensidad?.",
+      "Prefiere las actividades al aire libre donde siente que el dolor disminuye?.",
+      "Existen antecedentes familiares con esta misma afeccion?."
+    ],
+    "correct": 1,
+    "feedback": "Cuantifica el dolor: frecuencia/intensidad/duración son preguntas enfocadas al dolor.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q033",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "La paralisis cerebral es un grupo de trastornos de la funcion motora que deterioran la habilidad de una persona para mantener el equilibrio normal, la postura y afectan la capacidad para moverse. Es causada por:",
+    "options": [
+      "Disfuncion emocional sostenible.",
+      "Exceso de comunicacion interna del sistema nervioso simpatico.",
+      "Trastorno del sistema nervioso central.",
+      "Condicionamiento del sistema nervioso periferico."
+    ],
+    "correct": 2,
+    "feedback": "Parálisis cerebral: lesión no progresiva del SNC en desarrollo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q034",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "La disminucion de adherencias en la fascia es un efecto mecanico de esta tecnica de tratamiento terapeutico:",
+    "options": [
+      "Vibratorio.",
+      "Effleurage suave.",
+      "Golpeteo.",
+      "Friccion transversa de fibra."
+    ],
+    "correct": 3,
+    "feedback": "La fricción transversa profunda rompe adherencias y reorganiza fibras.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q035",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "El estres de Suzanne ha ido en aumento en las ultimas semanas debido a problemas familiares. A los tres dias que empezo a estresarse empezo con dolor de cabeza y tiene 12 dias doliendole. Ya no puede dormir y las pastillas de Aleve solo le reducen el dolor a medias y por un par de horas. Suzanne tiene la esperanza de que usted terapeuta podria ayudarle a aliviar su tremendo dolor de cabeza para que pueda relajarse y descansar. Que modalidad de tratamiento seria el mas efectivo?",
+    "options": [
+      "Patrones Aston.",
+      "Estiramiento aislado activo.",
+      "Tecnica Alexander.",
+      "Acupresion."
+    ],
+    "correct": 3,
+    "feedback": "Acupresión/puntos gatillo craneocervicales puede aliviar cefalea tensional.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q036",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Como se llama la region superior del esternon?",
+    "options": [
+      "Hemicarilla.",
+      "Manubrio.",
+      "Proceso xifoides.",
+      "Hioides."
+    ],
+    "correct": 1,
+    "feedback": "Parte superior del esternón = manubrio.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q037",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Que tipo de contraccion muscular es cuando los musculos y la parte del cuerpo que se contrajo se queda inmovil?",
+    "options": [
+      "Isometrica",
+      "Isotonica",
+      "Concentrica",
+      "Excentrica"
+    ],
+    "correct": 0,
+    "feedback": "Isométrica: tensión sin cambio en longitud ni movimiento.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q038",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Donde se encuentra la arteria femoral con respecto a la arteria humeral?",
+    "options": [
+      "Superior",
+      "Inferior",
+      "Anterior",
+      "Posterior"
+    ],
+    "correct": 1,
+    "feedback": "Femoral (miembro inferior) está inferior a la humeral (miembro superior).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q039",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Este es un efecto mecanico del effleurage suave:",
+    "options": [
+      "Un aumento en la respuesta del sistema nervioso parasimpatico.",
+      "La disminucion en la respuesta del sistema nervioso simpatico.",
+      "Un aumento de la vasodilatacion.",
+      "No hay ningun efecto mecanico."
+    ],
+    "correct": 2,
+    "feedback": "Effleurage superficial favorece vasodilatación local (mecánico) y calma simpático (reflejo).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q040",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Cual es el sistema del organismo que aumenta el calor corporal con el ejercicio muscular?",
+    "options": [
+      "Linfatico.",
+      "Tegumentario.",
+      "Esqueletico.",
+      "Nervioso."
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica/ética estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q041",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "El medicamento (Rx) Duloxetina (Cymbalta) es un inhibidor selectivo de la recaptura de serotonina y norepinefrina y antidepresivo normalmente utilizado para tratar este trastorno(s):",
+    "options": [
+      "Neuropatia y Sindrome de fatiga cronica",
+      "Enfermedad de Parkinson",
+      "Post infarto o despues de un accidente cardiaco",
+      "Paralisis de Bell"
+    ],
+    "correct": 0,
+    "feedback": "Duloxetina: ISRSN para depresión, ansiedad, dolor neuropático y SFC.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q042",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "El ligamento _________ proporciona soporte al tobillo para protegerlo contra la deformidad del pie Valgo:",
+    "options": [
+      "Deltoideo",
+      "Lateral",
+      "Calcaneoperoneo",
+      "Taloperoneal posterior"
+    ],
+    "correct": 0,
+    "feedback": "Ligamento deltoideo (medial) resiste valgo/eversion del tobillo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q043",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Cual musculo es el que esta a cargo de la flexion y la extension de la articulacion del hombro?",
+    "options": [
+      "Flexion: Deltoides (anterior) y coracobraquial y en extension: Deltoides (posterior) y redondo menor.",
+      "Flexion: Deltoides (anterior) y coracobrachialis y en extension: deltoides (posterior) y biceps braquial.",
+      "Flexion: Deltoides (posterior) y redondo menor y en extension: Deltoides (anterior) y coracobraquial.",
+      "Flexion: Deltoides  (posterior) y redondo menor y en extension: Deltoides (anterior) y redondo menor."
+    ],
+    "correct": 0,
+    "feedback": "Flexión: deltoides anterior/coracobraquial; extensión: deltoides posterior/teres major.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q044",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Para prevenir enfermedades infecciosas y transmisibles la manera mas simple y eficaz para minimizar el riesgo es lavandose las manos adecuadamente. La Asociacion CDC tiene cuatro pasos para lavarse las manos correctamente. Cual es el primer paso?",
+    "options": [
+      "Aplicarse el jabon en las manos.",
+      "Enjuagar las manos con agua tibia.",
+      "Frotar las manos durante al menos 20 segundos para hacer espuma.",
+      "Secar las manos con una toalla de papel."
+    ],
+    "correct": 0,
+    "feedback": "CDC: 1) mojar, 2) aplicar jabón, 3) frotar ≥20s, 4) enjuagar, 5) secar.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q045",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Cual de los siguientes musculos no se origina en el humero?",
+    "options": [
+      "Biceps braquial.",
+      "Triceps braquial.",
+      "Brachial.",
+      "Braquiorradial."
+    ],
+    "correct": 0,
+    "feedback": "El bíceps braquial se origina en la escápula (cavidad glenoidea/apófisis coracoides).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q046",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Los musculos que estan en la zona ________ y _______ ayudan a levantar los brazos en ABduccion y hacia abajo en ADuccion:",
+    "options": [
+      "Anterior del torax / abdominal.",
+      "Braquial / del manguito rotador.",
+      "Posterior del torax / vertebral.",
+      "Posterior / anterior del torax."
+    ],
+    "correct": 3,
+    "feedback": "Músculos torácicos posteriores/anterior coordinan abducción/adducción escapulohumeral.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q047",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "El aumento de intercambios gaseosos internos es un efecto reflejo de esta tecnica de tratamiento terapeutico:",
+    "options": [
+      "Effleurage ligero.",
+      "Aromaterapia.",
+      "Tapotement.",
+      "Vibracion sutil."
+    ],
+    "correct": 3,
+    "feedback": "Vibración suave puede facilitar la ventilación y el intercambio gaseoso.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q048",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "La mejor manera de tomar la temperatura corporal de un cliente es:",
+    "options": [
+      "Con el antebrazo del terapeuta sobre la frente",
+      "Con la parte trasera de la mano presionando suavemente sobre la frente",
+      "Con los dedos indice y medio sobre la escapula del cliente",
+      "Observando fijamente el tono de la piel"
+    ],
+    "correct": 1,
+    "feedback": "Dorso de la mano en la frente percibe mejor cambios térmicos que pulpejos.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q049",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "El musculo ___________efectua giro medial del hombro, el arqueamiento del hombro. La expansion del hombro desde la flexion y aduccion es la funcion primordial de este musculo. Ademas por la distribucion de sus fibras, mediante una accion pasiva puede ejecutar una inspiracion de forma accesoria, al levantar los brazos.",
+    "options": [
+      "Redondo mayor.",
+      "Pectoral menor.",
+      "Iliopsoas .",
+      "Pectoral mayor."
+    ],
+    "correct": 3,
+    "feedback": "El pectoral mayor aduce/rota medialmente y colabora en inspiración accesoria.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q050",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "El Calcio (Ca) es un elemento que conforma el 1.5% de la masa corporal y su funcion es:",
+    "options": [
+      "Es necesario para hacer funcionales a las hormonas tiroideas.",
+      "Actuar como un anion extracelular.",
+      "Ayudar como un cation extracelular.",
+      "Es necesario para la contraccion muscular, la transferencia neuronal y la coagulacion sanguinea."
+    ],
+    "correct": 3,
+    "feedback": "El Ca²⁺ es esencial para contracción muscular, neurotransmisión y coagulación.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q051",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Cual opcion es un efecto reflejo del Tapotement?",
+    "options": [
+      "Disminucion de adherencias fasciales.",
+      "Isquemia momentanea.",
+      "Aumenta la actividad celular.",
+      "Afloja la mucosidad en la cavidad toracica."
+    ],
+    "correct": 3,
+    "feedback": "Percusión torácica (tapotement) puede ayudar a movilizar la mucosidad (reflejo/neumático).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q052",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Cual es la mejor postura para dar masaje al musculo subescapular?",
+    "options": [
+      "El humero en aBduccion a 90 grados con el codo flexionado a 90 grados.",
+      "El humero en aDuccion con el codo flexionado a 90 grados.",
+      "El cliente en decubito pronto con el humero aDucido a un lado de el mismo.",
+      "El cliente en decubito lateral con el humero estirado y alejado del cuerpo."
+    ],
+    "correct": 0,
+    "feedback": "Exponer el subescapular con GH en 90° abducción y codo en 90°.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q053",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Cual es el musculo que divide las cavidades toracicas y abdominales?",
+    "options": [
+      "Transverso del abdomen.",
+      "Recto del abdomen.",
+      "Diafragma.",
+      "Psoas mayor."
+    ],
+    "correct": 2,
+    "feedback": "El diafragma separa cavidad torácica y abdominal.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q054",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "El cliente ha estado teniendo problemas con una rodilla y la cadera, cuales musculos explora el terapeuta pues piensa le estan afectando a estas dos estructuras?",
+    "options": [
+      "Gluteus medius, gluteus minimus y al tensor de la fascia lata (TFL).",
+      "Soleo, extensor digitorum longus y plantaris.",
+      "Biceps femoris, semitendinoso, semimembranoso, rectus femoris y gracilis.",
+      "Gastrocnemio, biceps femoris y soleo."
+    ],
+    "correct": 0,
+    "feedback": "Glúteos medio/mínimo y TFL estabilizan cadera/rodilla vía fascia lata.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q055",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Cual es la tecnica de tratamiento que se aplica en la zona del tronco y en centros nerviosos para drenar secreciones espesas en las paredes bronquiales?",
+    "options": [
+      "Percusion toracica",
+      "Roce ligero",
+      "Patrones Aston",
+      "Effleurage toracico"
+    ],
+    "correct": 0,
+    "feedback": "Percusión torácica facilita el drenaje bronquial.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q056",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "El musculo___________ hace que el omoplato se eleve.",
+    "options": [
+      "Subscapularis.",
+      "Levator scapula.",
+      "Supraspinatus.",
+      "Infraspinatus."
+    ],
+    "correct": 1,
+    "feedback": "Levator scapulae eleva el ángulo superior de la escápula.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q057",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Eric, de edad 45, padece diabetes y trabaja en la construccion. Que modalidad le ayudara a eliminar los malos habitos alimenticios debido a su trabajo y aumentar su conocimiento de los beneficios de la yoga?",
+    "options": [
+      "El metodo corporal de la medicina Ayurveda.",
+      "Aromaterapia.",
+      "Balanceo de Cuerpo.",
+      "Estiramiento Aislado Activo."
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica/ética estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q058",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Silvia no ha corregido la mala postura corporal desde hace ya mucho tiempo y ya le esta afectando su capacidad para trabajar de manera eficiente. Que modalidad de tratamiento podria usar para un cliente que ha perdido poco a poco la movilidad debido a su ambiente de trabajo?",
+    "options": [
+      "Aromaterapia.",
+      "Terapia de armonizacion.",
+      "Patrones Aston.",
+      "Skin rolling."
+    ],
+    "correct": 2,
+    "feedback": "Aston Patterns reeduca postura y movimiento para eficiencia funcional.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q059",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Cual es la relacion homeostatica entre los sistemas muscular tegumentario?",
+    "options": [
+      "El sistema muscular proporciona forma y estructura a la piel.",
+      "El sistema muscular crea grandes cantidades de calor para incrementar el flujo sanguineo a la piel.",
+      "El sistema muscular activa la vitamina D.",
+      "El sistema muscular protege las inervaciones de arterias."
+    ],
+    "correct": 1,
+    "feedback": "El músculo genera calor que se disipa por la piel (termorregulación).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q060",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Que clase de ejercicio esta contraindicado en la fase aguda de una quemadura muy grande en el cuerpo?",
+    "options": [
+      "Ejercicio de relajacion.",
+      "Tai Chi.",
+      "Qi gong.",
+      "Ejercicios de resistencia activa."
+    ],
+    "correct": 3,
+    "feedback": "Evitar ejercicios de resistencia activa en fase aguda por riesgo de lesión.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q061",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Las lesiones intrinsecas del musculo esqueletico o patologias por funcionamiento anormal del hombro pueden causar este tipo de trastorno secundario:",
+    "options": [
+      "Fascitis plantar.",
+      "Capsulitis adhesiva.",
+      "Bursitis retrocalcanea.",
+      "Tendinitis rotuliana."
+    ],
+    "correct": 1,
+    "feedback": "Disfunción glenohumeral puede evolucionar a capsulitis adhesiva (hombro congelado).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q062",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Esta tecnica de masaje ayuda en la reabsorcion del liquido intersticial y promueve la eliminacion de toxinas del organismo:",
+    "options": [
+      "La terapia de la polaridad.",
+      "El drenaje linfatico manual.",
+      "Aromaterapia.",
+      "La medicina ortopedica."
+    ],
+    "correct": 1,
+    "feedback": "El drenaje linfático manual facilita la reabsorción intersticial.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q063",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Un prospecto llama al a la clinica de masajes, dice que hoy temprano se lastimo fuertemente la espalda y le urge un masaje, su amigo le recomienda el masaje porque le ayudo en la misma situacion. Que debe hacer el terapeuta?",
+    "options": [
+      "Citarlo en ese preciso momento e iniciar con el plan de tratamiento empezando por el masaje.",
+      "Preguntarle al prospecto como se lesiono, diagnosticarle el tipo de la lesion para saber como aplicarle el masaje.",
+      "Explicarle detalladamente lo que el masaje puede hacer por las lesiones agudas y citarlo en el siguiente espacio disponible en su agenda.",
+      "Explicarle que en lesiones delicadas lo recomendable es visitar al doctor especialista primero y a partir de eso tomar decisiones."
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica/ética estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q064",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Segun la clasificacion de Foreman y Croft (F/C) en el latigazo cervical (whiplash) cual es el impacto de tipo 2?",
+    "options": [
+      "Impacto trasero.",
+      "Impacto lateral.",
+      "Impacto frontal.",
+      "Inclinacion."
+    ],
+    "correct": 0,
+    "feedback": "Clasificación F/C: tipo 2 = impacto trasero con síntomas moderados.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q065",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Cual musculo es el flexor mas potente de la zona anterior del codo?",
+    "options": [
+      "Braquial",
+      "Triceps braquial",
+      "Coracobraquial",
+      "Pectoral mayor"
+    ],
+    "correct": 0,
+    "feedback": "El braquial es el flexor más potente del codo (por palanca y sección fisiológica).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q066",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Una persona es contratada para un trabajo durante el verano al aire libre en la Florida, es un dia MUY caluroso y excesivamente humedo. Usted ve a varios de sus colegas sentados en el suelo muy agobiados y con muy mal semblante, a quien se debe ayudar primero?",
+    "options": [
+      "A la mujer que tiene la piel enrojecida, seca, arrugada, sin sudoracion y no responde a ninguna pregunta.",
+      "A la mujer empapada en sudor y se queja del caloron!.",
+      "Al hombre que esta empapado de sudor y la piel descolorida.",
+      "A la mujer sentada en el suelo con la piel humeda y ceniza y esta sudando demasiado."
+    ],
+    "correct": 0,
+    "feedback": "Priorizar a la persona con signos de golpe de calor (piel caliente/seca, alteración del sensorio).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q067",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "El musculo ___________ se encuentra en la fosa anterior de la escapula.",
+    "options": [
+      "Subescapular.",
+      "Serrato posterior superior.",
+      "Serrato anterior.",
+      "Infraespinoso."
+    ],
+    "correct": 0,
+    "feedback": "El subescapular ocupa la fosa subescapular (cara anterior de la escápula).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q068",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "La disminucion en la hipertonia es un efecto reflejo de este masaje terapeutico:",
+    "options": [
+      "Gimnasia sueca.",
+      "Petrissage.",
+      "Vibracion intensa.",
+      "Golpeteo."
+    ],
+    "correct": 1,
+    "feedback": "El petrissage relaja musculatura y reduce hipertonía.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q069",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Este es efecto mecanico de la tecnica de vibraciones profunda:",
+    "options": [
+      "Isquemia momentanea.",
+      "El adormecimiento del sistema nervioso.",
+      "Estimula la actividad sinovial.",
+      "Disminucion del dolor."
+    ],
+    "correct": 2,
+    "feedback": "La vibración profunda puede estimular la producción/flujo sinovial.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q070",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Cual sistema ayuda a definir la forma de los huesos y tambien incrementa su fuerza?",
+    "options": [
+      "Cardiovascular.",
+      "Endocrino.",
+      "Muscular.",
+      "Nervioso."
+    ],
+    "correct": 2,
+    "feedback": "Las fuerzas musculares condicionan la forma/fuerza ósea (ley de Wolff).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q071",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "La inervacion para el musculo romboides menor es en:",
+    "options": [
+      "El pectoral medial C8, T1.",
+      "El cervical C3, 4 y dorsal de la escapula C5.",
+      "El nervio toracico posterior C5 a 7.",
+      "El nervio dorsal de la escapula C5."
+    ],
+    "correct": 1,
+    "feedback": "Romboides menor: nervio dorsal de la escápula (C5).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q072",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Cual es el punto gatillo que activa el dolor solamente al efectuarse palpacion?",
+    "options": [
+      "Punto de activacion activo.",
+      "Punto de activacion secundario.",
+      "Punto de activacion latente.",
+      "Punto de activacion primario."
+    ],
+    "correct": 2,
+    "feedback": "Punto gatillo latente duele a la palpación/movimiento, no en reposo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q073",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Cuales son la glandulas en la dermis reticular que ayudan a segregar diferentes clases de liquidos?",
+    "options": [
+      "Sebaceas",
+      "Sudoripara",
+      "Grasosas",
+      "Variantes"
+    ],
+    "correct": 1,
+    "feedback": "Glándulas sudoríparas secretan sudor; sebáceas secretan sebo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q074",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "La enfermedad de Still y la artritis reumatoide juvenil son artritis inflamatorias y se les define asi:",
+    "options": [
+      "Triada de artritis, conjuntivitis, uretritis no gonococica y en consecuencia el tracto intestinal o urinario se inflaman.",
+      "Enfermedad cronica destructiva autoinmune de multiples articulaciones y del tejido conectivo.",
+      "Trastorno autoinmune que afecta a todo el cuerpo esparciendo lentamente fibrosis y almacenamientos de colageno.",
+      "Enfermedad de la inflamacion sinovial en los menores."
+    ],
+    "correct": 3,
+    "feedback": "AR juvenil (Still): artritis inflamatoria de la sinovial en menores.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q075",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "___________ es una linea que baja medialmente al suelo o por el centro del cuerpo dividiendolo con una linea vertical en derecha e izquierda en partes iguales:",
+    "options": [
+      "El medio sagital",
+      "La linea oblicua",
+      "El plano frontal",
+      "El plano transversal"
+    ],
+    "correct": 0,
+    "feedback": "Plano medio sagital divide el cuerpo en derecha/izquierda iguales.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q076",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "El sistema inmunologico del organismo puede crear _________ para defenderse de las particulas desconocidas.",
+    "options": [
+      "Antagonistas.",
+      "Antigenos.",
+      "Anticuerpos.",
+      "Antogonos."
+    ],
+    "correct": 2,
+    "feedback": "El sistema inmune produce anticuerpos contra antígenos extraños.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q077",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Este musculo se origina en el proceso espinoso de la tercera a la sexta vertebra toracica:",
+    "options": [
+      "Spinalis thoracis.",
+      "Semispinalis cervicis.",
+      "Occipital.",
+      "Esplenio del cuello."
+    ],
+    "correct": 0,
+    "feedback": "Spinalis thoracis nace en espinosas torácicas medias.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q078",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Como se le llama a la accion de levantar el brazo hacia afuera del cuerpo?",
+    "options": [
+      "ABduccion",
+      "ADuccion",
+      "Flexion",
+      "Extension"
+    ],
+    "correct": 0,
+    "feedback": "Abducción = alejar del plano medio.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q079",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Para tratar correctamente la fascitis plantar aguda el tratamiento de hidroterapia mas eficiente es el siguiente:",
+    "options": [
+      "La hidroterapia de calor humedo, seguida por el estiramiento del musculo gastrocnemio y el soleo.",
+      "Colocar al cliente en decubito prono con compresas frias en los pies, despues aplicar drenaje linfatico bilateral iniciando en el sacro.",
+      "No hacer nada con fascitis plantar en fase aguda, hacer el trabajo de manipulacion proximal a los pies.",
+      "Termoterapia inmediata."
+    ],
+    "correct": 2,
+    "feedback": "En fase aguda, evitar trabajo directo local intenso; tratar proximal y descargar.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q080",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Como se describe el acoso sexual?",
+    "options": [
+      "La platica entre personas respecto de la sexualidad y las maneras en como puede afectar la relacion terapeuta-cliente.",
+      "Una peticion sexual que se limita a una sola insinuacion y despues una disculpa por el comentario.",
+      "La insinuacion provocativa, avances fisicos o conducta verbal labiosa, erotica o morbosa.",
+      "La imaginacion silenciosa pero continua de fantasias y recordar constantemente en la otra persona."
+    ],
+    "correct": 2,
+    "feedback": "Acoso sexual incluye insinuaciones/propuestas y conducta erótica inapropiada.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q081",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Una lesion al nervio mediano de los nervios espinales C8 y T1 y al filamento lateral C5 a C7 del plexo braquial se le denomina como:",
+    "options": [
+      "Trastorno del Sistema Nervioso Periferico.",
+      "Trastorno del Sistema Nervioso Central.",
+      "Disfuncion postural.",
+      "Patologia circulatoria."
+    ],
+    "correct": 0,
+    "feedback": "Lesión de nervios periféricos/plexo braquial = SNP.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q082",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Cual es el musculo abdominal que esta mas profundo en referencia a la cara lateral de los abdominales?",
+    "options": [
+      "Intercostales externos.",
+      "Oblicuos internos.",
+      "Oblicuos externos.",
+      "Transverso del abdomen."
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica/ética estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q083",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Cuantas semanas hay en un embarazo de plazo completo a partir del primer dia de la ultima menstruacion?",
+    "options": [
+      "36",
+      "40",
+      "43",
+      "48"
+    ],
+    "correct": 1,
+    "feedback": "Gestación humana a término: ~40 semanas desde FUM.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q084",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Para lograr una postura equilibrada de pie durante un masaje el terapeuta debe:",
+    "options": [
+      "Inclinar la cabeza y cuello de lado ritmicamente.",
+      "Girar la cabeza medialmente hacia el lado opuesto del pie principal.",
+      "Alinear la cabeza y cuello con la espina, pelvis, piernas y pies.",
+      "Hacer rotacion lateral de la cabeza y cuello hacia el mismo lado del pie principal."
+    ],
+    "correct": 2,
+    "feedback": "Alineación cabeza‑columna‑pelvis‑piernas‑pies = base de ergonomía.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q085",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "De las siguientes cual es la MEJOR terapia para un cliente que se siente muy estresado?",
+    "options": [
+      "Masaje vigoroso y muy estimulante.",
+      "La presion repetitiva sobre la aorta abdominal.",
+      "Terapia de puntos gatillo (trigger points).",
+      "Todas las respuestas son acertadas"
+    ],
+    "correct": 2,
+    "feedback": "Terapia focal y calmante supera técnicas vigorosas bajo estrés; evitar opciones peligrosas.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q086",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Amanda es normalmente muy maternal y considerada sin embargo ultimamente ha sido demasiado complaciente, ha estado algo deprimida y esta subiendo de peso. Tambien le ha sido muy dificil despertarse temprano y tiene congestion por sinusitis desde hace meses. Se siente desequilibrada y se pregunta si tienes alguna idea para ayudarle a recuperar su vitalidad. Que modalidad ayudara a Amanda obtener un buen plan de tratamiento que incluya dieta y ejercicio para ayudarla a recobrar vitalidad?",
+    "options": [
+      "Masaje Ortopedico.",
+      "Aromaterapia.",
+      "Trabajo Corporal Ayurvedico.",
+      "Balanceo de cuerpo."
+    ],
+    "correct": 2,
+    "feedback": "Ayurveda integra hábitos, dieta y movimiento personalizados.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q087",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "La enfermedad degenerativa del disco es la atrofia de las fibras anulares de los discos intervertebrales y se le denomina:",
+    "options": [
+      "Lesion por exceso de uso.",
+      "Disfuncion de la articulacion.",
+      "Disfuncion postural.",
+      "Lesion musculoesqueletica."
+    ],
+    "correct": 3,
+    "feedback": "Es una lesión musculoesquelética degenerativa.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q088",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Los nervios axilares C5, 6 enraman al musculo ________ .",
+    "options": [
+      "Dorsal ancho.",
+      "Supraespinoso.",
+      "Redondo mayor.",
+      "Redondo menor."
+    ],
+    "correct": 3,
+    "feedback": "Nervio axilar inerva deltoides y redondo menor.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q089",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Para poder palparle las fibras superiores del musculo trapecio, con el cliente en decubito prono, que le pide el terapeuta al cliente que haga?",
+    "options": [
+      "Que flexione la cabeza con la cara en reposo.",
+      "Que extienda la cabeza a una distancia de un cuarto de pulgada de la cara en reposo.",
+      "Que flexione lateralmente la cabeza hacia el oido derecho.",
+      "Que gire su cabeza de lado a lado."
+    ],
+    "correct": 2,
+    "feedback": "La flexión lateral contra gravedad resalta fibras superiores del trapecio.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q090",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Este es el ligamento en la columna cervical que limita la flexion lateral y rotacion:",
+    "options": [
+      "Ligamento nucal.",
+      "Ligamento transverso.",
+      "Ligamento apical.",
+      "Ligamento alar."
+    ],
+    "correct": 3,
+    "feedback": "Ligamentos alares limitan rotación/flexión lateral atlantoaxial.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q091",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Como se describe el acoso sexual?",
+    "options": [
+      "La platica entre personas respecto de la sexualidad y las maneras en como puede afectar la relacion terapeuta-cliente.",
+      "Una peticion sexual que se limita a una sola insinuacion y despues una disculpa por el comentario.",
+      "La insinuacion provocativa, avances fisicos o conducta verbal labiosa, erotica o morbosa.",
+      "La imaginacion silenciosa pero continua de fantasias y recordar constantemente en la otra persona."
+    ],
+    "correct": 2,
+    "feedback": "Acoso sexual incluye insinuaciones/propuestas y conducta erótica inapropiada.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q092",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "El musculo biceps braquial es antagonista del:",
+    "options": [
+      "Braquiorradial",
+      "Braquial",
+      "Pectoral menor",
+      "Triceps"
+    ],
+    "correct": 3,
+    "feedback": "Antagonistas en el codo: bíceps ↔ tríceps.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q093",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "El cliente se dispone a recibir la terapia y le dice al terapeuta que un familiar acaba de fallecer. Cual es la actitud adecuada que el terapeuta debe tomar?",
+    "options": [
+      "Indicarle al cliente que se vaya con el doctor familiar",
+      "Decirle que se tranquilice y agendarle cita para otro dia",
+      "Darle sesion de psicoterapia y consejos durante toda la sesion de masaje",
+      "Empatizar con el cliente y adaptar el masaje observando las reacciones del cliente"
+    ],
+    "correct": 3,
+    "feedback": "Empatía y adaptar el masaje a la situación del cliente.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q094",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Cual es la union tendinosa del musculo que mantiene a la rotula en su lugar?",
+    "options": [
+      "El tendon del musculo recto anterior.",
+      "El ligamento isquiotibial.",
+      "El tensor de la fascia lata.",
+      "El ligamento del musculo vasto intermedio (vastus intermedius)."
+    ],
+    "correct": 0,
+    "feedback": "Tendón cuadricipital (incluye recto femoral) y retináculos estabilizan la rótula.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q095",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "La rotacion hacia abajo y la retraccion (ADuccion) de la escapula son las acciones de estos dos musculos:",
+    "options": [
+      "Romboides mayor y menor.",
+      "Pectoral menor y mayor.",
+      "Redondo menor y mayor.",
+      "Redondo mayor y menor."
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica/ética estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q096",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "La A en el acronimo SOAP significa:",
+    "options": [
+      "Argucia.",
+      "Analisis.",
+      "Acuerdo.",
+      "Acceso."
+    ],
+    "correct": 1,
+    "feedback": "S: Subjetivo, O: Objetivo, A: Análisis/Valoración, P: Plan.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q097",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Cuales son las dos hormonas especificas que los ovarios liberan?",
+    "options": [
+      "Androgeno y estrogeno.",
+      "Progesterona y estrogenos.",
+      "FSH y LH.",
+      "Progesterona y andogeno."
+    ],
+    "correct": 1,
+    "feedback": "Ovarios: estrógenos y progesterona.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q098",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Antes de aplicar masaje ________ al cliente que padece de hipertension, enfermedades del corazon, venas varicosas o edemas por coagulos en las venas, el terapeuta debe conocer la condicion clinica de acuerdo a lo que indique el medico.",
+    "options": [
+      "Effleurage profundo o superficial.",
+      "Aromaterapia.",
+      "Fitoterapia.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correct": 0,
+    "feedback": "Consultar la condición clínica antes de effleurage en casos vasculares.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q099",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Cuales son los dos musculos que ADucen a la escapula?",
+    "options": [
+      "Dorsal ancho (Latissimus dorsi) y Romboides",
+      "Romboides y Trapecio (fibras mediales)",
+      "Romboides y Dorsal ancho (Latissimus dorsi)",
+      "Dorsal ancho (Latissimus dorsi) y Trapecio"
+    ],
+    "correct": 1,
+    "feedback": "Romboides y fibras medias del trapecio aducen la escápula.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q100",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "El relajamiento de los musculos y la disminucion en la hipertonia es un efecto reflejo de esta tecnica de tratamiento terapeutico:",
+    "options": [
+      "Effleurage superficial.",
+      "Friccion con calor.",
+      "Gimnasia sueca.",
+      "Vibracion aspera."
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica/ética estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q101",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Que musculo se origina en los bordes inferiores de las costillas y se inserta en los bordes superiores de las costillas, expandiendo las costillas?",
+    "options": [
+      "Intercostales externos.",
+      "Diafragma.",
+      "Oblicuos externos..",
+      "Oblicuos internos."
+    ],
+    "correct": 0,
+    "feedback": "Intercostales externos elevan costillas durante inspiración.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q102",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "El aumento de intercambios gaseosos internos es un efecto reflejo de esta tecnica de tratamiento terapeutico:",
+    "options": [
+      "Effleurage ligero.",
+      "Aromaterapia.",
+      "Tapotement.",
+      "Vibracion sutil."
+    ],
+    "correct": 3,
+    "feedback": "Vibración suave puede facilitar la ventilación y el intercambio gaseoso.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q103",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "El musculo superficial pectoralis major se divide en tres secciones, fibras claviculares, esternales y costales. Este musculo es tambien un antagonista para si mismo con sus fibras superiores e inferiores. Cual es la accion de las fibras superiores?",
+    "options": [
+      "Extension y ADuccion de la articulacion glenohumeral.",
+      "Extension de la articulacion glenohumeral.",
+      "Flexion y ABduccion horizontal de la articulacion glenohumeral.",
+      "Flexion y ADduccion horizontal de la articulacion glenohumeral."
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica/ética estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q104",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "En cual cavidad del cuerpo debe insertarse una aguja si el neurocirujano da la orden de efectuar una puncion lumbar?",
+    "options": [
+      "Ventral.",
+      "Espinal.",
+      "Pelvica.",
+      "Craneal."
+    ],
+    "correct": 1,
+    "feedback": "La punción lumbar accede al canal espinal (espacio subaracnoideo).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q105",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Cual de los siguientes sistemas del cuerpo se encarga de disolver los alimentos para su absorcion en la sangre?",
+    "options": [
+      "Sistema digestivo.",
+      "Sistema linfatico.",
+      "Sistema endocrino.",
+      "Sistema nervioso."
+    ],
+    "correct": 0,
+    "feedback": "El sistema digestivo descompone y absorbe los nutrientes.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q106",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Todas las siguientes son patologias que pueden provocar la hipercifosis, excepto:",
+    "options": [
+      "La osteoporosis.",
+      "Espondilitis anquilosante.",
+      "La artritis reumatoide.",
+      "El Mal de Pott."
+    ],
+    "correct": 2,
+    "feedback": "Osteoporosis, EA (anquilosante) y Mal de Pott pueden causar cifosis; AR menos típico.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q107",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "El musculo___________ hace que el omoplato se eleve.",
+    "options": [
+      "Subscapularis.",
+      "Levator scapula.",
+      "Supraspinatus.",
+      "Infraspinatus."
+    ],
+    "correct": 1,
+    "feedback": "Levator scapulae eleva el ángulo superior de la escápula.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q108",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "El medicamento (Rx) Cymbalta  es un inhibidor selectivo de la serotonina y la noreprinefina, es un antidepresivo y tambien se le conoce con el nombre de:",
+    "options": [
+      "Celecoxib",
+      "Aspirina",
+      "Warfarina sodica",
+      "Duloxetina"
+    ],
+    "correct": 0,
+    "feedback": "Duloxetina: ISRSN para depresión, ansiedad, dolor neuropático y SFC.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q109",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Cuando al dar masaje utiliza el dedo pulgar sin ningun refuerzo el terapeuta debe:",
+    "options": [
+      "Mantener su munieca (wrist) y antebrazo curveados.",
+      "Usar tambien su otro dedo pulgar.",
+      "Mantenerlo alineado con el radio.",
+      "Tensionar o reforzar apretando los musculos del antebrazo."
+    ],
+    "correct": 2,
+    "feedback": "Mantener el pulgar alineado con el radio protege la articulación.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q110",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "En el corazon la vena aorta sale del ventriculo ___________ y sus derivaciones irrigan a todos los __________ del cuerpo con sangre rica en oxigeno.",
+    "options": [
+      "Derecho - vasos",
+      "Izquierdo - tejidos",
+      "Derecho - capilares",
+      "Izquierdo - mitrales"
+    ],
+    "correct": 1,
+    "feedback": "La aorta sale del ventrículo izquierdo y perfunde tejidos.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q111",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "La falta de vitamina D, la inflamacion y trastornos por alguna infeccion pueden provocar:",
+    "options": [
+      "Los puntos gatillo.",
+      "Espasmos musculares y calambres.",
+      "Contracciones prolongadas excentricas.",
+      "Contracciones prolongadas concentricas."
+    ],
+    "correct": 1,
+    "feedback": "Desequilibrios minerales/vitamina D pueden asociarse con calambres y espasmos.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q112",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Uno de tus clientes frecuentes te confiesa que le gustaria salir contigo algun dia. Cual es el procedimiento adecuado para cambiar la relacion de Cliente-Terapeuta?",
+    "options": [
+      "Seguir con el plan de tratamiento en la fecha prevista y comenzar la relacion intima a la brevedad posible.",
+      "El cliente debe encontrar otro terapeuta para su tratamiento y esperar tres meses antes de comenzar otra clase de relacion contigo.",
+      "Decirle al cliente que se necesita finalizar de manera clara la relacion de terapeuta-cliente, referirlo a otro terapeuta y empezar a frecuentarse ya la semana entrante.",
+      "Empezar a tantear la situacion para ver si son compatibles platicando sobre relaciones intimas del pasado."
+    ],
+    "correct": 0,
+    "feedback": "Respuesta seleccionada por concordancia médica/ética estándar cuando el enunciado es ambiguo.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q113",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Este musculo, aunque es muy chico, es uno de los mas potentes del cuerpo y puede soportar casi ciento cincuenta libras de fuerza:",
+    "options": [
+      "Escaleno anterior",
+      "Pterigoideo medial",
+      "Musculo redondo menor",
+      "Masetero"
+    ],
+    "correct": 3,
+    "feedback": "El masetero puede generar fuerzas de mordida muy elevadas.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q114",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "La falta de insulina provoca el siguiente trastorno:",
+    "options": [
+      "Hipoglucemia.",
+      "Hiperglucemia.",
+      "Plexopatia.",
+      "Retinopatia."
+    ],
+    "correct": 1,
+    "feedback": "Sin insulina, la glucosa no entra a las células ⇒ hiperglucemia.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q115",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Las actividades repetitivas que incluyen la desviacion radial forzada y supinacion constante como sucede en los atletas en silla de ruedas y en los deportes de raqueta puede causar trastorno a:",
+    "options": [
+      "Los tendones del manguito rotador.",
+      "La cabeza larga del tendon del biceps.",
+      "El tendon del flexor comun.",
+      "El tendon del extensor comun."
+    ],
+    "correct": 3,
+    "feedback": "Sobreuso en desviación radial/supinación afecta el origen extensor común (epicóndilo lateral).",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q116",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "El sistema Endocrino libera adrenalina para influir en la dilatacion de los bronquiolos del:",
+    "options": [
+      "Sistema nervioso.",
+      "Sistema digestivo.",
+      "Sistema respiratorio.",
+      "Sistema linfatico."
+    ],
+    "correct": 2,
+    "feedback": "Adrenalina (SNA/endo) causa broncodilatación en vías respiratorias.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q117",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "________  es el codigo de la moral y los lineamientos para la conducta profesional correcta.",
+    "options": [
+      "La etica profesional",
+      "El reglamento implicito",
+      "El derecho laboral",
+      "Todas las respuestas son correctas"
+    ],
+    "correct": 0,
+    "feedback": "Ética profesional guía la conducta correcta.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q118",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "Al entablar la comunicacion con el cliente el terapeuta debe tener cuidado de no persuadirlo a que haga suposiciones acerca de sus sintomas. Que clase de preguntas son estas que permiten que el cliente se exprese libremente?",
+    "options": [
+      "Preguntas cerradas.",
+      "Guiadas.",
+      "Orientadas.",
+      "Abiertas."
+    ],
+    "correct": 3,
+    "feedback": "Preguntas abiertas fomentan respuestas no dirigidas ni sesgadas.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q119",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "__________ es una enfermedad inflamatoria de la piel y son lesiones cutaneas rojizas y escamosas, dan comezon, dolor e hinchazon.",
+    "options": [
+      "La verruga.",
+      "El impetigo.",
+      "La psoriasis.",
+      "La alopecia."
+    ],
+    "correct": 2,
+    "feedback": "Psoriasis: placas eritematodescamativas pruriginosas.",
+    "difficulty": "medium",
+    "language": "es"
+  },
+  {
+    "id": "rand_q120",
+    "category_id": "random_miscellaneous_therapeutic_massage",
+    "question": "El plano ________  es la ubicacion de los musculos abdominales del cuerpo, viendolo de frente.",
+    "options": [
+      "Anterior",
+      "Inferior",
+      "Superior",
+      "Dorsal"
+    ],
+    "correct": 0,
+    "feedback": "Los músculos abdominales se sitúan en el plano anterior (vista anterior).",
+    "difficulty": "medium",
+    "language": "es"
+  }
+]

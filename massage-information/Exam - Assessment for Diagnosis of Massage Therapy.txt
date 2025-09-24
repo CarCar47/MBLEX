@@ -1,0 +1,2042 @@
+[
+{
+"id": "q001",
+"category_id": "kinesiology",
+"question": "Cual es el grupo de musculos a cargo de que la pelvis se incline hacia adelante (anterior) y hacia atras (posterior)?",
+"image": "N/A",
+"options": [
+"Anterior: Latissimus dorsi (dorsal ancho) y posterior: biceps femoris y psoas minor",
+"Anterior: Trapezius y posterior: biceps femoris y psoas minor.",
+"Anterior: Psoas minor y posterior: biceps femoris y semitendinosus.",
+"Anterior: Latissimus dorsi (dorsal ancho) y posterior: quadratus lumborum y psoas minor."
+],
+"correct": 2,
+"rationale_correct": "¡Excelente! El psoas minor contribuye a la inclinación anterior de la pelvis, mientras que el bíceps femoral y semitendinoso ayudan en la inclinación posterior.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el grupo correcto es anterior: psoas minor y posterior: biceps femoris y semitendinosus, ya que estos músculos controlan las inclinaciones respectivas de la pelvis.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q002",
+"category_id": "anatomy_physiology",
+"question": "La rama del plexo braquial de la columna que sirve a la parte proximal del brazo es este nervio:",
+"image": "N/A",
+"options": [
+"Nervio musculocutaneo.",
+"Nervio mediano.",
+"Nervio radial.",
+"Nervio axilar."
+],
+"correct": 0,
+"rationale_correct": "¡Excelente! El nervio musculocutáneo inerva los músculos proximales del brazo como el bíceps braquial y el coracobraquial.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el nervio musculocutáneo es el que sirve a la parte proximal del brazo desde el plexo braquial.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q003",
+"category_id": "anatomy_physiology",
+"question": "En Anatomia a la parte frontal del cuerpo humano se le conoce como:",
+"image": "N/A",
+"options": [
+"Posterior",
+"Anterior",
+"Inferior",
+"Superior"
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! La parte frontal del cuerpo se denomina anterior en términos anatómicos.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la parte frontal del cuerpo humano se conoce como anterior en anatomía.",
+"difficulty": "easy",
+"language": "es"
+},
+{
+"id": "q004",
+"category_id": "client_assessment",
+"question": "A la vez que el terapeuta hace la valoracion y evaluacion hay tres clases de preguntas que son parte del protocolo con el fin de recabar informacion relevante para el plan de tratamiento. Estas son las preguntas generales, las especificas y las enfocadas al dolor. Esta es una pregunta especifica:",
+"image": "N/A",
+"options": [
+"Prefiere las terapia una o dos veces al mes?.",
+"Siente dolor en este momento o se siente relajado?.",
+"Puede usted describirme la lesion? fue causado por golpe o empezo gradualmente?.",
+"Tiene usted familiares con este mismo mismo trastorno?."
+],
+"correct": 2,
+"rationale_correct": "¡Excelente! Describir la lesión y cómo comenzó es una pregunta específica relacionada con la condición actual.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la pregunta específica es la que describe la lesión y si fue por golpe o gradual, ya que se centra en detalles de la condición.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q005",
+"category_id": "kinesiology",
+"question": "El musculo romboides mayor y menor son totalmente sinergistas y estan superficiales en el grupo erector de la columna y profundos en el trapecio, entre el borde medial de la escapula y la apofisis espinosa de la vertebra toracica. Cuales son las tres acciones que el romboides mayor y menor hacen para la escapula?",
+"image": "N/A",
+"options": [
+"ABduccion, elevacion y rotacion hacia abajo.",
+"ABduccion, presion y rotacion hacia arriba.",
+"ADuccion, presion y rotacion hacia abajo.",
+"ADuccion, elevacion y rotacion hacia abajo."
+],
+"correct": 3,
+"rationale_correct": "¡Excelente! Los romboides realizan aducción, elevación y rotación hacia abajo de la escápula.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero las acciones de los romboides mayor y menor son aducción, elevación y rotación hacia abajo de la escápula.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q006",
+"category_id": "pathology_contraindications",
+"question": "Segun la clasificacion de Foreman y Croft, en el latigazo cervical la lesion tiene cuatro fases. La segunda fase es:",
+"image": "N/A",
+"options": [
+"Cronica o permanente.",
+"Fase de restauracion, 14 semanas a 12 meses o mas despues del accidente.",
+"Subaguda, fase de recuperacion, 72 horas a 14 semanas despues del accidente.",
+"Lesion aguda, fase de inflamacion, hasta las primeras 72 horas despues del accidente."
+],
+"correct": 2,
+"rationale_correct": "¡Excelente! La segunda fase en la clasificación de Foreman y Croft es la subaguda, de 72 horas a 14 semanas.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la segunda fase es la subaguda, fase de recuperación de 72 horas a 14 semanas después del accidente.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q007",
+"category_id": "soft_tissue_benefits",
+"question": "Martha tiene trabajando 20 anios en un supermercado... Esta disciplina que, entre otros beneficios, ayuda a implementar mejores posturas corporales es:",
+"image": "N/A",
+"options": [
+"Amma.",
+"Tecnica Alexander.",
+"Estiramiento Aislado Activo.",
+"Acupresion."
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! La técnica Alexander se enfoca en mejorar la postura y la mecánica corporal.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la técnica Alexander ayuda a implementar mejores posturas corporales.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q008",
+"category_id": "anatomy_physiology",
+"question": "Esta es la postura del cuerpo que indica que una persona se encuentra acostada sobre la espalda:",
+"image": "N/A",
+"options": [
+"Posterior",
+"Ventral",
+"Supina",
+"Caudal"
+],
+"correct": 2,
+"rationale_correct": "¡Excelente! La postura supina se refiere a estar acostado sobre la espalda.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la postura supina indica estar acostado sobre la espalda.",
+"difficulty": "easy",
+"language": "es"
+},
+{
+"id": "q009",
+"category_id": "kinesiology",
+"question": "Si el cliente presenta una moderada inclinacion posterior de la pelvis, cuales son los tres musculos que se le estan estirando?",
+"image": "N/A",
+"options": [
+"Iliacus, psoas mayor y biceps femoris.",
+"Iliacus, psoas mayor y rectus femoris.",
+"Biceps femoris, gluteus maximus y semitendinoso.",
+"Gluteus maximus (todas las fibras), gluteus medius y aDuctor magnus."
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! En la inclinación posterior de la pelvis, los músculos ilíaco, psoas mayor y recto femoral se estiran.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero los músculos que se estiran son iliacus, psoas mayor y rectus femoris en una inclinación posterior moderada de la pelvis.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q010",
+"category_id": "anatomy_physiology",
+"question": "La rama del plexo cervical de la columna que inerva a los musculos del diafragma, hombros y cuello es el siguiente nervio:",
+"image": "N/A",
+"options": [
+"Nervio frenico.",
+"Nervio axilar.",
+"Nervio ulnar.",
+"Nervio radial."
+],
+"correct": 0,
+"rationale_correct": "¡Excelente! El nervio frénico inerva el diafragma y se origina del plexo cervical.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el nervio frénico es el que inerva los músculos del diafragma, hombros y cuello desde el plexo cervical.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q011",
+"category_id": "client_assessment",
+"question": "A la vez que el terapeuta hace la valoracion hay tres clases de preguntas que debe hacer con el fin de recabar informacion relevante para el plan de tratamiento que son las preguntas generales, las especificas y las que son enfocadas al dolor. Cual de las siguientes es una pregunta general?",
+"image": "N/A",
+"options": [
+"Cuales son especificamente sus medicamentos actuales para el problema de ahorita? son aspirinas, antiinflamatorios?.",
+"Que tan doloroso es? leve, moderado o severo?.",
+"Como considera su estado de salud habitual?.",
+"Recibio tratamiento medico o terapia antes de venir a que se le de masaje?."
+],
+"correct": 2,
+"rationale_correct": "¡Excelente! Preguntar por el estado de salud habitual es una pregunta general para recabar información amplia.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la pregunta general es cómo considera su estado de salud habitual, ya que abarca la salud en general.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q012",
+"category_id": "kinesiology",
+"question": "La postura corporal en equilibrio correcto se refiere a la alineacion del cuerpo con la eficiencia maxima tanto _________ como .",
+"image": "N/A",
+"options": [
+"Intelectual y mecanica.",
+"Fisiologica - ambigua.",
+"Fisiologica - mecanica.",
+"Fisica - emocional."
+],
+"correct": 2,
+"rationale_correct": "¡Excelente! La postura en equilibrio se alinea con eficiencia fisiológica y mecánica.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la postura corporal en equilibrio se refiere a la alineación con eficiencia máxima tanto fisiológica como mecánica.",
+"difficulty": "easy",
+"language": "es"
+},
+{
+"id": "q013",
+"category_id": "pathology_contraindications",
+"question": "El terapeuta debe informarle a su cliente de los siguientes cambios que observa en la pigmentacion de su piel:",
+"image": "N/A",
+"options": [
+"Manchas de color raro, figura o dimension",
+"Manchitas que son pecas chiquitas y son similares",
+"No es necesario informarle ya que el terapeuta asume que el cliente sabe",
+"Un bronceado color canela"
+],
+"correct": 0,
+"rationale_correct": "¡Excelente! Manchas de color, figura o dimensión inusuales deben reportarse al cliente para evaluación médica.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el terapeuta debe informar sobre manchas de color raro, figura o dimensión en la piel.",
+"difficulty": "easy",
+"language": "es"
+},
+{
+"id": "q014",
+"category_id": "pathology_contraindications",
+"question": "Pes cavus significa __________ del pie:",
+"image": "N/A",
+"options": [
+"el arco aplanado",
+"el arco acortado",
+"el arco superficial",
+"el arco muy elevado"
+],
+"correct": 3,
+"rationale_correct": "¡Excelente! Pes cavus se refiere a un arco del pie muy elevado.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero pes cavus significa el arco muy elevado del pie.",
+"difficulty": "easy",
+"language": "es"
+},
+{
+"id": "q015",
+"category_id": "client_assessment",
+"question": "Esta definicion explica lo referente a las observaciones:",
+"image": "N/A",
+"options": [
+"Claves visuales que buscan obtener informacion objetiva referente a la condicion del cliente.",
+"Preguntas abiertas que se hacen para obtener la informacion correcta de acuerdo al trastorno del cliente.",
+"Preguntas cerradas que se se hacen para obtener informacion concreta de la afeccion del cliente.",
+"La colocacion de las manos del terapeuta sobre la piel del cliente para efectuar la palpacion."
+],
+"correct": 0,
+"rationale_correct": "¡Excelente! Las observaciones son claves visuales para obtener información objetiva sobre la condición del cliente.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero las observaciones se refieren a claves visuales que buscan obtener información objetiva referente a la condición del cliente.",
+"difficulty": "easy",
+"language": "es"
+},
+{
+"id": "q016",
+"category_id": "anatomy_physiology",
+"question": "Los musculos _________ y ________ comparten la inervacion del nervio dorsal escapular C5.",
+"image": "N/A",
+"options": [
+"Pectoral mayor y menor.",
+"Esplenio de la cabeza y cervical.",
+"Redondo mayor y menor.",
+"Romboides menor y mayor."
+],
+"correct": 3,
+"rationale_correct": "¡Excelente! Los romboides menor y mayor comparten la inervación del nervio dorsal escapular C5.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero los músculos romboides menor y mayor comparten la inervación del nervio dorsal escapular C5.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q017",
+"category_id": "pathology_contraindications",
+"question": "El terapeuta ha estado tratando a un cliente con latigazo cervical y el cliente dice no sentir mejoria alguna, que paso se debe seguir ahora?",
+"image": "N/A",
+"options": [
+"Continuar con masajes e informarle al cliente que la unica manera de recuperarse es abstenerse de mover el cuello",
+"Referirlo con un quiropractico, fisioterapeuta o un osteopata",
+"El terapeuta alterna con diferentes tecnicas de masaje ancestral",
+"El terapeuta le aplica los masajes con piedras calientes e hidroterapia"
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! Si no hay mejoría, se debe referir al cliente a un quiropráctico, fisioterapeuta o osteópata para evaluación adicional.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el paso correcto es referirlo con un quiropráctico, fisioterapeuta o osteópata si no hay mejoría.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q018",
+"category_id": "client_assessment",
+"question": "La prueba de compresion del punto gatillo evalua el nivel de dolor que es causado por los puntos hiperirritables __________ que se activan con movimiento unicamente y no cuando el cliente esta en reposo.",
+"image": "N/A",
+"options": [
+"Primarios.",
+"Secundarios.",
+"Activos.",
+"Latentes."
+],
+"correct": 3,
+"rationale_correct": "¡Excelente! Los puntos gatillo latentes se activan con movimiento y no causan dolor en reposo.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero los puntos hiperirritables latentes se activan con movimiento únicamente y no en reposo.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q019",
+"category_id": "client_assessment",
+"question": "A la vez que el terapeuta hace la valoracion y evaluacion hay tres clases de preguntas que son parte del protocolo con el fin de recabar informacion relevante para el plan de tratamiento. Estas son las preguntas generales, las especificas y las enfocadas al dolor. Esta es una pregunta general:",
+"image": "N/A",
+"options": [
+"Tiene usted alguna enfermedad como diabetes, hipertension o cancer?.",
+"Si el inicio fue gradual, cuando observo los sintomas por primera vez?.",
+"Recibio tratamiento medico o terapia antes de venir a que se le de masaje?.",
+"El dolor se desplaza o se desvia a otras partes?."
+],
+"correct": 0,
+"rationale_correct": "¡Excelente! Preguntar por enfermedades como diabetes o hipertensión es una pregunta general sobre la salud.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la pregunta general es si tiene enfermedades como diabetes, hipertensión o cáncer.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q020",
+"category_id": "client_assessment",
+"question": "La amplitud de oscilacion normal requiere del buen funcionamiento de todos los tejidos y sus movimientos dentro de los limites naturales. En la valoracion del rango de movimiento activo que debe suceder en la capsula articular y en los ligamentos cuando se efectua la valoracion de su funcionalidad?",
+"image": "N/A",
+"options": [
+"Se deben estirar o acortar para crear el movimiento.",
+"Deben estabilizar la articulacion y permitir que la articulacion se mueva.",
+"Se deben sostener en un solo plano para permitir el movimiento articular.",
+"Deben quedarse estaticos hasta que el cliente los mueva con el otro brazo."
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! La cápsula articular y ligamentos deben estabilizar la articulación y permitir el movimiento durante la valoración activa.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero en la valoración del rango de movimiento activo, la cápsula y ligamentos deben estabilizar la articulación y permitir que se mueva.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q021",
+"category_id": "client_assessment",
+"question": "A la vez que el terapeuta hace la valoracion y evaluacion hay tres clases de preguntas que son parte del protocolo con el fin de recabar informacion relevante para el plan de tratamiento. Estas son las preguntas generales, las especificas y las enfocadas al dolor. Esta es una pregunta especifica:",
+"image": "N/A",
+"options": [
+"Le ha sucedido esto antes?.",
+"Hay algo en sus alimentos que esta contribuyendo al problema?.",
+"Existen antecedentes familiares con este mismo trastorno?.",
+"Prefiere el ejercicio aerobico o el jogging?."
+],
+"correct": 2,
+"rationale_correct": "¡Excelente! Preguntar por antecedentes familiares del trastorno es una pregunta específica relacionada con la condición.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la pregunta específica es si existen antecedentes familiares con este mismo trastorno.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q022",
+"category_id": "pathology_contraindications",
+"question": " es un trastorno potencialmente mortal que puede desarrollarse despues de una enfermedad grave.",
+"image": "N/A",
+"options": [
+"Un recuerdo memorable que afecta las emociones de la persona.",
+"Una herida en los tejidos blandos mas un morete enorme.",
+"La conmocion cerebral.",
+"Un esguince en el ligamento o en la articulacion."
+],
+"correct": 2,
+"rationale_correct": "¡Excelente! La conmoción cerebral es un trastorno potencialmente mortal que puede desarrollarse después de una lesión grave.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la conmoción cerebral es el trastorno potencialmente mortal que puede desarrollarse después de una enfermedad grave.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q023",
+"category_id": "kinesiology",
+"question": "Que musculos son los que estan jalados (estirados) con pie cavo?",
+"image": "N/A",
+"options": [
+"Gluteus medius, gluteus minimus, tensor de la fascia lata, los gemelos y los aductores.",
+"Biceps femoral, gluteus maximus y semitendinoso.",
+"Soleo, tibial anterior, flexor digitorum longus posterior y flexor largo del dedo gordo.",
+"Peroneo largo, tibial anterior, flexor digitorum longus posterior y flexor largo del dedo gordo."
+],
+"correct": 3,
+"rationale_correct": "¡Excelente! En pie cavo, los músculos peroneo largo, tibial anterior, flexor digitorum longus posterior y flexor largo del dedo gordo se estiran.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero los músculos estirados en pie cavo son peroneo largo, tibial anterior, flexor digitorum longus posterior y flexor largo del dedo gordo.",
+"difficulty": "hard",
+"language": "es"
+},
+{
+"id": "q024",
+"category_id": "client_assessment",
+"question": "El terapeuta mueve el musculo ___________ del antebrazo de cliente porque le esta evaluando al efectuar la pronacion y supinacion simultaneamente.",
+"image": "N/A",
+"options": [
+"Biceps braquial.",
+"Braquiorradial.",
+"Pronador redondo.",
+"Supinador."
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! El braquiorradial se evalúa al realizar pronación y supinación simultáneamente.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el músculo que se mueve para evaluar pronación y supinación simultáneamente es el braquiorradial.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q025",
+"category_id": "client_assessment",
+"question": "A la vez que el terapeuta le esta haciendo la valoracion al cliente existen tres clases de preguntas obligatorias con el fin de recabar informacion relevante para el plan de tratamiento, estas son las preguntas generales, las especificas y las enfocadas al dolor. Esta es una pregunta enfocada al dolor:",
+"image": "N/A",
+"options": [
+"Existen familiares que padecen de la misma afeccion?.",
+"Como esta su estado de salud en general?.",
+"Cuanto tiempo exactamente le dura este insoportable dolor?.",
+"Hay algo en sus alimentos que este contribuyendo al problema?."
+],
+"correct": 2,
+"rationale_correct": "¡Excelente! Preguntar cuánto dura el dolor es una pregunta enfocada al dolor.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la pregunta enfocada al dolor es cuánto tiempo exactamente le dura este insoportable dolor.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q026",
+"category_id": "soft_tissue_benefits",
+"question": "A Marcela le acaba de informar su medico familiar que sus problemas digestivos se derivan de su higado. De las siguientes modalidades de tratamiento, cual le incluye hierbas que pueden limpiar el higado, purificar la sangre y mejorar la digestion?",
+"image": "N/A",
+"options": [
+"Balanceo de cuerpo.",
+"Masaje Ortopedico.",
+"Aromaterapia.",
+"Trabajo corporal ayurvedico."
+],
+"correct": 3,
+"rationale_correct": "¡Excelente! El trabajo corporal ayurvédico incluye hierbas para limpiar el hígado, purificar la sangre y mejorar la digestión.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el trabajo corporal ayurvédico es el que incluye hierbas para limpiar el hígado, purificar la sangre y mejorar la digestión.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q027",
+"category_id": "pathology_contraindications",
+"question": "Si el cliente presenta dolor cronico en la espalda baja, que musculo esta tenso y debilitado?",
+"image": "N/A",
+"options": [
+"Cuadrado lumbar.",
+"Triceps.",
+"Recto del abdomen.",
+"Trapecio mayor."
+],
+"correct": 0,
+"rationale_correct": "¡Excelente! El cuadrado lumbar a menudo está tenso y debilitado en casos de dolor crónico en la espalda baja.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el músculo tenso y debilitado en dolor crónico de espalda baja es el cuadrado lumbar.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q028",
+"category_id": "client_assessment",
+"question": "Son cuatro las herramientas para la valoracion al cliente, y son la prueba Visual, la Funcional, la Palpacion y prueba Manual para determinar planes de tratamiento. Que es lo que se detecta en la valoracion manual?",
+"image": "N/A",
+"options": [
+"Simetria bilateral y desviaciones musculares.",
+"Patrones de movimiento dolorosos, restringidos o anormales.",
+"Los relieves en la piel, las marcas, la textura, la forma de la superficie del cuerpo.",
+"Cual estructura es la involucrada, los tejidos blandos, disfuncion de la articulacion y la funcionalidad muscular."
+],
+"correct": 3,
+"rationale_correct": "¡Excelente! La valoración manual detecta la estructura involucrada, tejidos blandos, disfunción articular y funcionalidad muscular.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero en la valoración manual se detecta cuál estructura está involucrada, los tejidos blandos, disfunción de la articulación y la funcionalidad muscular.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q029",
+"category_id": "anatomy_physiology",
+"question": "Los musculos romboides son ________ a los musculos deltoides.",
+"image": "N/A",
+"options": [
+"Mediales",
+"Distales",
+"Laterales",
+"Anteriores"
+],
+"correct": 0,
+"rationale_correct": "¡Excelente! Los romboides son mediales a los deltoides en la anatomía.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero los músculos romboides son mediales a los deltoides.",
+"difficulty": "easy",
+"language": "es"
+},
+{
+"id": "q030",
+"category_id": "pathology_contraindications",
+"question": "Si el cliente sufre de trastorno grave de pie Varo, el ligamento lesionado es:",
+"image": "N/A",
+"options": [
+"Ligamento cruzado posterior.",
+"Ligamento cruzado anterior.",
+"Ligamento medial colateral.",
+"Ligamento lateral colateral."
+],
+"correct": 3,
+"rationale_correct": "¡Excelente! En pie varo grave, el ligamento lateral colateral está lesionado.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el ligamento lesionado en trastorno grave de pie varo es el ligamento lateral colateral.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q031",
+"category_id": "anatomy_physiology",
+"question": "El plexo nervioso de la columna que sirve a los musculos del diafragma, hombro y cuello es el:",
+"image": "N/A",
+"options": [
+"Plexo braquial.",
+"Plexo sacro.",
+"Plexo cervical.",
+"Plexo lumbar."
+],
+"correct": 2,
+"rationale_correct": "¡Excelente! El plexo cervical sirve a los músculos del diafragma, hombro y cuello.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el plexo nervioso que sirve a los músculos del diafragma, hombro y cuello es el plexo cervical.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q032",
+"category_id": "anatomy_physiology",
+"question": "El esqueleto apendicular esta compuesto por:",
+"image": "N/A",
+"options": [
+"Brazos, piernas, escapula, clavicula y cinturon pelvico",
+"Cinturones pectoral y pelvico",
+"El craneo, la columna vertebral, costillas, esternon y hueso hioides",
+"El craneo y la columna vertebral"
+],
+"correct": 0,
+"rationale_correct": "¡Excelente! El esqueleto apendicular incluye brazos, piernas, escápula, clavícula y cinturón pélvico.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el esqueleto apendicular está compuesto por brazos, piernas, escápula, clavícula y cinturón pélvico.",
+"difficulty": "easy",
+"language": "es"
+},
+{
+"id": "q033",
+"category_id": "soft_tissue_benefits",
+"question": "Tu cliente tiene sinusitis... Que modalidad de tratamiento puede aliviar la presion de la sinusitis?",
+"image": "N/A",
+"options": [
+"Tecnica Alexander.",
+"Acupresion.",
+"Estiramiento activo aislado.",
+"Patrones Aston."
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! La acupresión puede aliviar la presión de la sinusitis al estimular puntos específicos.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la acupresión es la modalidad que puede aliviar la presión de la sinusitis.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q034",
+"category_id": "soft_tissue_benefits",
+"question": "Ultimamente Bill ha estado olvidando detalles pequenios... Que modalidad de tratamiento le ayudara a darle el conocimiento que busca?",
+"image": "N/A",
+"options": [
+"Trabajo Corporal Ayurvedico.",
+"Masaje Ortopedico.",
+"Estiramiento Activo Aislado.",
+"Balanceo de cuerpo."
+],
+"correct": 0,
+"rationale_correct": "¡Excelente! El trabajo corporal ayurvédico proporciona conocimiento sobre equilibrio de estrés, dieta y ejercicio.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el trabajo corporal ayurvédico le ayudará a dar el conocimiento que busca sobre estrés, dieta y ejercicio.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q035",
+"category_id": "pathology_contraindications",
+"question": "Un cliente llega con el terapeuta despues de un accidente automovilistico y su medico le ha clasificado el latigazo cervical (whiplash) con impacto de Tipo 1, con un Grado 4 de severidad y en fase 4. Segun la Clasificacion de Foreman y Croft (F/C) esto se traduce en:",
+"image": "N/A",
+"options": [
+"Una colision de impacto trasero; Lesion grave requiere tratamiento quirurgico o estabilizacion; Lesion aguda, fase de inflamacion, hasta las primeras 72 horas despues del accidente.",
+"Colision de impacto trasero. Limitacion del movimiento moderada a severa, inestabilidad ligamentosa, alteraciones neurologicas estan presentes y existe fractura o trastorno del disco; esta en la Fase Cronica o Permanente.",
+"Colision de impacto lateral, con limitaciones moderadas; algunas lesiones ligamentosas y afectaciones neurologicos pueden estar presentes; se encuentra en la fase de restauracion, 14 semanas a 12 meses o mas despues del accidente.",
+"Colision de impacto frontal. El latigazo cervical presenta leve limitacion de movimiento, ausencia de afectacion ligamentosa o neurologica. Se encuentra en la fase subaguda: 72 horas a 14 semanas despues del accidente."
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! Tipo 1 es impacto trasero, grado 4 es severo con fractura o disco, y fase 4 es crónica según Foreman y Croft.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero se traduce en colisión de impacto trasero, limitación moderada a severa con inestabilidad, y fase crónica o permanente.",
+"difficulty": "hard",
+"language": "es"
+},
+{
+"id": "q036",
+"category_id": "soft_tissue_benefits",
+"question": "Paty esta experimentando un dolor en la espalda baja... Que modalidad de tratamiento podria interrumpir efectivamente los patrones somaticos de Paty?",
+"image": "N/A",
+"options": [
+"Acupresion.",
+"Tecnica Alexander.",
+"Terapia de Armonizacion.",
+"Estiramiento Aislado Activo."
+],
+"correct": 2,
+"rationale_correct": "¡Excelente! La terapia de armonización interrumpe patrones somáticos relacionados con trauma emocional.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la terapia de armonización podria interrumpir efectivamente los patrones somáticos.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q037",
+"category_id": "kinesiology",
+"question": "Que movimiento esta limitado por la articulacion coxal a causa de los cuatro ligamentos del cuello del femur?",
+"image": "N/A",
+"options": [
+"Flexion.",
+"Extension.",
+"Giro lateral.",
+"Giro medial,"
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! La extensión está limitada por los ligamentos de la articulación coxal.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el movimiento limitado por la articulación coxal debido a los ligamentos es la extensión.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q038",
+"category_id": "client_assessment",
+"question": "Existen cuatro herramientas en la valoracion al cliente que el terapeuta aplica y son la tecnica Visual, Funcional, Palpacion y la prueba Manual para los planes de tratamiento. Que informacion valiosa obtiene el terapeuta con la evaluacion visual?",
+"image": "N/A",
+"options": [
+"Cual estructura esta implicada, los tejidos blandos, disfuncion de la articulacion, o la funcion muscular.",
+"Simetria bilateral y alteraciones musculares.",
+"La forma de la superficie del cuerpo, la textura, la temperatura, los relieves y las cicatrices.",
+"Patrones de movimiento dolorosos, restringidos o anormales."
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! La evaluación visual proporciona información sobre simetría bilateral y alteraciones musculares.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero con la evaluación visual se obtiene simetría bilateral y alteraciones musculares.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q039",
+"category_id": "client_assessment",
+"question": "A la vez que el terapeuta hace la valoracion y evaluacion hay tres clases de preguntas que son parte del protocolo con el fin de recabar informacion relevante para el plan de tratamiento. Estas son las preguntas generales, las especificas y las enfocadas al dolor. Esta es una pregunta especifica:",
+"image": "N/A",
+"options": [
+"Como es su estado de salud en general?.",
+"Existen antecedentes familiares de esta misma enfermedad que presenta?.",
+"El dolor se desplaza o se desvia a otras partes?.",
+"Cual es el problema o afeccion principal?."
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! Preguntar por antecedentes familiares de la enfermedad es una pregunta específica.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la pregunta específica es si existen antecedentes familiares de esta misma enfermedad.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q040",
+"category_id": "pathology_contraindications",
+"question": "En que fase del sindrome de hombro congelado se encuentra el cliente si el dolor se localiza principalmente en la zona lateral del brazo?",
+"image": "N/A",
+"options": [
+"Aguda.",
+"Subaguda.",
+"Cronica.",
+"El dolor nunca es localizable."
+],
+"correct": 0,
+"rationale_correct": "¡Excelente! En la fase aguda del hombro congelado, el dolor se localiza principalmente en la zona lateral del brazo.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el dolor en la zona lateral del brazo indica la fase aguda del síndrome de hombro congelado.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q041",
+"category_id": "anatomy_physiology",
+"question": "La rama del plexo cervical de la columna que inerva a los musculos del diafragma, hombros y cuello es el siguiente nervio:",
+"image": "N/A",
+"options": [
+"Nervio frenico.",
+"Nervio axilar.",
+"Nervio ulnar.",
+"Nervio radial."
+],
+"correct": 0,
+"rationale_correct": "¡Excelente! El nervio frénico inerva los músculos del diafragma, hombros y cuello desde el plexo cervical.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el nervio frénico es el que inerva a los músculos del diafragma, hombros y cuello.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q042",
+"category_id": "anatomy_physiology",
+"question": "El plexo nervioso de la columna que envaina a la parte posterior de la pierna y el pie es:",
+"image": "N/A",
+"options": [
+"Plexo lumbar.",
+"Plexo sacro.",
+"Plexo braquial.",
+"Plexo cervical."
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! El plexo sacro envaina la parte posterior de la pierna y el pie.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el plexo sacro es el que envaina la parte posterior de la pierna y el pie.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q043",
+"category_id": "anatomy_physiology",
+"question": "Los escalenos anterior y medio comparten el mismo punto de insercion, este es:",
+"image": "N/A",
+"options": [
+"Apofisis transversas de C-2 a C-7.",
+"Apofisis transversas de C-3 a C-6.",
+"Primera costilla.",
+"Segunda costilla."
+],
+"correct": 2,
+"rationale_correct": "¡Excelente! Los escalenos anterior y medio se insertan en la primera costilla.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero los escalenos anterior y medio comparten inserción en la primera costilla.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q044",
+"category_id": "pathology_contraindications",
+"question": "El terapeuta ha estado tratando a un cliente con latigazo cervical y el cliente dice no sentir mejoria alguna, que paso se debe seguir ahora?",
+"image": "N/A",
+"options": [
+"Continuar con masajes e informarle al cliente que la unica manera de recuperarse es abstenerse de mover el cuello",
+"Referirlo con un quiropractico, fisioterapeuta o un osteopata",
+"El terapeuta alterna con diferentes tecnicas de masaje ancestral",
+"El terapeuta le aplica los masajes con piedras calientes e hidroterapia"
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! Si no hay mejoría, se debe referir al cliente a un quiropráctico, fisioterapeuta o osteópata.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el paso correcto es referirlo con un quiropráctico, fisioterapeuta o osteópata.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q045",
+"category_id": "kinesiology",
+"question": "Esta persona se sienta frente a una computadora por mas de 10 horas diarias de lunes a viernes, cuales son los cinco musculos de la cadera y del muslo que se alargan?",
+"image": "N/A",
+"options": [
+"Iliacus, psoas mayor, semitendinoso, semimembranoso y gluteus medious.",
+"Iliacus, gluteus maximus, biceps femoris, sartorio y gluteus medius..",
+"Iliacus, psoas major, rectus femoris, sartorio y gluteus medius.",
+"Gluteus maximus, biceps femoris, semitendinoso, semimembranoso y gluteus medius."
+],
+"correct": 3,
+"rationale_correct": "¡Excelente! Sentarse por largas horas alarga los músculos gluteus maximus, biceps femoris, semitendinoso, semimembranoso y gluteus medius.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero los músculos que se alargan son gluteus maximus, biceps femoris, semitendinoso, semimembranoso y gluteus medius.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q046",
+"category_id": "pathology_contraindications",
+"question": "En la zona ____________ del muslo proximal se puede evaluar la bursitis inflamada de los flexores de la cadera.",
+"image": "N/A",
+"options": [
+"posterior.",
+"lateral.",
+"anterior.",
+"medial."
+],
+"correct": 2,
+"rationale_correct": "¡Excelente! La bursitis de los flexores de la cadera se evalúa en la zona anterior del muslo proximal.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la zona anterior del muslo proximal es donde se evalúa la bursitis inflamada de los flexores de la cadera.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q047",
+"category_id": "soft_tissue_benefits",
+"question": "Cual es la mejor tecnica terapeutica para estirar musculos acortados?",
+"image": "N/A",
+"options": [
+"Terapia de Puntos gatillo.",
+"Effleurage repetitivo.",
+"Relajacion post-isometrica.",
+"Drenaje linfatico manual."
+],
+"correct": 2,
+"rationale_correct": "¡Excelente! La relajación post-isométrica es efectiva para estirar músculos acortados.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la mejor técnica para estirar músculos acortados es la relajación post-isométrica.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q048",
+"category_id": "professional_practice",
+"question": "Usted se graduo de la escuela de masaje hace cuatro anios... Que temas en educacion continua le daran el conocimiento para cambiar a posturas correctas y hacer movimientos normales y sin dolor cuando aplica terapias?",
+"image": "N/A",
+"options": [
+"Aromaterapia.",
+"Patrones Aston.",
+"Terapia de armonizacion.",
+"Skin rolling."
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! Los patrones Aston proporcionan conocimiento para corregir posturas y movimientos en la práctica.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero los patrones Aston dan el conocimiento para cambiar a posturas correctas y movimientos sin dolor.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q049",
+"category_id": "client_assessment",
+"question": "Al entablar la comunicacion con el cliente el terapeuta debe tener cuidado de no persuadirlo a que haga suposiciones acerca de sus sintomas. Que clase de preguntas son estas que permiten que el cliente se exprese libremente?",
+"image": "N/A",
+"options": [
+"Preguntas cerradas.",
+"Guiadas.",
+"Orientadas.",
+"Abiertas."
+],
+"correct": 3,
+"rationale_correct": "¡Excelente! Las preguntas abiertas permiten que el cliente se exprese libremente sin sugerencias.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero las preguntas abiertas permiten que el cliente se exprese libremente.",
+"difficulty": "easy",
+"language": "es"
+},
+{
+"id": "q050",
+"category_id": "pathology_contraindications",
+"question": "El cliente padece de tendinitis y dice que empezo a sentir dolor al principio, durante y despues de la actividad fisica, con que grado de severidad se le califica?",
+"image": "N/A",
+"options": [
+"Grado 1.",
+"Grado 2.",
+"Grado 3.",
+"Grado 4."
+],
+"correct": 2,
+"rationale_correct": "¡Excelente! Dolor al principio, durante y después de la actividad indica grado 3 de tendinitis.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el grado 3 se califica cuando el dolor ocurre al principio, durante y después de la actividad física.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q051",
+"category_id": "pathology_contraindications",
+"question": "El terapeuta debe informarle a su cliente de los siguientes cambios que observa en la pigmentacion de su piel:",
+"image": "N/A",
+"options": [
+"Manchas de color raro, figura o dimension",
+"Manchitas que son pecas chiquitas y son similares",
+"No es necesario informarle ya que el terapeuta asume que el cliente sabe",
+"Un bronceado color canela"
+],
+"correct": 0,
+"rationale_correct": "¡Excelente! Manchas de color, figura o dimensión inusuales deben reportarse al cliente.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el terapeuta debe informar sobre manchas de color raro, figura o dimensión.",
+"difficulty": "easy",
+"language": "es"
+},
+{
+"id": "q052",
+"category_id": "client_assessment",
+"question": "Al mismo tiempo que el terapeuta esta haciendo la valoracion hay tres clases de preguntas que debe hacerle al cliente con el fin de recabar informacion relevante para el plan de tratamiento, son las preguntas generales, las especificas y las enfocadas al dolor. Esta es una pregunta especifica:",
+"image": "N/A",
+"options": [
+"Como es su estado de salud en general?.",
+"Esta lesion fue causada por un golpe? que le aplicaron para aliviarle el dolor? recibio primeros auxilios o le colocaron compresas con hielo?.",
+"Le agrada la aromaterapia durante la sesion de masaje? le agrada la musica ambiental?.",
+"Prefiere la meditacion o el Reiki?."
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! Preguntar si la lesión fue causada por un golpe y los tratamientos recibidos es una pregunta específica.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la pregunta específica es si la lesión fue causada por un golpe, qué le aplicaron y si recibió primeros auxilios.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q053",
+"category_id": "kinesiology",
+"question": "Que estructuras de la articulacion femorotibial se alargan con la deformidad cronica del pie Clubfoot o equino varo?",
+"image": "N/A",
+"options": [
+"Biceps femoris y la banda iliotibial.",
+"Gracilis y el aDuctor longus.",
+"ADuctor magnus y el semimembranoso.",
+"Pectineo y el gracilis."
+],
+"correct": 0,
+"rationale_correct": "¡Excelente! En la deformidad crónica del pie clubfoot, el bíceps femoris y la banda iliotibial se alargan en la articulación femorotibial.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero las estructuras que se alargan son el biceps femoris y la banda iliotibial.",
+"difficulty": "hard",
+"language": "es"
+},
+{
+"id": "q054",
+"category_id": "soft_tissue_benefits",
+"question": "Marcela tiene 15 años trabajando como operadora del 911... Cual de los siguientes tratamientos podria ayudar a activar las capacidades curativas naturales del cuerpo con el fin de curarse?",
+"image": "N/A",
+"options": [
+"Patrones Aston.",
+"Estiramiento Aislado Activo.",
+"Tecnica Alexander.",
+"Acupresion."
+],
+"correct": 3,
+"rationale_correct": "¡Excelente! La acupresión activa las capacidades curativas naturales del cuerpo.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la acupresión ayuda a activar las capacidades curativas naturales del cuerpo.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q055",
+"category_id": "anatomy_physiology",
+"question": "Cuales nervios inervan al musculo pectoral menor?",
+"image": "N/A",
+"options": [
+"Los nervios axilares C5-6.",
+"El pectoral lateral C5-7.",
+"La cervical C3, 4 y dorsal escapular C5.",
+"El pectoral medial C8, T1."
+],
+"correct": 3,
+"rationale_correct": "¡Excelente! El músculo pectoral menor es inervado por el nervio pectoral medial C8, T1.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero los nervios que inervan al pectoral menor son el pectoral medial C8, T1.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q056",
+"category_id": "pathology_contraindications",
+"question": "La urticaria en la piel ocurre cuando:",
+"image": "N/A",
+"options": [
+"La persona se rasca un alergeno",
+"Cuando un alergeno esta combatiendo un antigeno",
+"Cuando los vasos sanguineos presentan rupturas",
+"Ninguna respuesta es correcta"
+],
+"correct": 3,
+"rationale_correct": "¡Excelente! Ninguna de las respuestas es correcta; la urticaria ocurre por liberación de histamina que causa permeabilidad vascular, no rupturas.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero ninguna respuesta es correcta, ya que la urticaria es causada por permeabilidad vascular debido a histamina, no rupturas o los otros factores descritos.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q057",
+"category_id": "pathology_contraindications",
+"question": "Las alteraciones posturales de naturaleza funcional:",
+"image": "N/A",
+"options": [
+"Se deben a las malformaciones de huesos.",
+"Son causadas por malformaciones oseas.",
+"Pueden ser modificadas trabajando en el tejido blando y la fascia.",
+"No pueden ser modificadas ni corregidas con masaje terapeutico."
+],
+"correct": 2,
+"rationale_correct": "¡Excelente! Las alteraciones posturales funcionales pueden ser modificadas trabajando en tejido blando y fascia.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero las alteraciones posturales de naturaleza funcional pueden ser modificadas trabajando en el tejido blando y la fascia.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q058",
+"category_id": "client_assessment",
+"question": "Al evaluar la articulacion radiocarpiana este es el musculo que el terapeuta estira para ayudar a sanar una desviacion cubital moderada en la munieca (wrist) de la mano del cliente:",
+"image": "N/A",
+"options": [
+"Palmaris longus.",
+"Extensor carpi ulnaris.",
+"Flexor digitorum profundus.",
+"Flexor carpi radialis."
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! El extensor carpi ulnaris se estira para ayudar a sanar una desviación cubital moderada en la muñeca.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el músculo que se estira para sanar una desviación cubital moderada es el extensor carpi ulnaris.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q059",
+"category_id": "client_assessment",
+"question": "Cuando un terapeuta observa diferencias notorias en las estructuras bilaterales en el cuerpo del cliente al comparar el nivel de los hombros y la rotacion de las articulaciones o el tronco, esta efectuando la siguiente clase de valoracion:",
+"image": "N/A",
+"options": [
+"Postural y Gait.",
+"Prueba de rango de movimiento.",
+"Preguntas del historial de salud.",
+"La palpacion."
+],
+"correct": 0,
+"rationale_correct": "¡Excelente! Observar diferencias bilaterales en hombros y rotación es parte de la valoración postural y de la marcha.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la clase de valoración es postural y gait.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q060",
+"category_id": "kinesiology",
+"question": "El musculo que es antagonista de las DOS acciones del musculo tibial anterior es:",
+"image": "N/A",
+"options": [
+"Tibial posterior",
+"Tibial anterior",
+"Peroneo largo",
+"Soleo"
+],
+"correct": 2,
+"rationale_correct": "¡Excelente! El peroneo largo es antagonista de las dos acciones del tibial anterior (dorsiflexión e inversión) al realizar plantiflexión y eversión.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el músculo antagonista de las dos acciones del tibial anterior es el peroneo largo.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q061",
+"category_id": "kinesiology",
+"question": "Que musculos son los que estan jalados (estirados) con pie cavo?",
+"image": "N/A",
+"options": [
+"Gluteus medius, gluteus minimus, tensor de la fascia lata, los gemelos y los aductores.",
+"Biceps femoral, gluteus maximus y semitendinoso.",
+"Soleo, tibial anterior, flexor digitorum longus posterior y flexor largo del dedo gordo.",
+"Peroneo largo, tibial anterior, flexor digitorum longus posterior y flexor largo del dedo gordo."
+],
+"correct": 3,
+"rationale_correct": "¡Excelente! En pie cavo, los músculos peroneo largo, tibial anterior, flexor digitorum longus posterior y flexor largo del dedo gordo se estiran.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero los músculos estirados en pie cavo son peroneo largo, tibial anterior, flexor digitorum longus posterior y flexor largo del dedo gordo.",
+"difficulty": "hard",
+"language": "es"
+},
+{
+"id": "q062",
+"category_id": "pathology_contraindications",
+"question": "Si un cliente padece de una torcedura aguda entonces el terapeuta lo debe referir con:",
+"image": "N/A",
+"options": [
+"Nutriologo",
+"Quiropractico",
+"Acupunturista",
+"Podologo"
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! Para una torcedura aguda, se debe referir al cliente a un quiropráctico para tratamiento adecuado.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el terapeuta debe referir a un quiropráctico para una torcedura aguda.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q063",
+"category_id": "kinesiology",
+"question": "Cuando el tobillo y el talon de la persona se voltean hacia afuera se llama:",
+"image": "N/A",
+"options": [
+"Eversion",
+"Inversion",
+"Pronacion",
+"Supinacion"
+],
+"correct": 0,
+"rationale_correct": "¡Excelente! Voltear el tobillo y el talón hacia afuera se llama eversión.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero cuando el tobillo y el talón se voltean hacia afuera se llama eversión.",
+"difficulty": "easy",
+"language": "es"
+},
+{
+"id": "q064",
+"category_id": "client_assessment",
+"question": "A la vez que el terapeuta hace la valoracion y evaluacion hay tres clases de preguntas que son parte del protocolo con el fin de recabar informacion relevante para el plan de tratamiento. Estas son las preguntas generales, las especificas y las enfocadas al dolor. Esta es una pregunta general:",
+"image": "N/A",
+"options": [
+"Tiene usted alguna enfermedad como diabetes, hipertension o cancer?.",
+"Si el inicio fue gradual, cuando observo los sintomas por primera vez?.",
+"Recibio tratamiento medico o terapia antes de venir a que se le de masaje?.",
+"El dolor se desplaza o se desvia a otras partes?."
+],
+"correct": 0,
+"rationale_correct": "¡Excelente! Preguntar por enfermedades como diabetes o hipertensión es una pregunta general.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la pregunta general es si tiene alguna enfermedad como diabetes, hipertensión o cáncer.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q065",
+"category_id": "kinesiology",
+"question": "El ejercicio _________ fortalece el piso pelvico.",
+"image": "N/A",
+"options": [
+"Kegel",
+"Preciso",
+"Lagartija",
+"Zenda"
+],
+"correct": 0,
+"rationale_correct": "¡Excelente! El ejercicio Kegel fortalece el piso pélvico.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el ejercicio Kegel es el que fortalece el piso pélvico.",
+"difficulty": "easy",
+"language": "es"
+},
+{
+"id": "q066",
+"category_id": "kinesiology",
+"question": "El cliente se queja de dolor en las costillas del lado derecho cada que gira hacia la izquierda; sus musculos abdominales estan bien definidos y presenta una leve inclinacion pelvica posterior. El analisis postural presenta un aumento en la curvatura de la columna toracica, cual musculo se le ha acortado?",
+"image": "N/A",
+"options": [
+"Trapecio bilateral.",
+"Pectoral menor bilateral.",
+"Romboides mayor bilateral.",
+"Romboides menor bilateral."
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! El pectoral menor bilateral se acorta con aumento en la curvatura torácica.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el músculo acortado es el pectoral menor bilateral.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q067",
+"category_id": "soft_tissue_benefits",
+"question": "De las siguientes opciones, cual tecnica tiene el enfoque energetico (biocampo)?",
+"image": "N/A",
+"options": [
+"La terapia craneo-sacral.",
+"Balance cero.",
+"Movilizacion del tejido blando.",
+"La liberacion miofascial."
+],
+"correct": 0,
+"rationale_correct": "¡Excelente! La terapia craneo-sacral tiene un enfoque energético (biocampo).",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la técnica con enfoque energético (biocampo) es la terapia craneo-sacral.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q068",
+"category_id": "client_assessment",
+"question": "En el masaje abdominal la manera adecuada de encontrar y palpar al musculo iliopsoas es:",
+"image": "N/A",
+"options": [
+"Elevando los pies con el cliente en postura supina",
+"Doblar las rodillas para que la pelvis este flexionada hacia adelante con el cliente en postura supina",
+"Elevacion de cabeza y brazos con el cliente en postura supina",
+"Doblar las rodillas y extender la cadera con el cliente en postura prona"
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! Doblar las rodillas para flexionar la pelvis en supina es la manera adecuada para palpar el iliopsoas.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la manera adecuada para encontrar y palpar el iliopsoas es doblar las rodillas para que la pelvis esté flexionada hacia adelante en postura supina.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q069",
+"category_id": "anatomy_physiology",
+"question": "El _________ es un organo receptor sensorial propioceptivo que se alerta o activa ayudando asi a evitar lesiones o desgarres musculares:",
+"image": "N/A",
+"options": [
+"Organo tendinoso de Golgi",
+"Receptor de movimientos.",
+"Musculo esqueletico.",
+"Organo tendinoso."
+],
+"correct": 0,
+"rationale_correct": "¡Excelente! El órgano tendinoso de Golgi es el receptor propioceptivo que ayuda a evitar lesiones musculares.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el órgano tendinoso de Golgi es el receptor sensorial propioceptivo que se activa para evitar lesiones o desgarres musculares.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q070",
+"category_id": "client_assessment",
+"question": "El rango de movimiento activo es ________ al rango de movimiento pasivo.",
+"image": "N/A",
+"options": [
+"Identico.",
+"Indiferente.",
+"Igual.",
+"Distinto."
+],
+"correct": 3,
+"rationale_correct": "¡Excelente! El rango de movimiento activo es distinto al pasivo, generalmente menor.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el rango de movimiento activo es distinto al pasivo.",
+"difficulty": "easy",
+"language": "es"
+},
+{
+"id": "q071",
+"category_id": "kinesiology",
+"question": "El terapeuta hace el analisis postural del cliente y observa que la cabeza esta levemente flexionada, cual musculo esta acortado?",
+"image": "N/A",
+"options": [
+"Las fibras superiores del trapecio bilateral.",
+"Esplenio bilateral.",
+"Elevador de la escapula bilateral.",
+"Escalenos anteriores bilaterales."
+],
+"correct": 3,
+"rationale_correct": "¡Excelente! Los escalenos anteriores bilaterales se acortan en una cabeza flexionada.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el músculo acortado es los escalenos anteriores bilaterales.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q072",
+"category_id": "client_assessment",
+"question": "Al mismo tiempo que el terapeuta esta haciendo la valoracion existen tres clases de preguntas de protocolo que son necesarias para recabar informacion relevante para el plan de tratamiento. Son las preguntas generales, las especificas y las enfocadas al dolor. Cual de las siguientes es una pregunta general?",
+"image": "N/A",
+"options": [
+"Puede usted describirme la lesio,n y si fue causada por un golpe o empezo gradualmente?.",
+"A que se dedica?.",
+"Cuales son especificamente sus medicamentos actuales para el problema de ahorita? son aspirinas, antiinflamatorios?.",
+"Que clase de dolor es?."
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! Preguntar a qué se dedica es una pregunta general para recabar información relevante.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la pregunta general es a qué se dedica.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q073",
+"category_id": "client_assessment",
+"question": "Durante una valoracion, la palpacion se efectua para identificar:",
+"image": "N/A",
+"options": [
+"Simetria bilateral y desviaciones del musculo.",
+"Patrones de movimiento dolorosos restringidos y exagerados.",
+"Cual es la estructura involucrada, la tejidos blandos, disfuncion de la articulacion o la funcion muscular.",
+"Explorar las marcas, relieves y la forma de la superficie del cuerpo"
+],
+"correct": 3,
+"rationale_correct": "¡Excelente! La palpación se efectúa para explorar las marcas, relieves y la forma de la superficie del cuerpo.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la palpación identifica las marcas, relieves y la forma de la superficie del cuerpo.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q074",
+"category_id": "pathology_contraindications",
+"question": "Al efectuar la prueba de movimiento pasiva el cliente le dice que siente dolor. La lesion o trastorno que se presenta es:",
+"image": "N/A",
+"options": [
+"Tendinosa",
+"Muscular",
+"Articular",
+"Ligamentosa"
+],
+"correct": 2,
+"rationale_correct": "¡Excelente! Dolor en movimiento pasivo indica una lesión articular.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la lesión o trastorno que se presenta con dolor en movimiento pasivo es articular.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q075",
+"category_id": "pathology_contraindications",
+"question": "Si el cliente padece de tendinitis constante y continua empeorando aun practicando ejercicio y tambien durante las actividades normales de la vida cotidiana, con que grado de severidad se le califica?",
+"image": "N/A",
+"options": [
+"Grado 1.",
+"Grado 2.",
+"Grado 3.",
+"Grado 4."
+],
+"correct": 3,
+"rationale_correct": "¡Excelente! Dolor constante en actividades cotidianas indica grado 4 de tendinitis.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el grado 4 se califica cuando la tendinitis es constante y empeora en actividades normales.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q076",
+"category_id": "kinesiology",
+"question": "El musculo biceps braquial es antagonista del:",
+"image": "N/A",
+"options": [
+"Braquiorradial",
+"Braquial",
+"Pectoral menor",
+"Triceps"
+],
+"correct": 3,
+"rationale_correct": "¡Excelente! El bíceps braquial es antagonista del tríceps.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el músculo bíceps braquial es antagonista del tríceps.",
+"difficulty": "easy",
+"language": "es"
+},
+{
+"id": "q077",
+"category_id": "client_assessment",
+"question": "A la vez que el terapeuta le esta haciendo la valoracion al cliente existen tres clases de preguntas obligatorias con el fin de recabar informacion relevante para el plan de tratamiento, estas son las preguntas generales, las especificas y las enfocadas al dolor. Esta es una pregunta enfocada al dolor:",
+"image": "N/A",
+"options": [
+"Existen familiares que padecen de la misma afeccion?.",
+"Como esta su estado de salud en general?.",
+"Cuanto tiempo exactamente le dura este insoportable dolor?.",
+"Hay algo en sus alimentos que este contribuyendo al problema?."
+],
+"correct": 2,
+"rationale_correct": "¡Excelente! Preguntar cuánto tiempo dura el dolor es una pregunta enfocada al dolor.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la pregunta enfocada al dolor es cuánto tiempo exactamente le dura este insoportable dolor.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q078",
+"category_id": "soft_tissue_benefits",
+"question": "Marcela tiene 15 años trabajando como operadora del 911... Cual de los siguientes tratamientos podria ayudar a activar las capacidades curativas naturales del cuerpo con el fin de curarse?",
+"image": "N/A",
+"options": [
+"Patrones Aston.",
+"Estiramiento Aislado Activo.",
+"Tecnica Alexander.",
+"Acupresion."
+],
+"correct": 3,
+"rationale_correct": "¡Excelente! La acupresión activa las capacidades curativas naturales del cuerpo.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la acupresión ayuda a activar las capacidades curativas naturales del cuerpo.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q079",
+"category_id": "soft_tissue_benefits",
+"question": "La cliente llego a su sesion de masaje con una quemadura leve en la mano... Que modalidad de tratamiento local y que pueda llevar consigo podria ayudarle a aliviar el dolor e inducir a la recuperacion para esta leve quemadura?",
+"image": "N/A",
+"options": [
+"Patrones Aston.",
+"Aromaterapia.",
+"Terapia .",
+"Terapia de Armonizacion."
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! La aromaterapia puede ayudar a aliviar el dolor y promover la recuperación de una quemadura leve.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la aromaterapia es la modalidad que puede aliviar el dolor e inducir la recuperación para una leve quemadura.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q080",
+"category_id": "kinesiology",
+"question": "Cual musculo ha perdido elasticidad si el cliente presenta cierta disminucion moderada en la flexion de su articulacion glenohumeral?",
+"image": "N/A",
+"options": [
+"El coracobraquial.",
+"El redondo menor.",
+"El pectoral mayor (fibras inferiores).",
+"El infraespinoso."
+],
+"correct": 2,
+"rationale_correct": "¡Excelente! El pectoral mayor (fibras inferiores) pierde elasticidad y limita la flexión glenohumeral.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el músculo que ha perdido elasticidad limitando la flexión glenohumeral es el pectoral mayor (fibras inferiores).",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q081",
+"category_id": "client_assessment",
+"question": "Cual es uno de los propositos de la palpacion?",
+"image": "N/A",
+"options": [
+"Recabar informacion para conocer sus habitos alimenticios.",
+"Recabar informacion respecto a la buena o mala postura del cliente.",
+"Recabar informacion respecto a localizacion e integridad de las estructuras.",
+"Recabar informacion respecto a los diagnosticos anteriores."
+],
+"correct": 2,
+"rationale_correct": "¡Excelente! Uno de los propósitos de la palpación es recabar información respecto a la localización e integridad de las estructuras.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero uno de los propósitos de la palpación es recabar información respecto a la localización e integridad de las estructuras.",
+"difficulty": "easy",
+"language": "es"
+},
+{
+"id": "q082",
+"category_id": "pathology_contraindications",
+"question": "El musculo que con mas frecuencia se lastima en un desgarre del manguito rotador es el:",
+"image": "N/A",
+"options": [
+"Supraespinoso",
+"Infraespinoso",
+"Redondo mayor",
+"Redondo menor"
+],
+"correct": 0,
+"rationale_correct": "¡Excelente! El supraespinoso es el músculo que se lastima con más frecuencia en un desgarre del manguito rotador.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el músculo que se lastima con más frecuencia en un desgarre del manguito rotador es el supraespinoso.",
+"difficulty": "easy",
+"language": "es"
+},
+{
+"id": "q083",
+"category_id": "pathology_contraindications",
+"question": "El terapeuta ha estado tratando a un cliente con latigazo cervical y el cliente dice no sentir mejoria alguna, que paso se debe seguir ahora?",
+"image": "N/A",
+"options": [
+"Continuar con masajes e informarle al cliente que la unica manera de recuperarse es abstenerse de mover el cuello",
+"Referirlo con un quiropractico, fisioterapeuta o un osteopata",
+"El terapeuta alterna con diferentes tecnicas de masaje ancestral",
+"El terapeuta le aplica los masajes con piedras calientes e hidroterapia"
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! Si no hay mejoría, se debe referir al cliente a un quiropráctico, fisioterapeuta o osteópata.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el paso correcto es referirlo con un quiropráctico, fisioterapeuta o osteópata.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q084",
+"category_id": "anatomy_physiology",
+"question": "El plexo nervioso de la columna que envaina a la parte posterior de la pierna y el pie es:",
+"image": "N/A",
+"options": [
+"Plexo lumbar.",
+"Plexo sacro.",
+"Plexo braquial.",
+"Plexo cervical."
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! El plexo sacro envaina la parte posterior de la pierna y el pie.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el plexo sacro es el que envaina la parte posterior de la pierna y el pie.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q085",
+"category_id": "anatomy_physiology",
+"question": "El nervio toracico posterior, o largo, C5 al C7 son las ramas inervadoras para el siguiente musculo:",
+"image": "N/A",
+"options": [
+"Romboides menor.",
+"Romboides mayor.",
+"Serrato anterior.",
+"Pectoral menor."
+],
+"correct": 2,
+"rationale_correct": "¡Excelente! El nervio torácico largo inerva el serrato anterior.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el nervio torácico posterior o largo inerva el serrato anterior.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q086",
+"category_id": "pathology_contraindications",
+"question": "El ligamento _________ proporciona soporte al tobillo para protegerlo contra la deformidad del pie Valgo:",
+"image": "N/A",
+"options": [
+"Deltoideo",
+"Lateral",
+"Calcaneoperoneo",
+"Taloperoneal posterior"
+],
+"correct": 0,
+"rationale_correct": "¡Excelente! El ligamento deltoideo proporciona soporte contra la deformidad del pie valgo.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el ligamento deltoideo proporciona soporte al tobillo para proteger contra la deformidad del pie valgo.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q087",
+"category_id": "soft_tissue_benefits",
+"question": "El medico le  diagnostico fascitis plantar a tu cliente... El metodo recomendado para ayudar en la flexibilidad y alinear la estructura normal de los pies y tobillos:",
+"image": "N/A",
+"options": [
+"Estiramiento aislado activo.",
+"Patrones Aston.",
+"Acupresion.",
+"Tecnica Alexander."
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! Los patrones Aston ayudan en la flexibilidad y alineación de la estructura de los pies y tobillos.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero los patrones Aston son el método recomendado para ayudar en la flexibilidad y alinear la estructura normal de los pies y tobillos.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q088",
+"category_id": "client_assessment",
+"question": "A la vez que el terapeuta hace la valoracion y evaluacion hay tres clases de preguntas que son parte del protocolo con el fin de recabar informacion relevante para el plan de tratamiento. Estas son las preguntas generales, las especificas y las enfocadas al dolor. Esta es una pregunta especifica:",
+"image": "N/A",
+"options": [
+"Prefiere las terapia una o dos veces al mes?.",
+"Siente dolor en este momento o se siente relajado?.",
+"Puede usted describirme la lesion? fue causado por golpe o empezo gradualmente?.",
+"Tiene usted familiares con este mismo mismo trastorno?."
+],
+"correct": 2,
+"rationale_correct": "¡Excelente! Describir la lesión y cómo comenzó es una pregunta específica.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la pregunta específica es describir la lesión, si fue por golpe o empezó gradualmente.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q089",
+"category_id": "pathology_contraindications",
+"question": "Inmediatamente despues de una lesion de latigazo cervical puede haber poco para observar, cuando el tejido se palpa con suavidad hay presencia de ________  sobre la lesion.",
+"image": "N/A",
+"options": [
+"Temperatura fria.",
+"Edema blando.",
+"Calor.",
+"Color."
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! Inmediatamente después de una lesión de latigazo cervical, hay presencia de edema blando al palpar el tejido.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero hay presencia de edema blando sobre la lesión al palpar con suavidad.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q090",
+"category_id": "client_assessment",
+"question": "La prueba de __________  se realiza en un cliente que padece el latigazo cervical (whiplash) para determinar si el dolor al tragar se debe a un dolor referido de un punto gatillo en el musculo esternocleidomastoideo o debido a otras patologias cervicales.",
+"image": "N/A",
+"options": [
+"Deglucion.",
+"Flexion del dedo.",
+"Tres nudillos.",
+"Liberacion del escaleno."
+],
+"correct": 0,
+"rationale_correct": "¡Excelente! La prueba de deglución se realiza para determinar si el dolor al tragar es referido de un punto gatillo en el esternocleidomastoideo.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la prueba de deglución se realiza para determinar si el dolor al tragar es debido a un punto gatillo en el esternocleidomastoideo o otras patologías cervicales.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q091",
+"category_id": "pathology_contraindications",
+"question": "Un conductor sufre un esguince cervical cuando de pronto otro vehiculo lo choca por detras. Cual de los siguientes factores considera el terapeuta al hacerle la valoracion al cliente respecto a los principales musculos afectados?",
+"image": "N/A",
+"options": [
+"Si es hombre o mujer y si el accidente fue sorpresivo",
+"La velocidad del impacto y el tipo de vehiculos implicados",
+"El cinturon de seguridad y el soporte de descanso de la cabeza",
+"Todas las respuestas son correctas"
+],
+"correct": 3,
+"rationale_correct": "¡Excelente! Todos los factores, como género, sorpresa, velocidad, tipo de vehículo, cinturón y soporte de cabeza, se consideran para evaluar los músculos afectados.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero todas las respuestas son correctas para considerar en la valoración de los músculos afectados.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q092",
+"category_id": "client_assessment",
+"question": "A la vez que el terapeuta hace la valoracion y evaluacion hay tres clases de preguntas que son parte del protocolo con el fin de recabar informacion relevante para el plan de tratamiento. Estas son las preguntas generales, las especificas y las enfocadas al dolor. Esta es una pregunta especifica:",
+"image": "N/A",
+"options": [
+"Cuales son sus pasatiempos favoritos?.",
+"Tiene familiares que se han enfermado de lo mismo?.",
+"Padece ustec de diabetes, hipertension o cancer?.",
+"Ya fue a consulta con el doctor y le dio diagnostico?."
+],
+"correct": 3,
+"rationale_correct": "¡Excelente! Preguntar si fue a consulta con el doctor y le dio diagnóstico es una pregunta específica.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la pregunta específica es si ya fue a consulta con el doctor y le dio diagnóstico.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q093",
+"category_id": "kinesiology",
+"question": "El musculo pectoral menor se inserta en el proceso coracoides de la escapula, si ese musculo presenta hipertonia causa:",
+"image": "N/A",
+"options": [
+"Retraccion de la escapula",
+"Rotacion interna de la articulacion glenohumeral",
+"Que la escapula se incline hacia atras",
+"Tiron de la escapula en rotacion descendente"
+],
+"correct": 3,
+"rationale_correct": "¡Excelente! La hipertonia del pectoral menor causa tirón de la escápula en rotación descendente.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la hipertonia del pectoral menor causa tirón de la escápula en rotación descendente.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q094",
+"category_id": "client_assessment",
+"question": "La ________ es un analisis objetivo y fundamentado respecto a la condicion de un cliente:",
+"image": "N/A",
+"options": [
+"Valoracion.",
+"Prueba de rayos X.",
+"Cuestionario.",
+"Auto diagnostico."
+],
+"correct": 0,
+"rationale_correct": "¡Excelente! La valoración es un análisis objetivo y fundamentado respecto a la condición del cliente.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la valoración es el análisis objetivo y fundamentado respecto a la condición del cliente.",
+"difficulty": "easy",
+"language": "es"
+},
+{
+"id": "q095",
+"category_id": "pathology_contraindications",
+"question": "La capsulitis adhesiva es otro nombre para este trastorno:",
+"image": "N/A",
+"options": [
+"Pes Planus.",
+"TMJD.",
+"Enfermedad degenerativa de disco.",
+"Hombro congelado."
+],
+"correct": 3,
+"rationale_correct": "¡Excelente! La capsulitis adhesiva es otro nombre para el hombro congelado.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la capsulitis adhesiva es otro nombre para el hombro congelado.",
+"difficulty": "easy",
+"language": "es"
+},
+{
+"id": "q096",
+"category_id": "kinesiology",
+"question": "El cliente padece de dolor en el cuello, hace seis meses sufrio una lesion cervical leve. Usted le hace una evaluacion postural y nota una leve inclinacion de la cabeza hacia el lado izquierdo; basandose en esta informacion; cual es el musculo que podria estar debilitado para estiramiento de modo normal?",
+"image": "N/A",
+"options": [
+"El musculo esternocleidomastoideo (ECOM) izquierdo",
+"Trapecio superior derecho",
+"Trapecio superior izquierdo",
+"Escalenos bilaterales"
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! El trapecio superior derecho puede estar debilitado en una inclinación de la cabeza hacia el lado izquierdo.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el músculo que podría estar debilitado es el trapecio superior derecho.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q097",
+"category_id": "client_assessment",
+"question": "En una variedad de pruebas de movimiento pasivo, cuales son los dos musculos que se estan evaluando cuando el pie esta en eversion?",
+"image": "N/A",
+"options": [
+"Tibial anterior y tibial posterior",
+"Tibial anterior y peroneo largo",
+"Peroneo largo y peroneo corto",
+"Extensor largo de los dedos y peroneo largo"
+],
+"correct": 2,
+"rationale_correct": "¡Excelente! En eversión, se evalúan el peroneo largo y peroneo corto.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero los músculos evaluados en eversión son peroneo largo y peroneo corto.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q098",
+"category_id": "anatomy_physiology",
+"question": "Cual musculo se localiza entre los escalenos posteriores y el esplenio de la cabeza?",
+"image": "N/A",
+"options": [
+"Escalenos medios.",
+"Elevador de la escapula.",
+"Grupo Erector de la Columna.",
+"Trapecio."
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! El elevador de la escápula se localiza entre los escalenos posteriores y el esplenio de la cabeza.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el músculo entre los escalenos posteriores y el esplenio de la cabeza es el elevador de la escápula.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q099",
+"category_id": "pathology_contraindications",
+"question": "El terapeuta ha estado tratando a un cliente con latigazo cervical y el cliente dice no sentir mejoria alguna, que paso se debe seguir ahora?",
+"image": "N/A",
+"options": [
+"Continuar con masajes e informarle al cliente que la unica manera de recuperarse es abstenerse de mover el cuello",
+"Referirlo con un quiropractico, fisioterapeuta o un osteopata",
+"El terapeuta alterna con diferentes tecnicas de masaje ancestral",
+"El terapeuta le aplica los masajes con piedras calientes e hidroterapia"
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! Si no hay mejoría, se debe referir al cliente a un quiropráctico, fisioterapeuta o osteópata.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el paso correcto es referirlo con un quiropráctico, fisioterapeuta o osteópata.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q100",
+"category_id": "soft_tissue_benefits",
+"question": "El cliente se presenta muy cansado y con cuello y espalda muy tensos. El masaje de puntos de presion se enfoca en los puntos de dolor del cuerpo. Este masaje se aplica comunmente con los dedos pulgares y el resultado benefico es:",
+"image": "N/A",
+"options": [
+"Un espasmo instantaneo y continuo en la zona afectada",
+"La distencion o ablandamiento de la zona afectada",
+"La opresion o calambre del area afectada",
+"La compresion o dureza del area afectada"
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! El resultado benefico del masaje de puntos de presión es la distensión o ablandamiento de la zona afectada.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el resultado benefico es la distensión o ablandamiento de la zona afectada.",
+"difficulty": "easy",
+"language": "es"
+},
+{
+"id": "q101",
+"category_id": "client_assessment",
+"question": "Existen cuatro herramientas en la valoracion al cliente que el terapeuta aplica y son la tecnica Visual, Funcional, Palpacion y la prueba Manual para los planes de tratamiento. Que informacion valiosa obtiene el terapeuta con la evaluacion visual?",
+"image": "N/A",
+"options": [
+"Cual estructura esta implicada, los tejidos blandos, disfuncion de la articulacion, o la funcion muscular.",
+"Simetria bilateral y alteraciones musculares.",
+"La forma de la superficie del cuerpo, la textura, la temperatura, los relieves y las cicatrices.",
+"Patrones de movimiento dolorosos, restringidos o anormales."
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! La evaluación visual proporciona información sobre simetría bilateral y alteraciones musculares.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero con la evaluación visual se obtiene simetría bilateral y alteraciones musculares.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q102",
+"category_id": "client_assessment",
+"question": "Esta definicion explica lo referente a las observaciones:",
+"image": "N/A",
+"options": [
+"Claves visuales que buscan obtener informacion objetiva referente a la condicion del cliente.",
+"Preguntas abiertas que se hacen para obtener la informacion correcta de acuerdo al trastorno del cliente.",
+"Preguntas cerradas que se se hacen para obtener informacion concreta de la afeccion del cliente.",
+"La colocacion de las manos del terapeuta sobre la piel del cliente para efectuar la palpacion."
+],
+"correct": 0,
+"rationale_correct": "¡Excelente! Las observaciones son claves visuales para obtener información objetiva sobre la condición del cliente.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero las observaciones son claves visuales que buscan obtener información objetiva referente a la condición del cliente.",
+"difficulty": "easy",
+"language": "es"
+},
+{
+"id": "q103",
+"category_id": "client_assessment",
+"question": "Al evaluar la articulacion radiocarpiana cual grupo muscular alarga el terapeuta para aliviar o un estiramiento leve en la munieca (wrist) de la mano del cliente?",
+"image": "N/A",
+"options": [
+"Extensores.",
+"Flexores.",
+"Desviadores radiales.",
+"Desviadores del cubito."
+],
+"correct": 3,
+"rationale_correct": "¡Excelente! El grupo de desviadores del cubito se alarga para aliviar un estiramiento leve en la muñeca.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el grupo muscular que el terapeuta alarga para aliviar un estiramiento leve en la muñeca es los desviadores del cubito.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q104",
+"category_id": "client_assessment",
+"question": "Que es lo que evalua la prueba de rango de movimiento activo?",
+"image": "N/A",
+"options": [
+"La buena disposicion del cliente mismo y su habilidad de contraer musculos",
+"La participacion total del terapeuta para valorar la flexibilidad del musculo",
+"El movimiento del musculo antagonista que el terapeuta insiste e insiste en ayudarle al cliente",
+"El sentimentalismo del cliente, con la ayuda del terapeuta y la longitud del musculo"
+],
+"correct": 0,
+"rationale_correct": "¡Excelente! La prueba de rango de movimiento activo evalúa la disposición del cliente y su habilidad para contraer músculos.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la prueba de rango de movimiento activo evalúa la buena disposición del cliente y su habilidad de contraer músculos.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q105",
+"category_id": "soft_tissue_benefits",
+"question": "Sarah fue victima de abuso cuando era joven... En que modalidad de tratamiento se adquieren estos conocimientos?",
+"image": "N/A",
+"options": [
+"Terapia de Armonizacion.",
+"Estiramiento Aislado Activo.",
+"Tecnica Alexander.",
+"Acupresion."
+],
+"correct": 0,
+"rationale_correct": "¡Excelente! La terapia de armonización se adquiere para trabajar con traumas relacionales almacenados en el sistema nervioso.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la modalidad en la que se adquieren estos conocimientos es la terapia de armonización.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q106",
+"category_id": "anatomy_physiology",
+"question": "El vocablo _______ describe la locacion _________.",
+"image": "N/A",
+"options": [
+"Sagital / mas alejada del origen",
+"Proximal / mas cercano al origen",
+"Proximal / muy alejada del origen",
+"Medial / a un cuarto de distancia del origen"
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! Proximal describe la locación más cercana al origen.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el vocablo proximal describe la locación más cercana al origen.",
+"difficulty": "easy",
+"language": "es"
+},
+{
+"id": "q107",
+"category_id": "soft_tissue_benefits",
+"question": "Mauricio de 25 anios de edad, fue sometido a cirugia del tunel carpiano... que modalidad le explicaria Mauricio que le ayudaria a corregir sus viejos patrones de trabajo y que le daria el conocimiento para aliviar el dolor del nervio cubital?",
+"image": "N/A",
+"options": [
+"Patrones Aston.",
+"Aromaterapia.",
+"Skin rolling,",
+"Terapia de Armonizacion."
+],
+"correct": 0,
+"rationale_correct": "¡Excelente! Los patrones Aston ayudan a corregir patrones de trabajo y proporcionar conocimiento para aliviar el dolor.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero los patrones Aston le ayudarían a corregir sus viejos patrones de trabajo y aliviar el dolor del nervio cubital.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q108",
+"category_id": "soft_tissue_benefits",
+"question": "Camila disfruta de sus masajes dos veces al mes. Ella dice que le ayudan con su ansiedad y estres y el efecto relajante le dura cuando menos por dos dias. Cual terapia podria recomendarle para hacer que los efectos del tratamiento de masaje perduren por mas tiempo?",
+"image": "N/A",
+"options": [
+"Skin rolling.",
+"Aromaterapia.",
+"Patrones Aston.",
+"Terapia de Armonizacion."
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! La aromaterapia puede extender los efectos relajantes del masaje.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la aromaterapia puede recomendarse para hacer que los efectos del tratamiento de masaje perduren por más tiempo.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q109",
+"category_id": "client_assessment",
+"question": "Una evaluacion y exploracion correcta sobre la condicion actual de un cliente y los fundamentos fisicos de sus sintomas para asi determinar el plan del tratamiento se le llama asi:",
+"image": "N/A",
+"options": [
+"La valoracion y evaluacion.",
+"El diagnostico por excelencia.",
+"La aplicacion hands-on.",
+"La receta inicial necesaria."
+],
+"correct": 0,
+"rationale_correct": "¡Excelente! La valoración y evaluación es la exploración correcta para determinar el plan de tratamiento.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero se le llama la valoración y evaluación.",
+"difficulty": "easy",
+"language": "es"
+},
+{
+"id": "q110",
+"category_id": "professional_practice",
+"question": "Para evitar cualquier lesion al realizar las pruebas de valoracion con el fin de conocer la condicion del cliente:",
+"image": "N/A",
+"options": [
+"Es necesario aplicar la prueba de rango de movimiento de resistencia intensa.",
+"Aplicar presion fija en articulaciones.",
+"Aplicar presion gradual, controlada y con vaiven y repetir en caso necesario.",
+"Respuestas A y B."
+],
+"correct": 2,
+"rationale_correct": "¡Excelente! Para evitar lesiones, se debe aplicar presión gradual, controlada y con vaivén, repitiendo si necesario.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero para evitar lesiones en las pruebas de valoración, se debe aplicar presión gradual, controlada y con vaivén, repitiendo si necesario.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q111",
+"category_id": "kinesiology",
+"question": "El terapeuta realiza un analisis postural a su cliente y nota que la cabeza tiene una leve inclinacion hacia la izquierda, cual es el musculo que esta alargado?",
+"image": "N/A",
+"options": [
+"Trapecio superior izquierdo.",
+"Esternocleidomastoideo izquierdo.",
+"Trapecio superior derecho.",
+"Cuadrado lumbar derecho."
+],
+"correct": 2,
+"rationale_correct": "¡Excelente! El trapecio superior derecho está alargado en una inclinación de la cabeza hacia la izquierda.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el músculo alargado es el trapecio superior derecho.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q112",
+"category_id": "client_assessment",
+"question": "El rango de movimiento normal y completo requiere del funcionamiento apropiado de todos los tejidos y su movimiento funcional. En el rango de movimiento activo que debe suceder en la fascia para valorar su funcion correcta?",
+"image": "N/A",
+"options": [
+"Debe permitir el movimiento libre en musculos y articulaciones.",
+"Se debe elongar o acortar para que la fascia sea el movimiento primary.",
+"Debe estabilizar la articulacion y permitir que la articulacion se mueva.",
+"Se debe estirar para permitir el movimiento articular."
+],
+"correct": 0,
+"rationale_correct": "¡Excelente! En el rango de movimiento activo, la fascia debe permitir el movimiento libre en músculos y articulaciones.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero en el rango de movimiento activo, la fascia debe permitir el movimiento libre en músculos y articulaciones.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q113",
+"category_id": "kinesiology",
+"question": "El musculo _____________ ha perdido elasticidad cuando el cliente presenta disminucion moderada en la ABduccion horizontal de la articulacion del hombro.",
+"image": "N/A",
+"options": [
+"Infraespinoso.",
+"Pectoral mayor (fibras superiores).",
+"Deltoides (fibras anteriores).",
+"Todas las respuestas."
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! El pectoral mayor (fibras superiores) ha perdido elasticidad limitando la abducción horizontal.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el músculo que ha perdido elasticidad es el pectoral mayor (fibras superiores).",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q114",
+"category_id": "soft_tissue_benefits",
+"question": "Margaret se resbalo de la banqueta... De las siguientes modalidades que tecnica se puede utilizar para activar puntos especificos en el cuerpo para estimular una respuesta de curacion mas rapida?",
+"image": "N/A",
+"options": [
+"Los Patrones Aston.",
+"El estiramiento Aislado Activo.",
+"El masaje Amma.",
+"La tecnica Alexander."
+],
+"correct": 2,
+"rationale_correct": "¡Excelente! El masaje Amma activa puntos específicos para estimular una respuesta de curación más rápida.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el masaje Amma es la técnica que activa puntos específicos para estimular una respuesta de curación más rápida.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q115",
+"category_id": "kinesiology",
+"question": "Los siguientes musculos estan involucrados en la inclinacion lateral de la pelvis:",
+"image": "N/A",
+"options": [
+"Biceps femoris y psoas minor.",
+"Quadratus lumborum y latissimus dorsi.",
+"Semitendinosus y semimembranosus.",
+"Psoas minor y latissimus dorsi."
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! El quadratus lumborum y latissimus dorsi están involucrados en la inclinación lateral de la pelvis.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero los músculos involucrados en la inclinación lateral de la pelvis son quadratus lumborum y latissimus dorsi.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q116",
+"category_id": "kinesiology",
+"question": "Cuando una persona usa zapatos de tacon alto, que musculo se le acorta?",
+"image": "N/A",
+"options": [
+"El gastrocnemio,",
+"El musculo tibial anterior.",
+"El extensor largo de los dedos.",
+"El extensor largo del dedo gordo."
+],
+"correct": 0,
+"rationale_correct": "¡Excelente! El gastrocnemio se acorta al usar zapatos de tacón alto.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el músculo que se acorta con zapatos de tacón alto es el gastrocnemio.",
+"difficulty": "easy",
+"language": "es"
+},
+{
+"id": "q117",
+"category_id": "client_assessment",
+"question": "Cuales son las cuatro Ts para la palpacion?",
+"image": "N/A",
+"options": [
+"Tratamiento, textura, tenderness (sensibilidad) y tonicidad.",
+"Temperatura, tonicidad, tenderness (sensibilidad) y textura.",
+"Textura, tension, tenderness y tesitura.",
+"Test, tono, textura y tenderness."
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! Las cuatro Ts para la palpación son temperatura, tonicidad, tenderness y textura.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero las cuatro Ts para la palpación son temperatura, tonicidad, tenderness (sensibilidad) y textura.",
+"difficulty": "easy",
+"language": "es"
+},
+{
+"id": "q118",
+"category_id": "client_assessment",
+"question": "Al efectuar una valoracion y evaluacion al cliente antes de dar inicio a los tratamientos un terapeuta asertivo hace lo siguiente:",
+"image": "N/A",
+"options": [
+"Registra y valora la condicion del cliente en cuanto a problemas fisicos o sociales, le ayuda a hacer rememoracion y le aplica valoracion fisica.",
+"Despues de preguntarle edad y condicion el terapeuta le presiona los musculos el cliente mucho mas alla de su tolerancia al dolor para determinar los musculos afectados.",
+"El terapeuta hace las valoraciones inmediatamente despues de hacerle la prueba de rango de movimiento con todo cuidado.",
+"Aplica la valoracion funcional de la marcha (Gait) la cual es suficiente para determinar su plan de tratamiento."
+],
+"correct": 0,
+"rationale_correct": "¡Excelente! Un terapeuta asertivo registra y valora la condición del cliente, ayuda con rememoración y aplica valoración física.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero el terapeuta asertivo registra y valora la condición del cliente en cuanto a problemas físicos o sociales, le ayuda a hacer rememoración y le aplica valoración física.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q119",
+"category_id": "client_assessment",
+"question": "A la vez que el terapeuta hace la valoracion y evaluacion hay tres clases de preguntas que son parte del protocolo con el fin de recabar informacion relevante para el plan de tratamiento. Estas son las preguntas generales, las especificas y las enfocadas al dolor. Esta es una pregunta especifica:",
+"image": "N/A",
+"options": [
+"Prefiere una caminata al aire libre o el ejercicio aerobico?.",
+"Cual es la fecha cuando ocurrio el trauma o que dia empezaron los síntomas?.",
+"Tiene familiares que gustan de los tratamientos terapeuticos?.",
+"Exactamente donde siente el dolor?."
+],
+"correct": 1,
+"rationale_correct": "¡Excelente! Preguntar por la fecha del trauma o inicio de síntomas es una pregunta específica.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero la pregunta específica es cuál es la fecha cuando ocurrió el trauma o que día empezaron los síntomas.",
+"difficulty": "medium",
+"language": "es"
+},
+{
+"id": "q120",
+"category_id": "professional_practice",
+"question": "Cual es el motivo fundamental para que el terapeuta profesional efectua la valoracion personalmente y desarrolla su propio diagnostico como punto de partida aun cuando el cliente ha sido diagnosticado previamente?",
+"image": "N/A",
+"options": [
+"Para obtener las conclusiones propias en concordancia con su campo de accion.",
+"Para que el terapeuta actual obtenga su propia comprension y conocimiento de la condicion del cliente.",
+"Para que el terapeuta a traves de la experiencia propia obtenga las conclusiones objetivas de lo que observa directamente.",
+"Todas las respuestas son correctas"
+],
+"correct": 3,
+"rationale_correct": "¡Excelente! Todas las respuestas son correctas para la razón fundamental de realizar una valoración personal.",
+"rationale_incorrect": "No del todo. Elegiste [chosen option], pero todas las respuestas son correctas para el motivo fundamental de que el terapeuta efectúe la valoración personalmente.",
+"difficulty": "medium",
+"language": "es"
+}
+]

@@ -1,0 +1,14 @@
+# Claude Code workspace
+.claude/
+
+# Test files
+*-test.html
+force-test.html
+js-test.html
+test.html
+
+# Temporary files
+nul
+
+# Documentation (optional - uncomment to exclude)
+# *.md
