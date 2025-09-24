@@ -195,11 +195,13 @@ class UIManager {
     showTestScreenLoadingState() {
         const testButton = this.elements.buttons.test;
         if (testButton) {
+            // Store original content if not already stored
+            if (!testButton.dataset.originalContent) {
+                testButton.dataset.originalContent = testButton.innerHTML;
+            }
+
             testButton.disabled = true;
-            testButton.innerHTML = `
-                <div class="loading-spinner-inline"></div>
-                Loading Quiz...
-            `;
+            testButton.innerHTML = '🔄 Loading Quiz...';
         }
 
         // Show progress if possible
@@ -218,13 +220,13 @@ class UIManager {
         const testButton = this.elements.buttons.test;
         if (testButton) {
             testButton.disabled = false;
-            testButton.innerHTML = `
-                <div class="card-icon">📝</div>
-                <div class="card-content">
-                    <h3 data-translate="test-title">Practice Tests</h3>
-                    <p data-translate="test-description">Take MBLEX practice exams</p>
-                </div>
-            `;
+
+            // Restore original content if available, otherwise use default
+            if (testButton.dataset.originalContent) {
+                testButton.innerHTML = testButton.dataset.originalContent;
+            } else {
+                testButton.innerHTML = 'Take Practice Test';
+            }
         }
     }
 
@@ -234,14 +236,13 @@ class UIManager {
     showTestScreenErrorState(moduleResults) {
         const testButton = this.elements.buttons.test;
         if (testButton) {
+            // Store original content if not already stored
+            if (!testButton.dataset.originalContent) {
+                testButton.dataset.originalContent = testButton.innerHTML;
+            }
+
             testButton.disabled = false;
-            testButton.innerHTML = `
-                <div class="card-icon">⚠️</div>
-                <div class="card-content">
-                    <h3>Quiz Loading Failed</h3>
-                    <p>Click to retry</p>
-                </div>
-            `;
+            testButton.innerHTML = '⚠️ Quiz Failed - Click to Retry';
 
             // Add retry functionality
             const retryHandler = () => {
