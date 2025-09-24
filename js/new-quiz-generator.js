@@ -305,6 +305,9 @@ class QuizGenerator {
                     <div class="score-description">
                         ${this.getScoreDescription(percentage)}
                     </div>
+                    <div class="top-actions">
+                        <button id="newQuizFromResultsTop" class="btn-generate">🔄 Start New Quiz</button>
+                    </div>
                 </div>
 
                 <div class="question-review">
@@ -334,12 +337,16 @@ class QuizGenerator {
                 </div>
 
                 <div class="results-actions">
-                    <button id="newQuizFromResults" class="btn-generate">🔄 Generate New Quiz</button>
+                    <button id="newQuizFromResults" class="btn-generate">🔄 Start New Quiz</button>
                 </div>
             </div>
         `;
 
-        // Add event listener for new quiz button
+        // Add event listeners for both new quiz buttons
+        document.getElementById('newQuizFromResultsTop').addEventListener('click', () => {
+            this.resetQuiz();
+        });
+
         document.getElementById('newQuizFromResults').addEventListener('click', () => {
             this.resetQuiz();
         });
